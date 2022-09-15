@@ -9,6 +9,7 @@
 * [Proof of stake. Ethereum docs](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 * [Proof of stake. Binance Academy](https://academy.binance.com/ru/articles/proof-of-stake-explained)
 * [Proof of Work (PoW) или Proof of Stake (PoS)](https://academy.binance.com/ru/articles/proof-of-work-vs-proof-of-stake)
+* [Разъяснение Delegated Proof of Stake](https://academy.binance.com/ru/articles/delegated-proof-of-stake-explained)
 
 
 Вопросы:
