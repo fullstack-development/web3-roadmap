@@ -3,7 +3,7 @@
 Материалы:
 
 * [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/)
-* Дерево Меркла [https://forklog.com/cryptorium/chto-takoe-derevo-merkla/]
+* [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/)
 
 Вопросы:
 
