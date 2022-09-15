@@ -21,5 +21,21 @@
 
 Вопросы:
 
-* Что такое consensys?
-* 
+* What is consensus mechanism? Why is it needed?
+* What problem is solved by consensus mechanism?
+* Should it be provably secure? Can you describe common attacks?
+* What is Proof-of-Work?
+* What is the probability of miner to be selected as the leader which mines the block?
+* How does (leader) miner selection happen?
+* How does chain selection happen (how to choose correct chain between forks)?
+* What are pros and cons of PoW?
+* What is a mining pool?
+* What is Proof-of-Stake?
+* Is PoW not enough for consensus to work? Why does PoS exist?
+* What is the probability of miner to be selected as the leader which mines the block?
+* How does leader selection happen?
+* How does chain selection happen (how to choose correct chain between forks)?
+* What are pros and cons of PoS?
+* What is a stake pool?
+* What are differences between PoW & PoS? Do other consensus mechanisms exist?
+* What are differences between stake & mining pools?
