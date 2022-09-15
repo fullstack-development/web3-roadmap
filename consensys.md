@@ -6,8 +6,8 @@
 * [What is Proof of Work? (Cryptocurrency Explanation)](https://www.youtube.com/watch?v=XLcWy1uV8YM)
 * [Что такое алгоритм Proof-of-Work (PoW)?](https://forklog.com/cryptorium/chto-takoe-proof-of-work-i-proof-of-stake/)
 * [What is Proof of Stake?](https://www.youtube.com/watch?v=M3EFi_POhps)
-* [Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-* [Proof of stake](https://academy.binance.com/ru/articles/proof-of-stake-explained)
+* [Proof of stake. Ethereum docs](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+* [Proof of stake. Binance Academy](https://academy.binance.com/ru/articles/proof-of-stake-explained)
 * [Proof of Work (PoW) или Proof of Stake (PoS)](https://academy.binance.com/ru/articles/proof-of-work-vs-proof-of-stake)
 
 
