@@ -3,6 +3,7 @@
 Материалы:
 
 * [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/)
+* [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/)
 
 Вопросы:
