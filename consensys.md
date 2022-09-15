@@ -2,7 +2,8 @@
 
 Материалы:
 
-* [How Does Distributed Consensus Work?](https://medium.com/@preethikasireddy/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
+* [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d)
+* [What is Proof of Work? (Cryptocurrency Explanation)](https://www.youtube.com/watch?v=XLcWy1uV8YM)
 
 
 Вопросы:
