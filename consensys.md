@@ -12,7 +12,7 @@
 * [Что такое Ethereum Casper?](https://academy.binance.com/ru/articles/ethereum-casper-explained)
 * [Переход Ethereum на Proof-of-Stake (PoS): все, что нужно знать](https://forklog.com/cryptorium/perehod-ethereum-na-proof-of-stake-pos-vse-chto-nuzhno-znat/)
 * [Proof of Work (PoW) или Proof of Stake (PoS). Binance Academy](https://academy.binance.com/ru/articles/proof-of-work-vs-proof-of-stake)
-* [Delegated Proof of Stake](https://www.youtube.com/watch?v=KG9_U2IYmuc))
+* [Delegated Proof of Stake](https://www.youtube.com/watch?v=KG9_U2IYmuc)
 * [Proof of Authority](https://www.youtube.com/watch?v=rjsaa0tJ8Cw)
 * [Разъяснение работы Delayed Proof of Work](https://academy.binance.com/ru/articles/delayed-proof-of-work-explained)
 * [Proof of History Explained](https://www.youtube.com/watch?v=A5G_FJpzKtk)
