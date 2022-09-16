@@ -6,6 +6,7 @@
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/)
 * [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/)
+* [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/)
 
 Вопросы:
 
@@ -22,3 +23,4 @@
 * Что произойдет если два майнера решат задачу одновременно?
 * Что такое атака 51%?
 * Что такое хеш-рейт?
+* Что такое халвинг?
