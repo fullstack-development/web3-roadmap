@@ -3,7 +3,6 @@
 Материалы:
 
 * [Crypto Coin vs. Token: Understanding the Difference](https://blog.liquid.com/coin-vs-token)
-* стандарты
 * [ERC20 tokens - Simply Explained](https://www.youtube.com/watch?v=cqZhNzZoMh8&t=62s)
 * [Что такое токены ERC-20?](https://forklog.com/cryptorium/chto-takoe-tokeny-erc-20/)
 * [The Different Types of Cryptocurrency Tokens Explained](https://blog.makerdao.com/the-different-types-of-cryptocurrency-tokens-explained/)
