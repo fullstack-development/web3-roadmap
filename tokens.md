@@ -2,7 +2,7 @@
 
 Материалы:
 
-* отличия coin от token
+* [Crypto Coin vs. Token: Understanding the Difference](https://blog.liquid.com/coin-vs-token)
 * стандарты
 * [ERC20 tokens - Simply Explained](https://www.youtube.com/watch?v=cqZhNzZoMh8&t=62s)
 * типы токенов
