@@ -10,4 +10,6 @@
   - [Tokenomics](tokenomics.md)
     * Base mechanics: minting, burning, staking
     * Distribution models
+      - [ICO](ico.md)
+      - [IDO](ido.md)
 
