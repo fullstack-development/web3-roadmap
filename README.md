@@ -8,7 +8,7 @@
 * [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
-    * Base mechanics: minting, burning, staking
+    * [Base mechanics: minting, burning, staking](token_mechanics.md)
     * Distribution models
       - [ICO](ico.md)
       - [IDO](ido.md)
