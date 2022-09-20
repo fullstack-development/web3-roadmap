@@ -9,7 +9,7 @@
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
     * [Base mechanics: minting, burning, staking](token_mechanics.md)
-    * Distribution models
+    * [Distribution models](distribution.md)
       - [ICO](ico.md)
       - [IDO](ido.md)
       - [STO](sto.md)
