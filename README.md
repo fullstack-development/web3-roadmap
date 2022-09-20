@@ -8,5 +8,5 @@
   - [Crypto-wallets](wallets.md)
 * [DEFI introduction](defi.md)
   - [Tokens and types](tokens.md)
-  - [Tokenomics.md](tokenomics.md)
+  - [Tokenomics](tokenomics.md)
 
