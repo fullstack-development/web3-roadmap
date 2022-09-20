@@ -6,7 +6,7 @@
   - [Ethereum и смарт-контракты](ethereum.md)
   - [Consensys](consensys.md)
   - [Crypto-wallets](wallets.md)
-* [DEFI introduction](defi.md)
+* [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
 
