@@ -7,6 +7,6 @@
   - [Consensys](consensys.md)
   - [Crypto-wallets](wallets.md)
 * [DEFI introduction](defi.md)
-  - [Tokens and types](tokens.md)
+  - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
 
