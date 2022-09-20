@@ -9,4 +9,6 @@
 * [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
+    * Base mechanics: minting, burning, staking
+    * Distribution models
 
