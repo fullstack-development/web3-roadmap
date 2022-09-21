@@ -3,6 +3,7 @@
 Материалы:
 * [Tokenomics / The Core of Every Crypto Project](https://www.youtube.com/watch?v=uA40CSoxoDY)
 * [What is Tokenomics? Understanding Crypto Fundamentals](https://www.youtube.com/watch?v=NOjST7ny4oY)
+* [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
 
 
 Вопросы:
