@@ -13,3 +13,7 @@
 * Что такое token supply? Что такое circullation supply? Что такое total supply? Что такое max. supply?
 * Что такое marketcap? Как он считается?
 * Что такое Deflationary и Inflationary token model types?
+
+Задания:
+
+* Дать пару токенов разобрать их токеномику: метрики, whitepaper, дистрибуцию и полезность.
