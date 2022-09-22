@@ -13,4 +13,5 @@
       - [ICO](ico.md)
       - [IDO](ido.md)
       - [STO](sto.md)
+      - [Airdrops](airdrops.md)
 
