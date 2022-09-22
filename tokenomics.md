@@ -4,7 +4,10 @@
 * [Tokenomics / The Core of Every Crypto Project](https://www.youtube.com/watch?v=uA40CSoxoDY)
 * [What is Tokenomics? Understanding Crypto Fundamentals](https://www.youtube.com/watch?v=NOjST7ny4oY)
 * [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
-* [Cryptoeconomics Is Hard](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9)
+* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
+* [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
+* [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
+* [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
 
 Вопросы:
