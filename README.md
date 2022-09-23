@@ -11,6 +11,7 @@
     * [Base mechanics: minting, burning, staking](token_mechanics.md)
     * [Distribution models](distribution.md)
       - [ICO](ico.md)
+      - [IEO)(ieo.md)
       - [IDO](ido.md)
       - [STO](sto.md)
       - [Airdrops](airdrops.md)
