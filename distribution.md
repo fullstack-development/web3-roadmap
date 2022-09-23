@@ -11,6 +11,7 @@
 * [Defining Good and Bad Project Tokenomics](https://daolaunch.net/defining-good-and-bad-project-tokenomics/)
 * [Token Vesting and Allocations Industry Benchmarks](https://www.liquifi.finance/post/token-vesting-and-allocation-benchmarks)
 * [The Science Of A Successful Token Sale: How To Nail Your ICO Tokenomics](https://maxya.mp/the-science-of-a-successful-token-sale-how-to-nail-your-ico-tokenomics)
+* [Token Vesting: The Ultimate Guide to Establish Vesting For Tokenomics](https://hackernoon.com/token-vesting-the-ultimate-guide-to-establish-vesting-for-tokenomics)
 
 
 Вопросы:
