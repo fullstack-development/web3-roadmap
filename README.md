@@ -15,4 +15,5 @@
       - [IDO](ido.md)
       - [STO](sto.md)
       - [Airdrops](airdrops.md)
+      - [Valuation](valuation.md)
 
