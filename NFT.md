@@ -25,7 +25,7 @@
 
 </aside>
 
-![Untitled](NFT%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%206bbf26abf47848dcb76385299795a916/Untitled.png)
+![Cryptokitties](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4913d4f9-eb4a-4055-97d6-5f3f372046b6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220929T093410Z&X-Amz-Expires=86400&X-Amz-Signature=b0ce6dd01873c9243647744bfeca9b4739ea3113fb4d4b46e97d58264d5b9fdd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ## **Зачем нужны NFT**
 
