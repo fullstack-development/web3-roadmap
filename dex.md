@@ -22,7 +22,6 @@
 Доп. материалы:
 
 * [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained](https://www.youtube.com/watch?v=cizLhxSKrAc&t=3s)
-* [Невидимый налог в Ethereum: что такое MEV и как ему противостоять](https://forklog.com/exclusive/nevidimyj-nalog-v-ethereum-chto-takoe-mev-i-kak-emu-protivostoyat/)
 * rug pulls
 * [What is a Rug Pull in Crypto? (Meaning + 3 Examples)](https://www.youtube.com/watch?v=YFaqng3YESE)
 * 
