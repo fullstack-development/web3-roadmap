@@ -5,6 +5,7 @@
 
 * [What is a DEX?](https://www.coinbase.com/ru/learn/crypto-basics/what-is-a-dex)
 * [Что такое децентрализованная биржа (DEX)?](https://forklog.com/cryptorium/chto-takoe-detsentralizovannye-birzhi-dex/)
+* [What Is a Decentralized Exchange (DEX)?](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex#automated-market-makers-amm)
 
 * Uniswap
 * 1inch
