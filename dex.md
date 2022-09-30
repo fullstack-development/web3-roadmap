@@ -21,9 +21,8 @@
 * [Uniswap V3 – New Era Of AMMs?](https://finematics.com/uniswap-v3-explained/)
 * [Uniswap whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 
-
-* 
-* 1inch
 * [What is Sushiswap? (Animated) Sushi Token + Kashi + Miso Explained](https://www.youtube.com/watch?v=NTYbVnENeVo)
 * [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained)](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
+
+* [Полная инструкция по 1inch](https://www.youtube.com/watch?v=UeOxYFbGKhk)
 * 0x
