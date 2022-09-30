@@ -10,6 +10,7 @@
 * Uniswap
 * 1inch
 * Sushiswap
+* 0x
 
 
 Доп. материалы:
