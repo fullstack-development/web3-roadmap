@@ -19,4 +19,6 @@
   - Exchanges
     * [CEX](cex.md)
     * [DEX](dex.md)
+    * [Impermanent loss](impermanent-loss.md)
+    * [Vampire attack](vampire.md)
 
