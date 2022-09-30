@@ -16,6 +16,7 @@
       - [STO](sto.md)
       - [Airdrops](airdrops.md)
       - [Valuation](valuation.md)
-  - [CEX](cex.md)
-  - [DEX](dex.md)
+  - Exchanges
+    * [CEX](cex.md)
+    * [DEX](dex.md)
 
