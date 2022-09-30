@@ -11,7 +11,7 @@
 * [What is a Liquidity Pool in Crypto? (Animated)](https://www.youtube.com/watch?v=dVJzcFDo498)
 * [The Evolution, Attack, and Future of DEX](https://blog.dodoex.io/the-evolution-attack-and-future-of-dex-53392064865d)
 
-* [What is an Automated Market Maker? (Liquidity Pool Algorithm)](https://www.youtube.com/watch?v=1PbZMudPP5E
+* [What is an Automated Market Maker? (Liquidity Pool Algorithm)](https://www.youtube.com/watch?v=1PbZMudPP5E)
 
 * [What is Uniswap - A Beginner's Guide](https://www.youtube.com/watch?v=dIneNZTnFMw)
 * [What is Uniswap? (Animated) Decentralized Exchange + UNI Token](https://www.youtube.com/watch?v=DLu35sIqVTM)
