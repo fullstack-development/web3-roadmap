@@ -22,9 +22,6 @@
 Доп. материалы:
 
 * [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained](https://www.youtube.com/watch?v=cizLhxSKrAc&t=3s)
-* [What Is IMPERMANENT LOSS? DEFI Explained - Uniswap, Curve, Balancer, Bancor](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
-* [What is Impermanent Loss in Crypto? (Animated + Examples)](https://www.youtube.com/watch?v=_m6Mowq3Ptk)
-* [6 Ways to Avoid Impermanent Loss (Crypto Liquidity Pools)](https://www.youtube.com/watch?v=oyriORaeJOw)
 * [Невидимый налог в Ethereum: что такое MEV и как ему противостоять](https://forklog.com/exclusive/nevidimyj-nalog-v-ethereum-chto-takoe-mev-i-kak-emu-protivostoyat/)
 * rug pulls
 * [What is a Rug Pull in Crypto? (Meaning + 3 Examples)](https://www.youtube.com/watch?v=YFaqng3YESE)
