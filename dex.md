@@ -16,6 +16,7 @@
 
 * [What is Uniswap - A Beginner's Guide](https://www.youtube.com/watch?v=dIneNZTnFMw)
 * [What is Uniswap? (Animated) Decentralized Exchange + UNI Token](https://www.youtube.com/watch?v=DLu35sIqVTM)
+* [A Short Story of UNISWAP and UNI Token. DEFI Explained](https://www.youtube.com/watch?v=LpjMgS4OVzs)
 * [Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3)
 * [Uniswap V3 Explained - Concentrated Liquidity, NFT LP Tokens, Licensing…](https://www.youtube.com/watch?v=ClWR1570UQw)
 * [Uniswap V3 – New Era Of AMMs?](https://finematics.com/uniswap-v3-explained/)
