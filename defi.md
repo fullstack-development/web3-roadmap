@@ -10,6 +10,11 @@
 * [Key DeFi Ecosystem Problems, Explained](https://cointelegraph.com/explained/key-defi-ecosystem-problems-explained)
 
 
+
 Вопросы:
 
 * Что такое TVL?
+
+Задания:
+
+* Найдите на [defillama.com](https://defillama.com/) текущий TVL для Uniswap.
