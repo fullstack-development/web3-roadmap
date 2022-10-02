@@ -15,7 +15,7 @@
       - [IDO](ido.md)
       - [STO](sto.md)
       - [Airdrops](airdrops.md)
-      - [Valuation](valuation.md)
+    * [Valuation](valuation.md)
   - Exchanges & trading
     * [CEX & Trading](trading.md)
     * [DEX](dex.md)
