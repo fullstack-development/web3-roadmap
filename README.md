@@ -16,4 +16,12 @@
       - [STO](sto.md)
       - [Airdrops](airdrops.md)
       - [Valuation](valuation.md)
+  - Exchanges
+    * [CEX](cex.md)
+    * [DEX](dex.md)
+    * [Impermanent loss](impermanent-loss.md)
+    * [Vampire attack](vampire.md)
+    * [Rug pulls](rug-pulls.md)
+    * [MEV](mev.md)
+    
 

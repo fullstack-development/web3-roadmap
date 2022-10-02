@@ -17,6 +17,7 @@
 * [What Are Governance Tokens?](https://www.youtube.com/watch?v=rIgpEaLLINI)
 * [What Are Governance Tokens?](https://crypto.com/university/what-are-governance-tokens)
 * [What Are Wrapped Tokens?](https://academy.binance.com/en/articles/what-are-wrapped-tokens)
+* [What are Wrapped Tokens - Explained in Detail (Animation)](https://www.youtube.com/watch?v=SjdJWr8hgRY)
 
 Вопросы:
 
