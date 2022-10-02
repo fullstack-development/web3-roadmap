@@ -1,29 +1,27 @@
 # Trading
+
+
 Материалы : 
 
-*[Технический анализ] (https://academy.binance.com/ru/articles/what-is-technical-analysis)
-*[Японские  свечи] (https://telegra.ph/YAponskie-Svechi-03-03)
-*[Биржевой стакан] (https://telegra.ph/Stakan-04-23)
-*[Уровни Поддержки и Сопротивления] (https://telegra.ph/Urovni-podderzhki-i-soprotivleniya-02-21)
-*[Линии Тренда] (https://telegra.ph/Linii-Trenda-02-15)
-*[Разъяснение Средней Скользящей] (https://academy.binance.com/ru/articles/moving-averages-explained)
-*[Волновая теория Эллиотта] (https://academy.binance.com/ru/articles/an-introduction-to-the-elliott-wave-theory)
-*[Уровни Фибоначчи] (https://telegra.ph/Fibonachchi-03-02)
-*[Паттерны часть.1 ] (https://telegra.ph/Figury-Patterny-02-13)
-*[Паттерны часть.2 ] (https://telegra.ph/Figury-Patterny-ch2-02-14)
-*[Вертикальные объемы] (https://telegra.ph/Obyomy-ch1-Vertikalnye-obemy-01-22)
-*[Горизонтальный объем] (https://telegra.ph/Gorizontalnyj-obem-02-07)
-*[Risk Reward] (https://telegra.ph/Risk-Reward-01-21)
-*[Risk Management] (https://telegra.ph/Figury-Patterny-ch2-02-14)
-*[ПЛЕЧО и ROE] (https://telegra.ph/PLECHO-i-ROE-01-22)
-*[Money Management] (https://telegra.ph/Money-Management-01-22)
-*[Боковик] (https://telegra.ph/Bokovik-03-03)
-*[Торговая стратегия] (https://telegra.ph/Torgovaya-strategiya-03-31)
-*[Вайкофф] (https://telegra.ph/Vajkoff-06-23)
-
-
-
-
+* [Технический анализ](https://academy.binance.com/ru/articles/what-is-technical-analysis)
+* [Японские  свечи](https://telegra.ph/YAponskie-Svechi-03-03)
+* [Биржевой стакан](https://telegra.ph/Stakan-04-23)
+* [Уровни Поддержки и Сопротивления](https://telegra.ph/Urovni-podderzhki-i-soprotivleniya-02-21)
+* [Линии Тренда](https://telegra.ph/Linii-Trenda-02-15)
+* [Разъяснение Средней Скользящей](https://academy.binance.com/ru/articles/moving-averages-explained)
+* [Волновая теория Эллиотта](https://academy.binance.com/ru/articles/an-introduction-to-the-elliott-wave-theory)
+* [Уровни Фибоначчи](https://telegra.ph/Fibonachchi-03-02)
+* [Паттерны часть.1 ](https://telegra.ph/Figury-Patterny-02-13)
+* [Паттерны часть.2 ](https://telegra.ph/Figury-Patterny-ch2-02-14)
+* [Вертикальные объемы](https://telegra.ph/Obyomy-ch1-Vertikalnye-obemy-01-22)
+* [Горизонтальный объем](https://telegra.ph/Gorizontalnyj-obem-02-07)
+* [Risk Reward](https://telegra.ph/Risk-Reward-01-21)
+* [Risk Management](https://telegra.ph/Figury-Patterny-ch2-02-14)
+* [ПЛЕЧО и ROE](https://telegra.ph/PLECHO-i-ROE-01-22)
+* [Money Management](https://telegra.ph/Money-Management-01-22)
+* [Боковик](https://telegra.ph/Bokovik-03-03)
+* [Торговая стратегия](https://telegra.ph/Torgovaya-strategiya-03-31)
+* [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 
 
 Дополнительные материалы:
