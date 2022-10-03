@@ -1,5 +1,6 @@
 # NFT. Теория
 
+[Библя NFT (перевод статьи с OpenSea)] (https://incrypted.com/nft-bibliya-opensea-perevod/)
 
 
 
@@ -20,7 +21,7 @@
 
 После регистрации, на главной странице указать свой адрес кошелька в сети Rinkeby. 
 
-![ringebyscreen](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e06d7ba-f8af-49ab-8fb1-1b742cf39416/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220929T094222Z&X-Amz-Expires=86400&X-Amz-Signature=7c68998860e40f3c78067a4f5a2065d7996ae7992b369fa2a841efdd04aad8dc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![rincebyscreen](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e06d7ba-f8af-49ab-8fb1-1b742cf39416/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220929T094222Z&X-Amz-Expires=86400&X-Amz-Signature=7c68998860e40f3c78067a4f5a2065d7996ae7992b369fa2a841efdd04aad8dc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Проверяем кошелёк, и, если все успешно, идем на самый крупный NFT-маркетплейс OpenSea, а точнее на его тестовую страницу [https://testnets.opensea.io/](https://testnets.opensea.io/)
 
