@@ -10,6 +10,7 @@
 * [What is a DEX? How A Decentralized Exchange Works](https://www.youtube.com/watch?v=2tTVJL4bpTU)
 * [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained](https://www.youtube.com/watch?v=cizLhxSKrAc&t=3s)
 * [What is a Liquidity Pool in Crypto? (Animated)](https://www.youtube.com/watch?v=dVJzcFDo498)
+* [What Are Liquidity Pool (LP) Tokens?](https://academy.binance.com/en/articles/what-are-liquidity-pool-lp-tokens)
 * [The Evolution, Attack, and Future of DEX](https://blog.dodoex.io/the-evolution-attack-and-future-of-dex-53392064865d)
 
 * [What is an Automated Market Maker? (Liquidity Pool Algorithm)](https://www.youtube.com/watch?v=1PbZMudPP5E)
