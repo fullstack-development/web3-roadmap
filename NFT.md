@@ -1,8 +1,8 @@
 # NFT. Теория
 
 [Библя NFT (перевод статьи с OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
-
-
+[Soulbound token. Зачем он нужен и в чем отличие от NFT](https://forklog.com/cryptorium/chto-takoe-soulbound-tokeny-i-v-chem-ih-otlichiya-ot-nft/)
+[Субмарининг NFT](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
 ---
 # NFT. Практика
