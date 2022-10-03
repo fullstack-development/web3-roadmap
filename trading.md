@@ -3,6 +3,7 @@
 
 Материалы : 
 * [Полное руководство по торговле криптовалютой для начинающих](https://academy.binance.com/ru/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners)
+* [Что такое спред и проскальзывание](https://academy.binance.com/ru/articles/bid-ask-spread-and-slippage-explained
 * [Технический анализ](https://academy.binance.com/ru/articles/what-is-technical-analysis)
 * [Японские  свечи](https://telegra.ph/YAponskie-Svechi-03-03)
 * [Биржевой стакан](https://telegra.ph/Stakan-04-23)
