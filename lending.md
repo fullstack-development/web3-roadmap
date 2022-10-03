@@ -19,6 +19,9 @@
   - [What’s MakerDAO and what’s going on with it? Explained with pictures](https://hackernoon.com/whats-makerdao-and-what-s-going-on-with-it-explained-with-pictures-f7ebf774e9c2)
   - [Maker whitepaper](https://makerdao.com/en/whitepaper/#abstract)
 * TrueFi
+  - [Introducing TrueFi, the DeFi Protocol for Uncollateralized Lending](https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48) 
+  - [TrueFi EXPLAINED - UNCOLLATERALIZED DeFi/CeFi Lending!](https://www.youtube.com/watch?v=xjC99q_UaZ4)
+* [Unit protocol](https://docs.unit.xyz/)
 
 
 Вопросы:
