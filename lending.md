@@ -9,6 +9,7 @@
 * [Что такое процентная ставка](https://academy.binance.com/ru/articles/interest-rates-explained)
 * [Что такое Aave?](https://forklog.com/cryptorium/chto-takoe-aave/)
 * [What is AAVE? (Animated) Crypto Borrowing and Lending Explained](https://www.youtube.com/watch?v=dTCwssZ116A)
+* [What is Aave Explained? (Aave DeFi Lending Tutorial)](https://www.youtube.com/watch?v=PYSYOn-wfow)
 * [Что такое Compound (COMP)?](https://forklog.com/cryptorium/chto-takoe-compound/)
 * MakerDAO
 
