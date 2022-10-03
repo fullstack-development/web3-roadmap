@@ -17,6 +17,7 @@
       - [Airdrops](airdrops.md)
     * [Valuation](valuation.md)
   - Exchanges & trading
+    * [Economics](economics.md)
     * [CEX & Trading](trading.md)
     * [DEX](dex.md)
       - [Impermanent loss](impermanent-loss.md)
