@@ -25,5 +25,6 @@
       - [Rug pulls](rug-pulls.md)
       - [MEV](mev.md)
   - [Lending & Borrowing](lending.md)
+    * [Flash loans](flash.md)
     
 
