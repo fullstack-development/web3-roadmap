@@ -23,6 +23,6 @@
       - [Vampire attack](vampire.md)
       - [Rug pulls](rug-pulls.md)
       - [MEV](mev.md)
-  - Lending & Borrowing
+  - [Lending & Borrowing](lending.md)
     
 
