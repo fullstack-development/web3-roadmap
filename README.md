@@ -24,8 +24,9 @@
       - [Vampire attack](vampire.md)
       - [Rug pulls](rug-pulls.md)
       - [MEV](mev.md)
-  - [Lending & Borrowing](lending.md)
+  - [Lending & Borrowing & Vaults](lending.md)
     * [Flash loans](flash.md)
     * [Yield farming](yield.md)
+    * [Vaults](vaults.md)
     
 
