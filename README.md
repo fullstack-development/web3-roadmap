@@ -26,5 +26,6 @@
       - [MEV](mev.md)
   - [Lending & Borrowing](lending.md)
     * [Flash loans](flash.md)
+    * [Yield farming](yield.md)
     
 
