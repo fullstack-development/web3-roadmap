@@ -1,6 +1,6 @@
 # NFT. Теория
 
-[Библя NFT (перевод статьи с OpenSea)] (https://incrypted.com/nft-bibliya-opensea-perevod/)
+[Библя NFT (перевод статьи с OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
 
 
 
