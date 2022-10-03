@@ -15,6 +15,7 @@
   - [Что такое Compound (COMP)?](https://forklog.com/cryptorium/chto-takoe-compound/)
   - [Compound whitepaper](https://compound.finance/documents/Compound.Whitepaper.pdf)
 * MakerDAO
+* TrueFi
 
 
 Вопросы:
