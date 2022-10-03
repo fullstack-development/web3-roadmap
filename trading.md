@@ -6,6 +6,14 @@
 * [Что такое спред и проскальзывание](https://academy.binance.com/ru/articles/bid-ask-spread-and-slippage-explained)
 * [Руководство по фундаментальному анализу криптовалют](https://academy.binance.com/ru/articles/a-guide-to-cryptocurrency-fundamental-analysis?UTM=BinanceAcademy)
 * [Технический анализ](https://academy.binance.com/ru/articles/what-is-technical-analysis)
+
+
+* [Что такое анализ настроений на рынке криптовалют?](https://academy.binance.com/ru/articles/what-is-crypto-market-sentiment)
+* [Медвежий рынок – что это?](https://academy.binance.com/ru/articles/what-is-a-bear-market)
+* [Что такое бычий рынок](https://academy.binance.com/ru/articles/what-is-a-bull-market)
+
+
+
 * [Японские  свечи](https://telegra.ph/YAponskie-Svechi-03-03)
 * [Биржевой стакан](https://telegra.ph/Stakan-04-23)
 * [Уровни Поддержки и Сопротивления](https://telegra.ph/Urovni-podderzhki-i-soprotivleniya-02-21)
