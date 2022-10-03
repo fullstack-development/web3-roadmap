@@ -17,11 +17,15 @@
       - [Airdrops](airdrops.md)
     * [Valuation](valuation.md)
   - Exchanges & trading
+    * [Economics](economics.md)
     * [CEX & Trading](trading.md)
     * [DEX](dex.md)
       - [Impermanent loss](impermanent-loss.md)
       - [Vampire attack](vampire.md)
       - [Rug pulls](rug-pulls.md)
       - [MEV](mev.md)
+  - [Lending & Borrowing](lending.md)
+    * [Flash loans](flash.md)
+    * [Yield farming](yield.md)
     
 

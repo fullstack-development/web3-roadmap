@@ -27,5 +27,7 @@
 
 * [What is Sushiswap? (Animated) Sushi Token + Kashi + Miso Explained](https://www.youtube.com/watch?v=NTYbVnENeVo)
 * [SUSHI - Most Underrated Protocol in DeFi? (BentoBox, Kashi, Miso Explained)](https://www.youtube.com/watch?v=Cbtvc8Eso_g)
+* [Что такое Curve Finance (CRV)? Обзор с анимацией](https://www.youtube.com/watch?v=QWBcqeD_sqc)
+* [Что такое Curve?](https://forklog.com/cryptorium/chto-takoe-curve/)
 
 * [Полная инструкция по 1inch](https://www.youtube.com/watch?v=UeOxYFbGKhk)
