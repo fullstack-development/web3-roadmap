@@ -7,6 +7,7 @@
 * [What is a Cryptocurrency Mixer?](https://www.youtube.com/watch?v=_RS-OuDYXBc)
 * [Protect Your Blockchain Identity | Tornado Cash Tutorial](https://www.youtube.com/watch?v=vytsfgbyi88)
 * [Tornado Cash - How it Works | DeFi + Zero Knowledge Proof](https://www.youtube.com/watch?v=z_cRicXX1jI)
+* [How does Tornado Cash work?](https://www.coincenter.org/education/advanced-topics/how-does-tornado-cash-work/)
 
 Доп. материалы:
 
