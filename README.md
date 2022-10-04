@@ -39,6 +39,7 @@
     * [Flash loans](flash.md)
     * [Yield farming](yield.md)
     * [Vaults](vaults.md)
+  - [Mixers](mixers.md)
 * Development
   - [The graph](graph.md)
 
