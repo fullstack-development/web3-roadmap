@@ -10,3 +10,4 @@
 * [What Are Blockchain Oracles & Why Do We Need Them?](https://learn.bybit.com/blockchain/what-are-blockchain-oracles/)
 * [What is a blockchain oracle, and how does it work?](https://cointelegraph.com/blockchain-for-beginners/what-is-a-blockchain-oracle-and-how-does-it-work)
 * [Blockchain Oracles Explained](https://academy.binance.com/ru/articles/blockchain-oracles-explained)
+* [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841)
