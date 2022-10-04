@@ -6,6 +6,7 @@
 * [What is a Bitcoin Tumbler? (Legality + Examples)](https://www.youtube.com/watch?v=LxnC8eFCOFA)
 * [What is a Cryptocurrency Mixer?](https://www.youtube.com/watch?v=_RS-OuDYXBc)
 * [Protect Your Blockchain Identity | Tornado Cash Tutorial](https://www.youtube.com/watch?v=vytsfgbyi88)
+* [Tornado Cash - How it Works | DeFi + Zero Knowledge Proof](https://www.youtube.com/watch?v=z_cRicXX1jI)
 
 Доп. материалы:
 
