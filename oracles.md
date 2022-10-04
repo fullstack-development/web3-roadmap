@@ -9,3 +9,4 @@
 * [What Is a Blockchain Oracle? What Is the Oracle Problem? | Chainlink Engineering Tutorials](https://www.youtube.com/watch?v=ZJfkNzyO7-U)
 * [What Are Blockchain Oracles & Why Do We Need Them?](https://learn.bybit.com/blockchain/what-are-blockchain-oracles/)
 * [What is a blockchain oracle, and how does it work?](https://cointelegraph.com/blockchain-for-beginners/what-is-a-blockchain-oracle-and-how-does-it-work)
+* [Blockchain Oracles Explained](https://academy.binance.com/ru/articles/blockchain-oracles-explained)
