@@ -6,6 +6,8 @@
 
 [Субмарининг NFT](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
+[Обзор популярных NFT маркетплейсов](https://www.youtube.com/watch?v=u25Zk2lbMf8)
+
 ---
 # NFT. Практика
 
