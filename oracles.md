@@ -13,3 +13,6 @@
 * [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841)
 * [Overview: Blockchain Oracles](https://medium.com/momentum6/overview-blockchain-oracles-21007df8ea48)
 * [WHAT ARE ORACLES IN BLOCKCHAIN?](https://www.horizen.io/blockchain-academy/technology/advanced/blockchain-oracle/)
+* [Blockchain Oracles Explained](https://coin98.net/what-is-blockchain-oracle)
+* [A Study of Blockchain Oracles](https://arxiv.org/pdf/2004.07140.pdf)
+* [chain.link](https://chain.link/use-cases)
