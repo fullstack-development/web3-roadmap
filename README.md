@@ -11,7 +11,9 @@
     * [Solana](solana.md)
     * [EVM compatible blockchains](evm.md)
     * [Bridges](bridges.md)
-    * [L2](l2.md)
+    * Scallability
+      - [Layer 1](l1.md)
+      - [Layer 2: Rollups, sidechains, lightning networks](l2.md)
     * [Parachains](parachains.md)
     * [Zero knowledge proof](zero.md)
     * [Other blockchains](other-blockchains.md)
