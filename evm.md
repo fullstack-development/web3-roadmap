@@ -7,7 +7,8 @@
 * BSC
   - [Binance Smart Chain And CeDeFi Explained](https://www.youtube.com/watch?v=iJDoc0kvXLc)
 * Avalance
-* 
+  - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
+  - [Что такое Avalanche (AVAX)?](https://forklog.com/cryptorium/chto-takoe-avalanche/)
 * Fantom
 * 
 * Tron
