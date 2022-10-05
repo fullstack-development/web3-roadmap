@@ -9,6 +9,7 @@
 * Avalance
   - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
   - [Что такое Avalanche (AVAX)?](https://forklog.com/cryptorium/chto-takoe-avalanche/)
+  - [A Quick Overview of Avalanche (AVAX) and Why You Should Be Paying Attention](https://cryptoseq.medium.com/a-quick-overview-of-avalanche-avax-and-why-you-should-be-paying-attention-612278598da2)
   - [DefiLlama](https://defillama.com/chain/Avalanche)
 * Fantom
 * 
