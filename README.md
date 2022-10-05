@@ -30,6 +30,7 @@
   - Exchanges & trading
     * [Economics](economics.md)
     * [CEX & Trading](trading.md)
+      - [Arbitrage](arbitrage.md)
     * [DEX](dex.md)
       - [Impermanent loss](impermanent-loss.md)
       - [Vampire attack](vampire.md)
