@@ -7,6 +7,7 @@
 * [What is a Crypto Wallet? A Beginner’s Guide](https://crypto.com/university/crypto-wallets)
 * [Что такое Metamask – обзор кошелька](https://vc.ru/u/903848-egor-polyanskiy/326240-chto-takoe-metamask-obzor-koshelka)
 * [Как отменить или заменить неподтвержденную транзакцию](https://academy.binance.com/ru/articles/how-to-cancel-or-replace-a-pending-ethereum-transaction)
+* [Как пользоваться WalletConnect](https://academy.binance.com/ru/articles/how-to-use-walletconnect)
 
 
 Вопросы:
