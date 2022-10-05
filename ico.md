@@ -13,6 +13,8 @@
   - [The Evolution of Crypto Fundraising: IDO as an Alternative?](https://hackernoon.com/the-evolution-of-crypto-fundraising-ido-as-an-alternative)
   - [Can IDOs #RightTheWrongs of ICOs and IEOs?](https://hackernoon.com/can-idos-rightthewrongs-of-icos-and-ieos-vx1s35on)
   - [All About Initial DEX Offerings and Why They Matter](https://hackernoon.com/all-about-initial-dex-offerings-and-why-they-matter)
+* STO
+  - [What is an STO? Security Token Offering](https://www.youtube.com/watch?v=oHkspZEokY4&t=7s)
 
 
 Вопросы:
