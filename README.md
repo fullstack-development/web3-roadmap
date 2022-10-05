@@ -17,7 +17,6 @@
     * [Zero knowledge proof](zero.md)
     * Other blockchains
       - [Near](near.md)
-    
 * [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
@@ -44,4 +43,3 @@
   - [Mixers](mixers.md)
 * Development
   - [The graph](graph.md)
-
