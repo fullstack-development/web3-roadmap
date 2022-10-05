@@ -19,6 +19,4 @@
   - [Avalanche Consensus 101](https://medium.com/avalancheavax/avalanche-consensus-101-99c68a3e3159)
   - [DefiLlama](https://defillama.com/chain/Avalanche)
   - [Как добавить Avalanche в MetaMask](https://academy.binance.com/ru/articles/how-to-add-avalanche-to-metamask)
-* Fantom
-* 
-* Tron
+
