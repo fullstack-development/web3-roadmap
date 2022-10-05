@@ -18,6 +18,7 @@
   - [Avalanche 101: An Overview of the Internet of Finance](https://medium.com/avalabs/avalanche-101-an-overview-of-the-internet-of-finance-7cdc5a2bee46#407d)
   - [Avalanche Consensus 101](https://medium.com/avalancheavax/avalanche-consensus-101-99c68a3e3159)
   - [DefiLlama](https://defillama.com/chain/Avalanche)
+  - [Как добавить Avalanche в MetaMask](https://academy.binance.com/ru/articles/how-to-add-avalanche-to-metamask)
 * Fantom
 * 
 * Tron
