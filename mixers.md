@@ -9,6 +9,7 @@
 * [Tornado Cash - How it Works | DeFi + Zero Knowledge Proof](https://www.youtube.com/watch?v=z_cRicXX1jI)
 * [How does Tornado Cash work?](https://www.coincenter.org/education/advanced-topics/how-does-tornado-cash-work/)
 * [США объявили войну крипто-анонимности: как санкции на Tornado Cash меняют будущее блокчейна](https://habr.com/ru/post/684536/)
+* [zk-SNARKs and zk-STARKs Explained](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
 
 Доп. материалы:
 
