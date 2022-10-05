@@ -14,10 +14,13 @@
 * [Utility Tokens vs. Security Tokens - Learn the Difference](https://www.youtube.com/watch?v=nGXxHAj_IL8)
 * [Howey Test Definition](https://www.embroker.com/blog/what-is-the-howey-test-does-crypto-pass/)
 * [3 Ways to Safely Design Utility Tokens](https://www.web3.university/article/3-ways-to-safely-design-utility-tokens)
-* [What Are Governance Tokens?](https://www.youtube.com/watch?v=rIgpEaLLINI)
-* [What Are Governance Tokens?](https://crypto.com/university/what-are-governance-tokens)
-* [What Are Wrapped Tokens?](https://academy.binance.com/en/articles/what-are-wrapped-tokens)
-* [What are Wrapped Tokens - Explained in Detail (Animation)](https://www.youtube.com/watch?v=SjdJWr8hgRY)
+* Governance Tokens
+  - [What Are Governance Tokens?](https://www.youtube.com/watch?v=rIgpEaLLINI)
+  - [What Are Governance Tokens?](https://crypto.com/university/what-are-governance-tokens)
+* Wrapped tokens
+  - [What Are Wrapped Tokens?](https://academy.binance.com/en/articles/what-are-wrapped-tokens)
+  - [What are Wrapped Tokens - Explained in Detail (Animation)](https://www.youtube.com/watch?v=SjdJWr8hgRY)
+  - [What Is Wrapped Ether (WETH) and How to Wrap It?](https://academy.binance.com/en/articles/what-is-wrapped-ether-weth-and-how-to-wrap-it)
 
 Вопросы:
 
