@@ -8,6 +8,7 @@
 * [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/)
 * [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/)
 * [Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!](https://www.youtube.com/watch?v=oUusKpkSHkw)
+* [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
 
 Вопросы:
 
