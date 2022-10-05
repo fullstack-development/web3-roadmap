@@ -6,6 +6,7 @@
 
 * BSC
   - [Binance Smart Chain And CeDeFi Explained](https://www.youtube.com/watch?v=iJDoc0kvXLc)
+  - [Подключение MetaMask к Binance Smart Chain](https://academy.binance.com/ru/articles/connecting-metamask-to-binance-smart-chain)
 * Avalance
   - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
   - [Что такое Avalanche (AVAX)?](https://forklog.com/cryptorium/chto-takoe-avalanche/)
