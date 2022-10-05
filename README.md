@@ -14,6 +14,7 @@
     * Scallability
       - [Layer 1](l1.md)
       - [Layer 2: Rollups, sidechains, lightning networks](l2.md)
+      - [Sharding](sharding.md)
     * [Parachains](parachains.md)
     * [Zero knowledge proof](zero.md)
     * [Other blockchains](other-blockchains.md)
