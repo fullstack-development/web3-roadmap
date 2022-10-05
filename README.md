@@ -17,6 +17,7 @@
     * [Parachains](parachains.md)
     * [Zero knowledge proof](zero.md)
     * [Other blockchains](other-blockchains.md)
+    * [Forks](forks.md)
 * [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
