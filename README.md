@@ -15,7 +15,9 @@
     * [Sidechains](sidechains.md)
     * [Parachains](parachains.md)
     * [Zero knowledge proof](zero.md)
-    * [Other blockchains](other-blockchains.md)
+    * Other blockchains
+      - [Near](near.md)
+    
 * [DEFI](defi.md)
   - [Fungible Tokens](tokens.md)
   - [Tokenomics](tokenomics.md)
