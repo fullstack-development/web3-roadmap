@@ -12,9 +12,6 @@
     * [EVM compatible blockchains](evm.md)
     * [Bridges](bridges.md)
     * [L2](l2.md)
-      - [Sidechains](sidechains.md)
-      - [Rollups](rollups.md)
-      - [Lightning network](lightning.md)
     * [Parachains](parachains.md)
     * [Zero knowledge proof](zero.md)
     * Other blockchains
