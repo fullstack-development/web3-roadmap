@@ -9,4 +9,5 @@
 * [Blockchain / Crosschain / DeFi Bridge Design](https://www.youtube.com/watch?v=zq4cbS3q-lY)
 * [Crypto Bridges: Why Are They Needed & How Do They Work?](https://www.youtube.com/watch?v=PBmzDUWmJgg)
 * [What is a Crypto Bridge? (Explained with Animations)](https://www.youtube.com/watch?v=T4yAxcluIho)
+* [How to Convert from Ethereum to Polygon using the Bridge](https://www.youtube.com/watch?v=GLK33hkwA68)
 
