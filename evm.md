@@ -10,6 +10,11 @@
   - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
   - [Что такое Avalanche (AVAX)?](https://forklog.com/cryptorium/chto-takoe-avalanche/)
   - [A Quick Overview of Avalanche (AVAX) and Why You Should Be Paying Attention](https://cryptoseq.medium.com/a-quick-overview-of-avalanche-avax-and-why-you-should-be-paying-attention-612278598da2)
+  - [Avalanche, a Revolutionary Consensus Engine and Platform. A Game Changer for Blockchain](https://medium.com/avalanche-hub/avalanche-a-revolutionary-consensus-engine-and-platform-a-game-changer-for-blockchain-fdac008edc35)
+  - [Comparison between Avalanche, Cosmos and Polkadot](https://medium.com/avalanche-hub/comparison-between-avalanche-cosmos-and-polkadot-a2a98f46c03b)
+  - [Avalanche Consensus, The Biggest Breakthrough since Nakamoto](https://medium.com/avalanche-hub/avalanche-consensus-the-biggest-breakthrough-since-nakamoto-66e9917fd656)
+  - [Avalanche 101: An Overview of the Internet of Finance](https://medium.com/avalabs/avalanche-101-an-overview-of-the-internet-of-finance-7cdc5a2bee46#407d)
+  - [Avalanche Consensus 101](https://medium.com/avalancheavax/avalanche-consensus-101-99c68a3e3159)
   - [DefiLlama](https://defillama.com/chain/Avalanche)
 * Fantom
 * 
