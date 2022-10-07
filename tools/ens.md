@@ -9,6 +9,7 @@
 * [The Ethereum Name Service (ENS) - An Easy To Understand Explanation Of The ENS](https://www.youtube.com/watch?v=uHUsGOyWc94)
 * [Top 6 Ethereum Name Service (ENS) Domain Categories](https://www.youtube.com/watch?v=5YBkujGj-DI)
 * [What is ENS? Ethereum Name Service Lookup System](https://www.youtube.com/watch?v=P8RlPsjGaR8)
+* [What is Ethereum Name Service (ENS) and Why It Matters?](https://www.youtube.com/watch?v=wDPy-SIwHOU)
 
 * Unstoppable Domains
   - [What are Unstoppable Domains? - Human-Readable Wallet Addresses](https://www.youtube.com/watch?v=O-RO4tWA0Rs)
