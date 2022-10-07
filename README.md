@@ -43,5 +43,5 @@
     * [Vaults](defi/vaults.md)
   - [Mixers](defi/mixers.md)
   - [Soulbound tokens](defi/soulbound.md)
-* Development
+* Tools
   - [The graph](tools/graph.md)
