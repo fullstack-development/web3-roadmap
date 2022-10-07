@@ -4,6 +4,7 @@
 
 * [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/)
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+* [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/)
 * [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/)
 * [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/)
