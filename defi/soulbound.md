@@ -2,7 +2,7 @@
 
 Материалы:
 
-* [Что такое Soulbound-токены? Строительные блоки для децентрализованного общества Web3](https://vc.ru/crypto/443317-chto-takoe-soulbound-tokeny-stroitelnye-bloki-dlya-decentralizovannogo-obshchestva-web3)
+* [What are Soulbound Tokens? SBTs Explained | Future of Ethereum](https://www.youtube.com/watch?v=6EhO8Dd-Z-o)
 * [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
 * [SoulBound Tokens- The Non-Transferable NFTs](https://101blockchains.com/soulbound-tokens/)
 * [Soulbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
