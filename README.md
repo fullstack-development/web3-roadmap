@@ -43,7 +43,7 @@
     * [Vaults](defi/vaults.md)
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
-  - [Soulbound tokens](defi/soulbound.md)
+    * [Soulbound tokens](defi/soulbound.md)
 * Tools
   - [The graph](tools/graph.md)
   - [KYC & AML](tools/kyc.md)
