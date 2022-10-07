@@ -3,6 +3,9 @@
 Материалы:
 
 * [Библия NFT (перевод статьи с OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
+* [What is an NFT? (Non-Fungible Tokens Explained)](https://www.youtube.com/watch?v=4dkl5O9LOKg)
+* [How to Create, Deploy, and Sell a Generative Art NFT (Beginner Friendly!)](https://www.youtube.com/watch?v=MKwWpZEuLTs)
+* [NFT токены - Почему все о них говорят? (Полное руководство)](https://www.youtube.com/watch?v=APm5GYUP3hM)
 * [Субмарининг NFT](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 * [Обзор популярных NFT маркетплейсов](https://www.youtube.com/watch?v=u25Zk2lbMf8)
 * [How To Get EARLY ACCESS to NFT Drops? NFT Whitelist Explained](https://www.youtube.com/watch?v=i2a-eV99nWM)
