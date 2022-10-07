@@ -45,3 +45,4 @@
   - [Soulbound tokens](defi/soulbound.md)
 * Tools
   - [The graph](tools/graph.md)
+  - [KYC & AML](tools/kyc.md)
