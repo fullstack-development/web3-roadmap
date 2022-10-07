@@ -46,6 +46,7 @@
     * [Soulbound tokens](defi/soulbound.md)
 * Tools
   - [The graph](tools/graph.md)
-  - [KYC & AML](tools/kyc.md)
   - [Multisig & gnosis safe](tools/multisig.md)
+  - [IPFS](tools/ipfs.md)
+  - [KYC & AML](tools/kyc.md)
   - [ENS](tools/ens.md)
