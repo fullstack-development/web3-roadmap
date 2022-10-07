@@ -46,3 +46,5 @@
 * Tools
   - [The graph](tools/graph.md)
   - [KYC & AML](tools/kyc.md)
+  - [Multisig & gnosis safe](multisig.md)
+  - [ENS](ens.md)
