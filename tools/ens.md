@@ -13,3 +13,4 @@
 * Unstoppable Domains
   - [What are Unstoppable Domains? - Human-Readable Wallet Addresses](https://www.youtube.com/watch?v=O-RO4tWA0Rs)
   - [Unstoppable Domains Review in 2 Minutes (2022 Updated)](https://www.youtube.com/watch?v=HVdNSvRhRys)
+  - [How To Own Unstoppable Domains](https://www.youtube.com/watch?v=4NfUfq2u1KE)
