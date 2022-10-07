@@ -42,5 +42,6 @@
     * [Yield farming](defi/yield.md)
     * [Vaults](defi/vaults.md)
   - [Mixers](defi/mixers.md)
+  - [Soulbound tokens](defi/soulbound.md)
 * Development
   - [The graph](tools/graph.md)
