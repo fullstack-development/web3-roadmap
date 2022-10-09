@@ -9,3 +9,4 @@
 * [Governance Tokens Explained in One Minute](https://www.youtube.com/watch?v=XlmyoWSVl9s)
 * [What are Governance Tokens? Governance Tokens Explained (with Animations)](https://www.youtube.com/watch?v=rIgpEaLLINI&t=163s)
 * [Aragon. Level Up Your Knowledge of DAOs](https://aragon.org/dao)
+* [Как заработать на DAO? Виды DAO на рынке](https://www.youtube.com/watch?v=pMCkB4Qlcl8)
