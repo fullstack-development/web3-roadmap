@@ -13,6 +13,7 @@
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide)
 * [What is a DAO and What is it For?](https://daohaus.substack.com/p/-what-is-a-dao-and-what-is-it-for)
 * [Decentralized Autonomous Organization (DAO): Definition, Purpose, and Example](https://www.investopedia.com/tech/what-dao/)
+* [What is a decentralized autonomous organization, and how does a DAO work?](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
 
 Доп. материалы:
 * [Holographic consensus—part 1](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
