@@ -23,4 +23,6 @@
 * [What is cryptocurrency Aragon (ANT) and how does it work?](https://kriptomat.io/cryptocurrencies/aragon/what-is-aragon/)
 * [Aragon blog](https://blog.aragon.org/)
 * [How to Join a DAO](https://blog.aragon.org/how-to-join-a-dao/)
+* [How to Start a Research Organization (from your Bedroom) | VitaDAO](https://blog.aragon.org/how-to-start-a-research-organization/)
+* [What Is It Like to Join a DAO?](https://blog.aragon.org/what-is-it-like-to-join-a-dao/)
 
