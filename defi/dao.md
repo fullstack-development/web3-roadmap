@@ -10,6 +10,7 @@
 * [Governance Tokens Explained in One Minute](https://www.youtube.com/watch?v=XlmyoWSVl9s)
 * [What are Governance Tokens? Governance Tokens Explained (with Animations)](https://www.youtube.com/watch?v=rIgpEaLLINI&t=163s)
 * [Aragon. Level Up Your Knowledge of DAOs](https://aragon.org/dao)
+* [Crypto Education - DAO Explained | Animation | Cryptomatics](https://www.youtube.com/watch?v=0uDuUXyFFoo)
 * [Как заработать на DAO? Виды DAO на рынке](https://www.youtube.com/watch?v=pMCkB4Qlcl8)
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide)
 * [What is a DAO and What is it For?](https://daohaus.substack.com/p/-what-is-a-dao-and-what-is-it-for)
@@ -41,5 +42,6 @@
   - [Choice Architecture & DAOs](https://blog.aragon.org/choice-architecture-and-daos-part-1/)
   - [A Taxonomy of Voting Methods](https://blog.aragon.org/a-taxonomy-of-voting-methods/)
   - [L2 Governance Models](https://blog.aragon.org/l2-governance-voting-models/)
+* [Could a DAO Build the Next Great City? | Scott Fitsimones | TED](https://www.youtube.com/watch?v=zTStDvUtQWc)
 
 
