@@ -44,6 +44,7 @@
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
+  - [DAO](defi/dao.md)
 * Tools
   - [The graph](tools/graph.md)
   - [Multisig & gnosis safe](tools/multisig.md)

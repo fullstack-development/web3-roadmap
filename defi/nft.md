@@ -10,6 +10,7 @@
 * [Субмарининг NFT](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 * [Обзор популярных NFT маркетплейсов](https://www.youtube.com/watch?v=u25Zk2lbMf8)
 * [How To Get EARLY ACCESS to NFT Drops? NFT Whitelist Explained](https://www.youtube.com/watch?v=i2a-eV99nWM)
+* [NFT ТОКЕНЫ - Что это такое и как можно заработать на NFT | Token Stories Ч.7](https://www.youtube.com/watch?v=AXWIu-vaWgI)
 
 Задания:
 
