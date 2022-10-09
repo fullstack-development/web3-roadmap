@@ -31,5 +31,6 @@
   - [5 Ways to Work for a DAO (non-Tech)](https://blog.aragon.org/5-ways-to-work-for-a-dao-non-tech/)
   - [Introducing Weighted Voting](https://blog.aragon.org/introducing-weighted-voting/)
   - [What is Composability?](https://blog.aragon.org/what-is-composability/)
+  - [Incentive Design & Tooling for DAOs](https://blog.aragon.org/incentive-design-tooling-for-daos/)
 
 
