@@ -16,6 +16,7 @@
 * [What is a decentralized autonomous organization, and how does a DAO work?](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
 * [What Is A DAO And How Do They Work?](https://consensys.net/blog/blockchain-explained/what-is-a-dao-and-how-do-they-work/)
 * [Governance токены и DAO-организации | Token Stories ч.8](https://www.youtube.com/watch?v=BbexoOt3ys4)
+* [Что такое DAO? Объясняем за 9 минут! (ПростоКрипта)](https://www.youtube.com/watch?v=oLcDzR0TLOU)
 
 Доп. материалы:
 * [Holographic consensus—part 1](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
