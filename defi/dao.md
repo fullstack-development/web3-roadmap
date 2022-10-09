@@ -28,5 +28,6 @@
 * [How to Start a Research Organization (from your Bedroom) | VitaDAO](https://blog.aragon.org/how-to-start-a-research-organization/)
 * [15 Ways the World is being Transformed by DAOs](https://blog.aragon.org/15-ways-the-world-is-being-transformed-by-daos/)
 * [10 Industries Being Disrupted by DAOs](https://blog.aragon.org/10-industries-being-disrupted-by-daos/)
+* [5 Ways to Work for a DAO (non-Tech)](https://blog.aragon.org/5-ways-to-work-for-a-dao-non-tech/)
 
 
