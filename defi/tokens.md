@@ -15,6 +15,7 @@
 * [Utility Tokens vs. Security Tokens - Learn the Difference](https://www.youtube.com/watch?v=nGXxHAj_IL8)
 * [Howey Test Definition](https://www.embroker.com/blog/what-is-the-howey-test-does-crypto-pass/)
 * [3 Ways to Safely Design Utility Tokens](https://www.web3.university/article/3-ways-to-safely-design-utility-tokens)
+* [Utility vs Security tokens | TON, Bitcoin, Ethereum | Token Stories Ч.2](https://www.youtube.com/watch?v=jfEcbyeDWkU)
 * Governance Tokens
   - [What Are Governance Tokens?](https://www.youtube.com/watch?v=rIgpEaLLINI)
   - [What Are Governance Tokens?](https://crypto.com/university/what-are-governance-tokens)
