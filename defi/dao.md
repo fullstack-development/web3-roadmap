@@ -7,3 +7,4 @@
 * [Governance token. Как развиваются блокчейн-проекты с помощью децентрализованной модели управления?](https://golden-island.net/governance-token/)
 * [What are Governance Tokens?](https://www.youtube.com/watch?v=8Sh8EOyWga8)
 * [Governance Tokens Explained in One Minute](https://www.youtube.com/watch?v=XlmyoWSVl9s)
+* [What are Governance Tokens? Governance Tokens Explained (with Animations)](https://www.youtube.com/watch?v=rIgpEaLLINI&t=163s)
