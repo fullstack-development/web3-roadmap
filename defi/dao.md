@@ -11,7 +11,9 @@
 * [Aragon. Level Up Your Knowledge of DAOs](https://aragon.org/dao)
 * [Как заработать на DAO? Виды DAO на рынке](https://www.youtube.com/watch?v=pMCkB4Qlcl8)
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide)
-* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
+* [What is a DAO and What is it For?](https://daohaus.substack.com/p/-what-is-a-dao-and-what-is-it-for)
 
 Доп. материалы:
 * [Holographic consensus—part 1](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
+* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
+
