@@ -22,4 +22,5 @@
 * [House of DAOs](https://wiki.metagame.wtf/great-houses/house-of-daos)
 * [What is cryptocurrency Aragon (ANT) and how does it work?](https://kriptomat.io/cryptocurrencies/aragon/what-is-aragon/)
 * [Aragon blog](https://blog.aragon.org/)
+* [How to Join a DAO](https://blog.aragon.org/how-to-join-a-dao/)
 
