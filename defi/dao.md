@@ -26,6 +26,8 @@
   - [How to Join a DAO](https://blog.aragon.org/how-to-join-a-dao/)
   - [What Is It Like to Join a DAO?](https://blog.aragon.org/what-is-it-like-to-join-a-dao/)
   - [How to Start a Research Organization (from your Bedroom) | VitaDAO](https://blog.aragon.org/how-to-start-a-research-organization/)
+  - [How to Start a Charity (from your Bedroom) | Elimu](https://blog.aragon.org/how-to-start-a-charity-from-your-bedroom/)
+  - [How to Start a Hedge Fund (from your Bedroom) | Surf Finance](https://blog.aragon.org/how-to-start-a-hedge-fund-from-your-bedroom/)
   - [15 Ways the World is being Transformed by DAOs](https://blog.aragon.org/15-ways-the-world-is-being-transformed-by-daos/)
   - [10 Industries Being Disrupted by DAOs](https://blog.aragon.org/10-industries-being-disrupted-by-daos/)
   - [5 Ways to Work for a DAO (non-Tech)](https://blog.aragon.org/5-ways-to-work-for-a-dao-non-tech/)
@@ -33,5 +35,8 @@
   - [What is Composability?](https://blog.aragon.org/what-is-composability/)
   - [Incentive Design & Tooling for DAOs](https://blog.aragon.org/incentive-design-tooling-for-daos/)
   - [DAOs as Purpose-Led Organizations](https://blog.aragon.org/daos-as-purpose-led-organizations/)
+  - [Choice Architecture & DAOs](https://blog.aragon.org/choice-architecture-and-daos-part-1/)
+  - [A Taxonomy of Voting Methods](https://blog.aragon.org/a-taxonomy-of-voting-methods/)
+  - [L2 Governance Models](https://blog.aragon.org/l2-governance-voting-models/)
 
 
