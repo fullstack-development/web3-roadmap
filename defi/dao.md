@@ -24,6 +24,7 @@
 * [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
 * [House of DAOs](https://wiki.metagame.wtf/great-houses/house-of-daos)
 * [What is cryptocurrency Aragon (ANT) and how does it work?](https://kriptomat.io/cryptocurrencies/aragon/what-is-aragon/)
+* [What is OlympusDAO? - OHM Explained with Animations](https://www.youtube.com/watch?v=o699i_l_qy8)
 * [Aragon blog](https://blog.aragon.org/)
   - [How to Join a DAO](https://blog.aragon.org/how-to-join-a-dao/)
   - [What Is It Like to Join a DAO?](https://blog.aragon.org/what-is-it-like-to-join-a-dao/)
