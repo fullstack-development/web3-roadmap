@@ -47,5 +47,6 @@
 * [How to Create a DAO on Polygon with Aragon](https://www.youtube.com/watch?v=NbeMilheqy0)
 * [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 * [Governance Minimization](https://fehrsam.xyz/blog/governance-minimization)
+* [A new type of DAO — For NFTs, by NFTs](https://mintable.medium.com/a-new-type-of-dao-for-nfts-by-nfts-9859253dd823)
 
 
