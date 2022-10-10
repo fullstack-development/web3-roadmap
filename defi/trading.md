@@ -5,8 +5,6 @@
 * [Полное руководство по торговле криптовалютой для начинающих](https://academy.binance.com/ru/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners)
 * [Руководство по фундаментальному анализу криптовалют](https://academy.binance.com/ru/articles/a-guide-to-cryptocurrency-fundamental-analysis?UTM=BinanceAcademy)
 * [Что такое анализ настроений на рынке криптовалют?](https://academy.binance.com/ru/articles/what-is-crypto-market-sentiment)
-* [Медвежий рынок – что это?](https://academy.binance.com/ru/articles/what-is-a-bear-market)
-* [Что такое бычий рынок](https://academy.binance.com/ru/articles/what-is-a-bull-market)
 
 Дополнительные материалы:
 
