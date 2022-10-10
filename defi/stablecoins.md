@@ -16,8 +16,11 @@
 * [What's The Best Stablecoin? | FULL Guide To Stablecoins In 2022!](https://www.youtube.com/watch?v=pfIq8aRNVZc)
 * [Все что нужно знать про стейблкоины | USDC, USDT, DAI, BUSD](https://www.youtube.com/watch?v=71u4U2eJWGg)
 * [What are stablecoins, and how do they work?](https://www.youtube.com/watch?v=fdPmjHtQ5aM)
+* [What is Tether? USDT Stablecoin - How it works + MAJOR Issues](https://www.youtube.com/watch?v=cK8bAA6H5PY)
+* [What's The Best Stablecoin? | FULL Guide To Stablecoins In 2022!](https://www.youtube.com/watch?v=pfIq8aRNVZc)
 
 Доп. материалы:
 
 * [Война Tether vs. Circle: разбираем FUD вокруг главных стейблкоинов](https://incrypted.com/tether-vs-circle-war/)
 * [What Is PAX Gold (PAXG)?｜ Explained for Beginners](https://www.youtube.com/watch?v=Ocvz97jG2RY)
+* [The Terra Crash – A Deep Dive into Events that Wiped Out $45 Billion of Investor Wealth](https://finnick.club/2022/06/09/the-terra-crash-a-deep-dive-into-events-that-wiped-out-45-billion-of-investor-wealth/)
