@@ -27,6 +27,7 @@
       - [Initial offering](defi/initial-offering.md)
       - [Airdrops](defi/airdrops.md)
     * [Valuation](defi/valuation.md)
+  - [Stablecoins](stablecoins.md)
   - Exchanges & trading
     * [Economics](defi/economics.md)
     * [CEX & Trading](defi/trading.md)
