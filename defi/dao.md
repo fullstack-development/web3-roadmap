@@ -45,5 +45,6 @@
   - [L2 Governance Models](https://blog.aragon.org/l2-governance-voting-models/)
 * [Could a DAO Build the Next Great City? | Scott Fitsimones | TED](https://www.youtube.com/watch?v=zTStDvUtQWc)
 * [How to Create a DAO on Polygon with Aragon](https://www.youtube.com/watch?v=NbeMilheqy0)
+* [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 
 
