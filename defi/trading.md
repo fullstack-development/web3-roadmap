@@ -16,6 +16,7 @@
 * [Видео: Основы трейдинга (5 и 6 видео курса)](https://www.youtube.com/watch?v=cWvKJBjpVw0&list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP&index=5)
 * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
 * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
+* [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
 
 
 Вопросы:
