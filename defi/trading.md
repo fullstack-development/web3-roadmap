@@ -5,7 +5,6 @@
 * [Полное руководство по торговле криптовалютой для начинающих](https://academy.binance.com/ru/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners)
 * [Руководство по фундаментальному анализу криптовалют](https://academy.binance.com/ru/articles/a-guide-to-cryptocurrency-fundamental-analysis?UTM=BinanceAcademy)
 * [Технический анализ](https://academy.binance.com/ru/articles/what-is-technical-analysis)
-
 * [Торговля криптой по событиям. Какие новости влияют на цену криптовалют и как на этом заработать?](https://incrypted.com/how-to-trade-by-events-part-1/)
 * [Что такое анализ настроений на рынке криптовалют?](https://academy.binance.com/ru/articles/what-is-crypto-market-sentiment)
 * [Медвежий рынок – что это?](https://academy.binance.com/ru/articles/what-is-a-bear-market)
