@@ -10,6 +10,7 @@
 * [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
 * [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 * [Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
+* [A Visual Explanation of Algorithmic Stablecoins](https://medium.com/dragonfly-research/a-visual-explanation-of-algorithmic-stablecoins-9a0c1f0f51a0)
 
 Доп. материалы:
 
