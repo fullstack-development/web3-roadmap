@@ -27,7 +27,6 @@
       - [Initial offering](defi/initial-offering.md)
       - [Airdrops](defi/airdrops.md)
     * [Valuation](defi/valuation.md)
-  - [Stablecoins](stablecoins.md)
   - Exchanges & trading
     * [Economics](defi/economics.md)
     * [CEX & Trading](defi/trading.md)
@@ -42,6 +41,7 @@
     * [Flash loans](defi/flash.md)
     * [Yield farming](defi/yield.md)
     * [Vaults](defi/vaults.md)
+  - [Stablecoins](defi/stablecoins.md)
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
