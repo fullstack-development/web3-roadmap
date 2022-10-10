@@ -5,7 +5,7 @@
   - [Ethereum и смарт-контракты](blockchain/ethereum.md)
   - [Consensys](blockchain/consensys.md)
   - [Crypto-wallets](blockchain/wallets.md)
-    - [Safety](safety.md)
+    - [Safety](blockchain/safety.md)
   - [Oracles](blockchain/oracles.md)
   - Advanced
     * [Cardano](blockchain/cardano.md)
