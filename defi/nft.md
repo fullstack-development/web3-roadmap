@@ -12,6 +12,9 @@
 * [How To Get EARLY ACCESS to NFT Drops? NFT Whitelist Explained](https://www.youtube.com/watch?v=i2a-eV99nWM)
 * [NFT ТОКЕНЫ - Что это такое и как можно заработать на NFT | Token Stories Ч.7](https://www.youtube.com/watch?v=AXWIu-vaWgI)
 
+Доп. материалы:
+* [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/mob-short-squeeze-has-traders-reminiscing-gme-days)
+
 Задания:
 
 > Купим, продадим и создадим NFT не потратив ни эфира.
