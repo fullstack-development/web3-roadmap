@@ -7,6 +7,7 @@
 * [3 Stablecoin Algorithms Explained (Rebase, Empty Set Dollar, Basis Cash, Iron Finance)](https://www.youtube.com/watch?v=S7-rfvpEpJs)
 * [Fighting to be STABLE: the Evolution of Stablecoins](https://medium.com/dragonfly-research/fighting-to-be-stable-the-evolution-of-stablecoins-aca81fb432f9)
 * [Stablecoins: designing a price-stable cryptocurrency](https://haseebq.com/stablecoins-designing-a-price-stable-cryptocurrency/)
+* [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
 
 Доп. материалы:
 
