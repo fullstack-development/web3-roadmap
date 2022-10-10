@@ -15,3 +15,4 @@
 Доп. материалы:
 
 * [Война Tether vs. Circle: разбираем FUD вокруг главных стейблкоинов](https://incrypted.com/tether-vs-circle-war/)
+* [What Is PAX Gold (PAXG)?｜ Explained for Beginners](https://www.youtube.com/watch?v=Ocvz97jG2RY)
