@@ -14,6 +14,7 @@
 * [Stablecoins: Why This Hot Cryptocurrency Faces Challenges | WSJ](https://www.youtube.com/watch?v=GEvxWQmloLw)
 * [What is Terra? UST and LUNA explained with Animations](https://www.youtube.com/watch?v=U9lrH0loAns&t=86s)
 * [What's The Best Stablecoin? | FULL Guide To Stablecoins In 2022!](https://www.youtube.com/watch?v=pfIq8aRNVZc)
+* [Все что нужно знать про стейблкоины | USDC, USDT, DAI, BUSD](https://www.youtube.com/watch?v=71u4U2eJWGg)
 
 Доп. материалы:
 
