@@ -14,13 +14,14 @@
 Дополнительные материалы:
 
 * [Видео: Основы трейдинга (5 и 6 видео курса)](https://www.youtube.com/watch?v=cWvKJBjpVw0&list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP&index=5)
+* [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
+* [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
 * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
 * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
-* [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
 
 
 Вопросы:
-
+* Что такое акции? Что такое облигации?
 * Что такое опцион? Какие опционы бывают?
 * Что такое маржинальная торговля? Что такое margin-call?
 
