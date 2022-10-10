@@ -11,6 +11,9 @@
 * [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 * [Illiquidity and Bank Run Risk in Defi](https://medium.com/alethio/overlooked-risk-illiquidity-and-bank-runs-on-compound-finance-5d6fc3922d0d)
 * [A Visual Explanation of Algorithmic Stablecoins](https://medium.com/dragonfly-research/a-visual-explanation-of-algorithmic-stablecoins-9a0c1f0f51a0)
+* [Stablecoins: Why This Hot Cryptocurrency Faces Challenges | WSJ](https://www.youtube.com/watch?v=GEvxWQmloLw)
+* [What is Terra? UST and LUNA explained with Animations](https://www.youtube.com/watch?v=U9lrH0loAns&t=86s)
+* [What's The Best Stablecoin? | FULL Guide To Stablecoins In 2022!](https://www.youtube.com/watch?v=pfIq8aRNVZc)
 
 Доп. материалы:
 
