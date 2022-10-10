@@ -3,7 +3,7 @@
 Материалы:
 
 * [Все про стейблкоины простыми словами: как они работают и в чем их преимущества](https://incrypted.com/stablecoin-chto-eto-takoe/)
-* 
+* [What is a Stablecoin? (How they work - ANIMATED)](https://www.youtube.com/watch?v=pGzfexGmuVw)
 
 Доп. материалы:
 
