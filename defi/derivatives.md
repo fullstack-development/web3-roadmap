@@ -24,7 +24,14 @@
   * [What Is Margin Trading?](https://academy.binance.com/en/articles/what-is-margin-trading)
   * [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
   * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
+
+Доп. материалы:
 - [A Quick Guide to Binance Dual Investment](https://academy.binance.com/en/articles/a-quick-guide-to-binance-dual-savings)
+- [Типы ордеров и чем они отличаются](https://academy.binance.com/ru/articles/understanding-the-different-order-types)
+- [Что такое лимитный ордер](https://academy.binance.com/ru/articles/what-is-a-limit-order)
+- [Что такое лимитный стоп-ордер?](https://academy.binance.com/ru/articles/what-is-a-stop-limit-order)
+- [Что такое рыночный ордер?](https://academy.binance.com/ru/articles/what-is-a-market-order)
+- [Что такое OCO-ордер](https://academy.binance.com/ru/articles/what-is-an-oco-order)
 
 Вопросы:
 * Что такое деривативы?
