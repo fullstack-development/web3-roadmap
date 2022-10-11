@@ -4,11 +4,15 @@
 Материалы : 
 * [Полное руководство по торговле криптовалютой для начинающих](https://academy.binance.com/ru/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners)
 * Basics
-  - [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
-  - [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
-  - [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
-  - [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
-  - [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
+  - Bonds & stocks
+    * [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
+    * [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
+    * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
+  - Futures
+    * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
+  - Options
+    * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
+    * [https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
 * Fundamental analysis
   - [Руководство по фундаментальному анализу криптовалют](https://academy.binance.com/ru/articles/a-guide-to-cryptocurrency-fundamental-analysis?UTM=BinanceAcademy)
 
