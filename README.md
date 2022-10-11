@@ -29,7 +29,7 @@
     * [Valuation](defi/valuation.md)
   - Exchanges & trading
     * [Economics](defi/economics.md)
-    * [Derivatives](defi/derivatives.md)
+    * [Trading instruments](defi/derivatives.md)
     * [Fundamental analysis](defi/fundamental.md)
     * [Technical analysis](defi/technical.md)
     * CEX
