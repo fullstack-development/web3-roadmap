@@ -10,6 +10,8 @@
 Доп. материалы:
 * [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [A Beginner’s Guide to Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
+* [What Is Shorting in the Financial Markets?](https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets)
+* [What Is a Short Squeeze?](https://academy.binance.com/en/articles/what-is-a-short-squeeze)
 * [How to Calculate Position Size in Trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 * [Volume-Weighted Average Price (VWAP) Explained](https://academy.binance.com/en/articles/volume-weighted-average-price-vwap-explained)
