@@ -7,3 +7,4 @@
 * [Что такое инфляция](https://academy.binance.com/ru/articles/what-is-inflation)
 * [Что такое Гиперинфляция?](https://academy.binance.com/ru/articles/what-is-hyperinflation)
 * [Что такое стагфляция](https://academy.binance.com/ru/articles/what-is-stagflation)
+* [Volatility](https://academy.binance.com/en/glossary/volatility)
