@@ -1,4 +1,4 @@
-# Trading
+# Technical analysis
 
 
 Материалы : 
