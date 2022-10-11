@@ -23,7 +23,6 @@
   * [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
   * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
 
-
 Вопросы:
 * Что такое деривативы?
 * Что такое акции? Что такое облигации?
