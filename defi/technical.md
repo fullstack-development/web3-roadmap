@@ -11,6 +11,7 @@
 * [Что такое биржевой стакан (стоит ли его применять) – как работает](https://equity.today/chto-takoe-birzhevoj-stakan.html)
 
 Доп. материалы:
+* [What Are Stop-Loss and Take-Profit Levels and How to Calculate Them?](https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them)
 * [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [A Beginner’s Guide to Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 * [Введение в уровни поддержки и сопротивления](https://academy.binance.com/ru/articles/the-basics-of-support-and-resistance-explained)
