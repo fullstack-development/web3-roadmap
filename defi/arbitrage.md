@@ -2,6 +2,7 @@
 
 
 Материалы : 
+* [What Is Arbitrage Trading?](https://academy.binance.com/en/articles/what-is-arbitrage-trading)
 * [Арбитраж криптовалют: понятие, виды и способы заработка] (https://ispace.news/trade-invest/arbitraz-kriptovalyut-ponyatie/)
 * [Арбитраж крипты: что это?] (https://vc.ru/u/1074059-nft-brihaspati/492675-arbitrazh-kripty-chto-eto)
 * [Что такое арбитраж криптовалюты?] (https://forklog.com/cryptorium/chto-takoe-arbitrazh-kriptovalyuty/)
