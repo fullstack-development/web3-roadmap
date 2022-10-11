@@ -8,6 +8,7 @@
 
 Доп. материалы:
 * [A Beginner’s Guide to TradingView](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
+* [How to Use TradingView on Binance Website](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
 
 Вопросы:
 
