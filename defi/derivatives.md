@@ -14,6 +14,7 @@
   * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
   * [What Are Options Contracts?](https://academy.binance.com/en/articles/what-are-options-contracts)
   * [Binance Options Guide for iOS and Android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
+- [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
 Вопросы:
 * Что такое акции? Что такое облигации?
