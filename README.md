@@ -29,9 +29,9 @@
     * [Valuation](defi/valuation.md)
   - Exchanges & trading
     * [Economics](defi/economics.md)
-    * Derrivatives
-    * Fundamental analysis
-    * Technical analysis
+    * [Derrivatives](defi/derrivatives.md)
+    * [Fundamental analysis](defi/fundamental.md)
+    * [Technical analysis](defi/technical.md)
     * CEX
     * [DEX](defi/dex.md)
       - [Impermanent loss](defi/impermanent-loss.md)
