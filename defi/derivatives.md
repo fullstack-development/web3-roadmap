@@ -10,6 +10,7 @@
   * [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
   * [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
   * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
+  * [What Is a Spot Market and How to do Spot Trading?](https://academy.binance.com/en/articles/what-is-a-spot-market-and-how-to-do-spot-trading)
 - Futures
   * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
   * [What Are Forward and Futures Contracts?](https://academy.binance.com/en/articles/what-are-forward-and-futures-contracts)
