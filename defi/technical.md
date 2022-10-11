@@ -11,6 +11,7 @@
 * [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [A Beginner’s Guide to Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 * [How to Calculate Position Size in Trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
+* [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 * [5 Essential Indicators Used in Technical Analysis](https://academy.binance.com/en/articles/5-essential-indicators-used-in-technical-analysis)
 * [Leading and Lagging Indicators Explained](https://academy.binance.com/en/articles/leading-and-lagging-indicators-explained)
 * [What Is the Risk/Reward Ratio and How to Use It](https://academy.binance.com/en/articles/what-is-the-risk-reward-ratio-and-how-to-use-it)
