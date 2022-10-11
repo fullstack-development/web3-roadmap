@@ -30,6 +30,7 @@
   - Exchanges & trading
     * [Economics](defi/economics.md)
     * [Trading instruments](defi/derivatives.md)
+    * [Trading strategies](defi/strategies.md)
     * [Fundamental analysis](defi/fundamental.md)
     * [Technical analysis](defi/technical.md)
     * CEX
