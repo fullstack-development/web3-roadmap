@@ -7,7 +7,7 @@
 * [Видео: Основы трейдинга (5 и 6 видео курса)](https://www.youtube.com/watch?v=cWvKJBjpVw0&list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP&index=5)
 
 Доп. материалы:
-* [https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
+* [A Beginner’s Guide to TradingView](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
 
 Вопросы:
 
