@@ -29,14 +29,17 @@
     * [Valuation](defi/valuation.md)
   - Exchanges & trading
     * [Economics](defi/economics.md)
-    * [CEX & Trading](defi/trading.md)
-      - [Arbitrage](defi/arbitrage.md)
+    * Derrivatives
+    * Fundamental analysis
+    * Technical analysis
+    * CEX
     * [DEX](defi/dex.md)
       - [Impermanent loss](defi/impermanent-loss.md)
       - [Vampire attack](defi/vampire.md)
       - [Rug pulls](defi/rug-pulls.md)
       - [MEV](defi/mev.md)
       - [Balancer](defi/balancer.md)
+    * [Arbitrage](defi/arbitrage.md)
   - [Lending & Borrowing & Vaults](defi/lending.md)
     * [Flash loans](defi/flash.md)
     * [Yield farming](defi/yield.md)
