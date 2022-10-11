@@ -12,6 +12,8 @@
   * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
 - Futures
   * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
+  * [What Are Forward and Futures Contracts?](https://academy.binance.com/en/articles/what-are-forward-and-futures-contracts)
+  * [The Ultimate Guide to Trading on Binance Futures](https://academy.binance.com/en/articles/the-ultimate-guide-to-trading-on-binance-futures)
 - Options
   * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
   * [What Are Options Contracts?](https://academy.binance.com/en/articles/what-are-options-contracts)
