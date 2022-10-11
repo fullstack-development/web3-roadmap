@@ -6,6 +6,9 @@
 * [Chapter 4 - Technical Analysis Basics](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners#what-is-a-long-position)
 * [Chapter 5 – Technical Analysis Indicators](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners#what-is-a-technical-analysis-indicator)
 * [Видео: Основы трейдинга (5 и 6 видео курса)](https://www.youtube.com/watch?v=cWvKJBjpVw0&list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP&index=5)
+* [Order Book](https://academy.binance.com/en/glossary/order-book)
+* [Что такое спред и проскальзывание](https://academy.binance.com/ru/articles/bid-ask-spread-and-slippage-explained)
+* [Что такое биржевой стакан (стоит ли его применять) – как работает](https://equity.today/chto-takoe-birzhevoj-stakan.html)
 
 Доп. материалы:
 * [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
