@@ -20,6 +20,7 @@
   * [Binance Options Guide for iOS and Android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
 - Margin Trading
   * [What Is Margin Trading?](https://academy.binance.com/en/articles/what-is-margin-trading)
+  * [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
   * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
 
 
