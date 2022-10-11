@@ -12,7 +12,7 @@
     * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
   - Options
     * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
-    * [https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
+    * [Binance Options Guide for iOS and Android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
 * Fundamental analysis
   - [Руководство по фундаментальному анализу криптовалют](https://academy.binance.com/ru/articles/a-guide-to-cryptocurrency-fundamental-analysis?UTM=BinanceAcademy)
 
