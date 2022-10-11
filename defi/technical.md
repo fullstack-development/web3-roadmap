@@ -8,6 +8,7 @@
 * [Видео: Основы трейдинга (5 и 6 видео курса)](https://www.youtube.com/watch?v=cWvKJBjpVw0&list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP&index=5)
 
 Доп. материалы:
+* [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [A Beginner’s Guide to Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 * [How to Calculate Position Size in Trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
 * [Leading and Lagging Indicators Explained](https://academy.binance.com/en/articles/leading-and-lagging-indicators-explained)
