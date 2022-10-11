@@ -1,4 +1,4 @@
-# Derivatives
+# Trading instruments
 
 Материалы:
 
