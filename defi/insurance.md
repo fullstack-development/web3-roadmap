@@ -1,4 +1,4 @@
-# Insurance.md
+# Insurance
 
 Материалы:
 
