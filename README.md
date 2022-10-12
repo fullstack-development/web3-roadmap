@@ -53,8 +53,9 @@
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
-  - [Play to earn](defi/P2E.md)
+    * [Play to earn](defi/P2E.md)
   - [DAO](defi/dao.md)
+  - [Insurance](defi/insurance.md)
 * Tools
   - [The graph](tools/graph.md)
   - [Multisig & gnosis safe](tools/multisig.md)
