@@ -9,6 +9,7 @@
 * [Order Book](https://academy.binance.com/en/glossary/order-book)
 * [Что такое спред и проскальзывание](https://academy.binance.com/ru/articles/bid-ask-spread-and-slippage-explained)
 * [Что такое биржевой стакан (стоит ли его применять) – как работает](https://equity.today/chto-takoe-birzhevoj-stakan.html)
+* [What is Technical Analysis? Candlesticks, Trendlines, Patterns Explained](https://www.youtube.com/watch?v=4c5WKOB3U5c)
 
 Доп. материалы:
 * [What Are Stop-Loss and Take-Profit Levels and How to Calculate Them?](https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them)
