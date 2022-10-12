@@ -14,3 +14,5 @@
   * [unslashed.finance](https://unslashed.finance/)
   * [Unslashed Finance - DeFi Insurance Explained | Securing Your Crypto](https://www.youtube.com/watch?v=eHrN46pQGrk)
 
+Доп. материалы:
+* [TOKEN-BASED INSURANCE SOLUTIONS ON BLOCKCHAIN](https://arxiv.org/pdf/2109.07902.pdf)
