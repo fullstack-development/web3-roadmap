@@ -28,6 +28,7 @@
 * [What Is Backtesting?](https://academy.binance.com/en/articles/what-is-backtesting)
 * [How to Backtest a Trading Strategy](https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy)
 * [What Is a Trading Journal and How to Use One](https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one)
+* [Market correction vs. bear market: Key differences explained](https://cointelegraph.com/explained/market-correction-vs-bear-market-key-differences-explained)
 
 Вопросы:
 
