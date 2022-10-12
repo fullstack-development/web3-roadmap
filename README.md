@@ -40,6 +40,7 @@
       - [Rug pulls](defi/rug-pulls.md)
       - [MEV](defi/mev.md)
       - [Balancer](defi/balancer.md)
+      - [DEX with orderbook](dex-with-orderbook.md)
     * [Arbitrage](defi/arbitrage.md)
     * [Front-running](defi/frontrunning.md)
     * [Trading bots](defi/bots.md)
