@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](defi-intro.md)
+* [Web 3.0](Web3.md)
 * [Blockchain basics](blockchain/blokchein-i-bitcoin.md)
   - [Ethereum и смарт-контракты](blockchain/ethereum.md)
   - [Consensys](blockchain/consensys.md)
@@ -52,6 +53,7 @@
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
+  - [Play to earn](defi/play to earn.md)
   - [DAO](defi/dao.md)
 * Tools
   - [The graph](tools/graph.md)
