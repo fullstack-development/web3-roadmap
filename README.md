@@ -53,7 +53,7 @@
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
-  - [Play to earn](defi/play to earn.md)
+  - [Play to earn](defi/P2E.md)
   - [DAO](defi/dao.md)
 * Tools
   - [The graph](tools/graph.md)
