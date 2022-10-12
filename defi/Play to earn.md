@@ -6,10 +6,10 @@
 * [Play-to-Earn](https://finswin.com/kripto/terminologiya/play-to-earn.html)
 * [Как работает Play-to-Earn на примере игры Gods Unchained](https://finswin.com/kripto/igry/gods-unchained.html)
 * [Как работает Play-to-Earn на примере игры CryptoKitties](https://finswin.com/kripto/igry/cryptokitties.html)
-* [Что такое play-to-earn (P2E-игры) простыми словами] (https://ru.beincrypto.com/learn/chto-takoe-play-to-earn-p2e-igry)
+* [Что такое play-to-earn (P2E-игры) простыми словами](https://ru.beincrypto.com/learn/chto-takoe-play-to-earn-p2e-igry)
 
 Дополнительные материалы:
-* [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022] (https://incrypted.com/best-projects-play-to-earn-p2e-games)
+* [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games)
 
 
 Вопросы:
