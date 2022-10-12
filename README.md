@@ -41,6 +41,7 @@
       - [MEV](defi/mev.md)
       - [Balancer](defi/balancer.md)
     * [Arbitrage](defi/arbitrage.md)
+    * [Front-running](defi/frontrunning.md)
   - [Lending & Borrowing & Vaults](defi/lending.md)
     * [Flash loans](defi/flash.md)
     * [Yield farming](defi/yield.md)
