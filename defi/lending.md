@@ -7,6 +7,7 @@
 * [Lending And Borrowing In DEFI Explained - Aave, Compound](https://www.youtube.com/watch?v=aTp9er6S73M)
 * [Crypto Education - Lending & Borrowing | Animation | Cryptomatics](https://www.youtube.com/watch?v=SrArEE6p3zM)
 * [Что такое процентная ставка](https://academy.binance.com/ru/articles/interest-rates-explained)
+* [APR vs. APY: What’s the difference?](https://cointelegraph.com/explained/apr-vs-apy-whats-the-difference)
 * AAVE
   - [Что такое Aave?](https://forklog.com/cryptorium/chto-takoe-aave/)
   - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained](https://www.youtube.com/watch?v=dTCwssZ116A)
