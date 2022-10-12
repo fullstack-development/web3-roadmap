@@ -10,6 +10,7 @@
 
 Дополнительные материалы:
 * [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games)
+* [The GameFi Cycle - Why all Play To Earn (P2E) games die](https://www.youtube.com/watch?v=0Bq-jmK1O-k&list=RDCMUCsYYksPHiGqXHPoHI-fm5sg&start_radio=1)
 
 
 Вопросы:
