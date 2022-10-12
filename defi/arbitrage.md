@@ -7,6 +7,7 @@
 * [Арбитраж крипты: что это?](https://vc.ru/u/1074059-nft-brihaspati/492675-arbitrazh-kripty-chto-eto)
 * [Что такое арбитраж криптовалюты?](https://forklog.com/cryptorium/chto-takoe-arbitrazh-kriptovalyuty/)
 * [Crypto Arbitrage: Overview, Trading Strategies, Opportunities, and More](https://blog.quantinsti.com/crypto-arbitrage/)
+* [What is Crypto Arbitrage? Is Trading Profitable with Bots?](https://www.youtube.com/watch?v=b3BcH5DvC-Q)
 
 
 Дополнительные материалы :
