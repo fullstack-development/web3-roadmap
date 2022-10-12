@@ -7,3 +7,4 @@
 * [Что такое Rug Pull? Примеры мошенничества в крипте и обзор с анимацией](https://www.youtube.com/watch?v=NW2N9q1qLUo)
 * [Avoid Crypto Scams - 7 Signs of a Rug Pull!](https://www.youtube.com/watch?v=a3CZBBqIfn0)
 * [What are Rug Pulls and How to Avoid Them?](https://www.youtube.com/watch?v=ViopbzAsYJg)
+* [Crypto rug pulls: What is a rug pull in crypto and 6 ways to spot it](https://cointelegraph.com/explained/crypto-rug-pulls-what-is-a-rug-pull-in-crypto-and-6-ways-to-spot-it)
