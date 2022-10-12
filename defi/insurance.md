@@ -11,5 +11,6 @@
   * [DeFi Talks with DeFi Dad: Хью Карп из Nexus Mutual](https://www.youtube.com/watch?v=hUjmgKnDwJI)
   * [How to Buy DeFi Insurance and the NXM Token with Nexus Mutual](https://www.youtube.com/watch?v=rnzInsKPLR0)
 * Unslashed Finance
+  * [unslashed.finance](https://unslashed.finance/)
   * [Unslashed Finance - DeFi Insurance Explained | Securing Your Crypto](https://www.youtube.com/watch?v=eHrN46pQGrk)
 
