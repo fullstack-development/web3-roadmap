@@ -15,6 +15,7 @@
 
 Доп. материалы:
 * [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/mob-short-squeeze-has-traders-reminiscing-gme-days)
+* [NFTs and intellectual property, explained](https://cointelegraph.com/explained/nfts-and-intellectual-property-explained)
 
 Задания:
 
