@@ -7,4 +7,5 @@
 * [Nexus Mutual Review: Buy & Stake NXM (DeFi Insurance)](https://www.youtube.com/watch?v=sl0P3-lI_AI)
 * [Nexus Mutual | Understanding the Concept of Decentralised Insurance | Interaxis.io](https://www.youtube.com/watch?v=8ljNoV2IhGE)
 * [DeFi Talks with DeFi Dad: Хью Карп из Nexus Mutual](https://www.youtube.com/watch?v=hUjmgKnDwJI)
+* [How to Buy DeFi Insurance and the NXM Token with Nexus Mutual](https://www.youtube.com/watch?v=rnzInsKPLR0)
 
