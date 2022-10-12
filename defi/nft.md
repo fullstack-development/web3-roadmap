@@ -13,6 +13,7 @@
 * [NFT ТОКЕНЫ - Что это такое и как можно заработать на NFT | Token Stories Ч.7](https://www.youtube.com/watch?v=AXWIu-vaWgI)
 * [What Are NFTs and How Can They Be Used in DeFi?](https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/)
 * [OpenSea vs. Rarible: Which Is the Better NFT Marketplace?](https://www.coindesk.com/learn/opensea-vs-rarible-which-is-the-better-nft-marketplace/)
+* [Полное руководство по Rarible! Как создать NFT](https://www.youtube.com/watch?v=BLvZRaWY-JQ)
 
 Доп. материалы:
 * [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/mob-short-squeeze-has-traders-reminiscing-gme-days)
