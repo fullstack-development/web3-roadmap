@@ -1,7 +1,5 @@
 # Web3
 
-in DEFI and web3
-
 Материалы:
 * [БУДУЩЕЕ ИНТЕРНЕТА | Что такое Web3? | Отличия от Web 2.0](https://www.youtube.com/watch?v=i7dCUL_rhbo&t=11s)
 * [Введение в Web3](https://ethereum.org/ru/web3/)
