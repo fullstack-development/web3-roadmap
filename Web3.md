@@ -6,6 +6,7 @@
 * [Что такое Web3?](https://forklog.com/cryptorium/chto-takoe-web3-web-3-0)
 * [Making Sense of Web 3](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
 * [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+* [What is Web 3.0?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 
 
 
