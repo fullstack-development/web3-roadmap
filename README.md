@@ -54,6 +54,7 @@
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
     * [Play to earn](defi/P2E.md)
+    * [Metaverse](Metaverse.md)
   - [DAO](defi/dao.md)
   - [Insurance](defi/insurance.md)
 * Tools
@@ -64,4 +65,4 @@
   - [ENS](tools/ens.md)
   - [Development technologies](tools/development.md)
   - [Audit](tools/audit.md)
-* [Metaverse](Metaverse.md)
+
