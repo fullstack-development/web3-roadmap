@@ -17,3 +17,4 @@
 Доп. материалы:
 * [TOKEN-BASED INSURANCE SOLUTIONS ON BLOCKCHAIN](https://arxiv.org/pdf/2109.07902.pdf)
 * [What is crypto insurance and who are its top players?](https://www.techinasia.com/crypto-insurance-top-players)
+* CHAPTER 8: DECENTRALIZED INSURANCE in How to DEFI. Advanced
