@@ -1,11 +1,11 @@
-# Ethereum и смарт-контракты
+# Ethereum and smart-contracts
 
-Материалы:
+Resources:
 
-* [Как устроен Ethereum и смарт-контракты. Децентрализованная машина Тьюринга с гарантиями блокчейна](https://vas3k.ru/blog/ethereum/)
+* [Как устроен Ethereum и смарт-контракты. Децентрализованная машина Тьюринга с гарантиями блокчейна](https://vas3k.ru/blog/ethereum/) // translate
 * [How does Ethereum work, anyway? by Preethi Kasireddy](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
 
-Вопросы:
+Questions:
 
 * Что такое смарт-контракты? Какую проблему они решают?
 * Почему для биткоина нельзя писать смарт-контракты а для Ethereum можно? 
