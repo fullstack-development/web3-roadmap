@@ -17,6 +17,7 @@
 * [What is an Automated Market Maker? (Liquidity Pool Algorithm)](https://www.youtube.com/watch?v=1PbZMudPP5E)
 * [Automated Market Makers: What You Need to Know](https://hackernoon.com/automated-market-makers-what-you-need-to-know)
 * [What explains the rise of AMMs?](https://medium.com/dragonfly-research/what-explains-the-rise-of-amms-7d008af1c399)
+* [Understanding AMMs - The Basics](https://kermankohli.substack.com/p/understanding-amms-the-basics-f30)
 
 * [What is Uniswap - A Beginner's Guide](https://www.youtube.com/watch?v=dIneNZTnFMw)
 * [What is Uniswap? (Animated) Decentralized Exchange + UNI Token](https://www.youtube.com/watch?v=DLu35sIqVTM)
