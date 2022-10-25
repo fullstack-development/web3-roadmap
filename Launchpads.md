@@ -11,6 +11,7 @@
 
 Дополнительные матреиалы:
 * [Что нужно знать об IDO и токенсейлах, сравнение лучших 7 лаунчпадов по типу Polkastarter](https://www.youtube.com/watch?v=wINPuKDG6iU)
+* [What Is A Launchpad In Crypto And How To Use Them? (Whiteboard Animated)](https://www.youtube.com/watch?v=G1yQnPKSgzY)
 
 
 
