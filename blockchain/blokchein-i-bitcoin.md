@@ -10,7 +10,7 @@
 * [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/)
 * [Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!](https://www.youtube.com/watch?v=oUusKpkSHkw)
 * [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
-* [Sybil Attacks Explained](https://academy.binance.com/ru/articles/sybil-attacks-explained)
+* [Sybil Attacks Explained](https://academy.binance.com/en/articles/sybil-attacks-explained)
 
 Вопросы:
 
