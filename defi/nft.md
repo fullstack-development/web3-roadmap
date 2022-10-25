@@ -3,6 +3,7 @@
 Материалы:
 
 * [Библия NFT (перевод статьи с OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
+* [What is an NFT?](https://ethereum.org/en/nft/)
 * [What is an NFT? (Non-Fungible Tokens Explained)](https://www.youtube.com/watch?v=4dkl5O9LOKg)
 * [How to Create, Deploy, and Sell a Generative Art NFT (Beginner Friendly!)](https://www.youtube.com/watch?v=MKwWpZEuLTs)
 * [NFT токены - Почему все о них говорят? (Полное руководство)](https://www.youtube.com/watch?v=APm5GYUP3hM)
