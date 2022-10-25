@@ -1,18 +1,18 @@
-# Блокчейн и Bitcoin
+# Blockchain and Bitcoin
 
-Материалы:
+Resources:
 
-* [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/)
+* [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/) // translate
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
-* [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/)
-* [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/)
-* [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/)
+* [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/) // translate
+* [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/) // translate
+* [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/) // translate
 * [Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!](https://www.youtube.com/watch?v=oUusKpkSHkw)
 * [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
 * [Sybil Attacks Explained](https://academy.binance.com/en/articles/sybil-attacks-explained)
 
-Вопросы:
+Questions:
 
 * Что такое блокчейн? Какую проблему он решает?
 * Придумайте 3 применения блокчейну, не связанные с финансами.
