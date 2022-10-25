@@ -10,6 +10,7 @@ Resources:
 Additional resources:
 * [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/)
 * [The dark side of Web3 and the path of progressive decentralization](https://cointelegraph.com/innovation-circle/the-dark-side-of-web3-and-the-path-of-progressive-decentralization)
+* [The Pros and Cons of Web3](https://supraoracles.com/academy/the-pros-and-cons-of-web3/)
 
 Questions:
 
