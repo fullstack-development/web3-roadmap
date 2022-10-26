@@ -10,7 +10,6 @@ Resources:
   - [DefiLlama](https://defillama.com/chain/BSC)
 * Avalance
   - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
-  - [Что такое Avalanche (AVAX)?](https://forklog.com/cryptorium/chto-takoe-avalanche/) // translate
   - [A Quick Overview of Avalanche (AVAX) and Why You Should Be Paying Attention](https://cryptoseq.medium.com/a-quick-overview-of-avalanche-avax-and-why-you-should-be-paying-attention-612278598da2)
   - [Avalanche, a Revolutionary Consensus Engine and Platform. A Game Changer for Blockchain](https://medium.com/avalanche-hub/avalanche-a-revolutionary-consensus-engine-and-platform-a-game-changer-for-blockchain-fdac008edc35)
   - [Comparison between Avalanche, Cosmos and Polkadot](https://medium.com/avalanche-hub/comparison-between-avalanche-cosmos-and-polkadot-a2a98f46c03b)
