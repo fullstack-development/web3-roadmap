@@ -12,6 +12,9 @@ Resources:
 * [What is EUTXO model?](https://docs.cardano.org/learn/eutxo-explainer)
 * [Cardano wallets](https://www.cada.news/best-cardano-ada-wallets/)
 
+Additional resources:
+
+* [Hashoshi channel](https://www.youtube.com/c/Hashoshi4/videos)
 
 Questions:
 * What is Cardano? Shortly point out the main differences with EVM-networks. 
