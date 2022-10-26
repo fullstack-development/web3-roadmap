@@ -10,19 +10,18 @@ Resources:
 
 Questions:
 
-* Что такое смарт-контракты? Какую проблему они решают?
-* Почему для биткоина нельзя писать смарт-контракты а для Ethereum можно? 
-* Что происходит когда кто-то вызывает функцию смарт-контракта?
-* Как изнутри функции смарт-контракта выполнить http-запрос?
-* Можно ли изнутри функции смарт-контракта вызвать функцию другого смарт-контракта? 
-* Можно ли вызвать функцию смарт-контракта используя отложенный таймер? Может ли контракт в случае если сделка была нарушена вернуть средства пользователю автоматически без вызова функций? 
-* Кто платит комиссию за вызов метода смарт-контракта? Как эта комиссия расчитывается? Что такое Gas price и Gas Limit?
-* Что произойдет если комиссии не хватит для исполнения функции смарт-контракта?
-* Чем в сети Ethereum отличаются сущность кошелька от сущности контракта?
-* Для чего вызывают транзакцию без получателя?
-* Чем отличаются цепочка состояний от цепочки изменений?
+* What are smart contracts? What problem are they solving?
+* Why is it impossible to write smart contracts for bitcoin, but for Ethereum is real?
+* What happens when someone calls a smart contract function?
+* How to make an http request from inside the smart contract function?
+* Is it possible to call the function of another smart contract from within a smart contract function? 
+* Is it possible to call a smart contract function using a delayed timer? Can the contract return funds to the user automatically without calling functions if the transaction was violated?
+* Who pays the fee for calling the smart contract method? How is this commission calculated? What is Gas Price and Gas Limit?
+* What happens if the commission is not enough to perform the function of a smart contract?
+* How does the essence of a wallet differ from the essence of a contract in the Ethereum network?
+* Why call a transaction without a recipient?
+* What is the difference between a chain of states and a chain of changes?
 * Что такое storage в смарт-контракте сети Ethereum?
-* Чем отличается транзакция в сети Bitcoin от транзакции в сети Ethereum? Какими составляющими?
-* Что такое чек, он же receipt?
-* Кто и как устанавливает сложность задачи для майнинга блока?
-* Что такое uncle или ommer в майнинге блока и для чего ввели эту штуку?
+* What is storage in the smart contract of the Ethereum network?
+* How is a transaction on the Bitcoin network different from a transaction on the Ethereum network? What are the fields (parts)?
+* What is a check, aka receipt?
