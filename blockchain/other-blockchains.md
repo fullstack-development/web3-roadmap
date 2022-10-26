@@ -1,6 +1,6 @@
 # Other blockchains
 
-Материалы:
+Resources:
 
 * NEAR
   - [What is NEAR Protocol? NEAR Explained with Animations](https://www.youtube.com/watch?v=1cozsZP8yd4)
@@ -9,4 +9,6 @@
 * Ripple
   - [What Is Ripple(XRP)?](https://academy.binance.com/en/articles/what-is-ripple)
 * Filecoin
-  - [Что такое Filecoin (FIL)?](https://academy.binance.com/ru/articles/what-is-filecoin-fil)
+  - [What Is Filecoin (FIL)?](https://academy.binance.com/en/articles/what-is-filecoin-fil)
+
+Questions:
