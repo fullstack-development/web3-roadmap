@@ -2,7 +2,6 @@
 
 Resources:
 
-* [Гайд по безопасности от Whitelist](https://incrypted.com/guide-safety-from-whitelist/)
-* [Как необдуманная подпись в Metamask может лишить вас всех средств](https://incrypted.com/signature-in-metamask-can-drain-your-wallet/)
+* [9 Tips For Securing Your Bitcoin and Crypto Wallets You Must Follow (Updated 2022)](https://cryptopotato.com/9-must-tips-securing-crypto-wallet)
 
 Questions:
