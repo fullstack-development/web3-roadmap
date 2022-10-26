@@ -2,7 +2,7 @@
 
 Resources:
 
-* [Блокчейн изнутри: как устроен биткоин. Разбираемся раз и навсегда человеческим языком](https://vas3k.ru/blog/blockchain/) // translate
+* [Blockchain Inside Out: How Bitcoin Works. Once and for all in simple words](https://vas3k.com/blog/blockchain/) 
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [Дерево Меркла](https://forklog.com/cryptorium/chto-takoe-derevo-merkla/) // translate
