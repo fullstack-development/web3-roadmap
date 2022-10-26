@@ -16,5 +16,6 @@ Resources:
 * [Blockchain Oracles Explained](https://coin98.net/what-is-blockchain-oracle)
 * [A Study of Blockchain Oracles](https://arxiv.org/pdf/2004.07140.pdf)
 * [chain.link](https://chain.link/use-cases)
+* [Chainlink Cryptocurrency: The ULTIMATE Guide to Chainlink! // $LINK](https://www.youtube.com/watch?v=m_1uDhsnghw&list=PLZWRruJDdjy2qkkV-T0hluz83rlG6gwXa)
 
 Questions:
