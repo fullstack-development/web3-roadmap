@@ -57,6 +57,7 @@
     * [Metaverse](Metaverse.md)
   - [DAO](defi/dao.md)
   - [Insurance](defi/insurance.md)
+  - [Launchpads](Launchpads.md)
 * Tools
   - [The graph](tools/graph.md)
   - [Multisig & gnosis safe](tools/multisig.md)
