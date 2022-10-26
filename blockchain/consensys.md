@@ -1,6 +1,6 @@
 # Consensys
 
-Материалы:
+Resources:
 
 * [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d)
 * [Теория игр](https://academy.binance.com/ru/articles/game-theory-and-cryptocurrencies)
@@ -19,7 +19,7 @@
 * [Разъяснение Proof of Burn](https://academy.binance.com/ru/articles/proof-of-burn-explained)
 
 
-Вопросы:
+Questions:
 
 * What is consensus mechanism? Why is it needed?
 * What problem is solved by consensus mechanism?
