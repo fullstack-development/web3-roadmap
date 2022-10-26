@@ -4,6 +4,9 @@ Resources:
 
 * [How Ethereum and Smart Contracts Work. Distributed Turing Machine with Blockсhain Protection](https://vas3k.com/blog/ethereum/)
 * [How does Ethereum work, anyway? by Preethi Kasireddy](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
+* [CODE IS LAW? Smart Contracts Explained (Ethereum, DeFi)](https://www.youtube.com/watch?v=pWGLtjG-F5c)
+* [What are Smart Contracts in Crypto? (4 Examples + Animated)](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+* [What is Ethereum Gas? (Examples + Easy Explanation)](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
 
 Questions:
 
