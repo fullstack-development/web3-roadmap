@@ -15,6 +15,6 @@ Additional resources:
 
 Questions:
 
-* В чем разница между web1, web2, web3?
-* В чем основные проблемы каждого поколения web?
-* Вспомните, какими web3 приложения вы пользовались когда-либо? Пару примеров.
+* What is the difference between web1, web2, web3?
+* What are the main problems of each generation of web?
+* What are the advantages and disadvantages of web3?
