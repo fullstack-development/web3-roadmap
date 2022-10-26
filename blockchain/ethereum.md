@@ -2,7 +2,7 @@
 
 Resources:
 
-* [Как устроен Ethereum и смарт-контракты. Децентрализованная машина Тьюринга с гарантиями блокчейна](https://vas3k.ru/blog/ethereum/) // translate
+* [How Ethereum and Smart Contracts Work. Distributed Turing Machine with Blockсhain Protection](https://vas3k.com/blog/ethereum/)
 * [How does Ethereum work, anyway? by Preethi Kasireddy](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
 
 Questions:
