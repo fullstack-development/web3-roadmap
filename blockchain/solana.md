@@ -8,5 +8,6 @@ Resources:
 * [8 Innovations that Make Solana the First Web-Scale Blockchain](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 * [ecosystem](https://solana.com/ecosystem)
 * [Nansen's Solana Quarterly Report - Q2 2022](https://www.nansen.ai/report/nansens-solana-quarterly-report-q2-2022)
+* [Exploring the Solana Ecosystem](https://research.thetie.io/solana-ecosystem/)
 
 Questions:
