@@ -11,3 +11,7 @@ Questions:
 
 * What precautions are there to keep your wallet safe?
 * What is fishing?
+
+Tasks:
+
+* Check your approvals here: https://etherscan.io/tokenapprovalchecker
