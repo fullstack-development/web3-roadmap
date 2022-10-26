@@ -1,6 +1,6 @@
 # Insurance
 
-Материалы:
+Sources:
 
 * [Decentralized Insurance: These 4 Companies are Raising the Bar in 2021](https://hackernoon.com/decentralized-insurance-these-4-companies-are-raising-the-bar-in-2021-oxk35eo)
 * Nexus Mutual
@@ -14,7 +14,9 @@
   * [unslashed.finance](https://unslashed.finance/)
   * [Unslashed Finance - DeFi Insurance Explained | Securing Your Crypto](https://www.youtube.com/watch?v=eHrN46pQGrk)
 
-Доп. материалы:
+Further reading :
 * [TOKEN-BASED INSURANCE SOLUTIONS ON BLOCKCHAIN](https://arxiv.org/pdf/2109.07902.pdf)
 * [What is crypto insurance and who are its top players?](https://www.techinasia.com/crypto-insurance-top-players)
 * CHAPTER 8: DECENTRALIZED INSURANCE in How to DEFI. Advanced
+
+Questions: 
