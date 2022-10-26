@@ -12,5 +12,6 @@ Resources:
 
 Additional resources
 * [Solana blockchain halted for over 4 hours; what happened, find out here](https://www.businesstoday.in/crypto/story/solana-blockchain-halted-for-over-4-hours-what-happened-find-out-here-336079-2022-06-02)
+* [Solana Challenges Poor Safety Rating From DeFi Watchdog](https://decrypt.co/102416/crypto-ratings-project-defi-safety-downgrades-solana-infrastructure-concerns)
 
 Questions:
