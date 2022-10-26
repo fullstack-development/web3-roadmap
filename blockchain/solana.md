@@ -10,4 +10,7 @@ Resources:
 * [Nansen's Solana Quarterly Report - Q2 2022](https://www.nansen.ai/report/nansens-solana-quarterly-report-q2-2022)
 * [Exploring the Solana Ecosystem](https://research.thetie.io/solana-ecosystem/)
 
+Additional resources
+* [Solana blockchain halted for over 4 hours; what happened, find out here](https://www.businesstoday.in/crypto/story/solana-blockchain-halted-for-over-4-hours-what-happened-find-out-here-336079-2022-06-02)
+
 Questions:
