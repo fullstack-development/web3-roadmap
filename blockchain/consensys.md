@@ -10,8 +10,7 @@ Resources:
 * [Proof of stake. Ethereum docs](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 * [Proof of stake. Binance Academy](https://academy.binance.com/en/articles/proof-of-stake-explained)
 * [What is Ethereum Casper?](https://academy.binance.com/en/articles/ethereum-casper-explained)
-* [Переход Ethereum на Proof-of-Stake (PoS): все, что нужно знать](https://forklog.com/cryptorium/perehod-ethereum-na-proof-of-stake-pos-vse-chto-nuzhno-znat/) //translate
-* [Proof of Work (PoW) или Proof of Stake (PoS). Binance Academy](https://academy.binance.com/ru/articles/proof-of-work-vs-proof-of-stake)
+* [Proof of Work (PoW) or Proof of Stake (PoS). Binance Academy](https://academy.binance.com/en/articles/proof-of-work-vs-proof-of-stake)
 * [Delegated Proof of Stake](https://www.youtube.com/watch?v=KG9_U2IYmuc)
 * [Proof of Authority](https://www.youtube.com/watch?v=rjsaa0tJ8Cw)
 * [Delayed Proof of Work explained](https://academy.binance.com/en/articles/delayed-proof-of-work-explained)
