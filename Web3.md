@@ -16,5 +16,6 @@ Additional resources:
 Questions:
 
 * What is the difference between web1, web2, web3?
+* What is the main goal of web3?
 * What are the main problems of each generation of web?
 * What are the advantages and disadvantages of web3?
