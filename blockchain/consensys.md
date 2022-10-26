@@ -19,6 +19,10 @@ Resources:
 * [Proof of Burn explained](https://academy.binance.com/en/articles/proof-of-burn-explained)
 
 
+Additional resources:
+* [The Merge](https://ethereum.org/en/upgrades/merge/)
+
+
 Questions:
 
 * What is consensus mechanism? Why is it needed?
