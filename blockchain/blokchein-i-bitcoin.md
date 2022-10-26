@@ -7,8 +7,8 @@ Resources:
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [What Is a Merkle Tree & What Is Its Role in Blockchain?](https://learn.bybit.com/blockchain/what-is-merkle-tree/)
-* [Сложность майнинга криптовалют](https://forklog.com/cryptorium/chto-takoe-heshrejt-i-slozhnost-majninga-kriptovalyut/) // translate
-* [Халвинг биткоина](https://forklog.com/cryptorium/chto-takoe-halving-bitkoina/) // translate
+* [Mining Difficulty - Simply Explained](https://www.youtube.com/watch?v=o1gOyhU6XEw)
+* [What is the Bitcoin Halving? CoinDesk Explains](https://www.youtube.com/watch?v=rT3szqSykVU)
 * [Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!](https://www.youtube.com/watch?v=oUusKpkSHkw)
 * [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
 * [Sybil Attacks Explained](https://academy.binance.com/en/articles/sybil-attacks-explained)
