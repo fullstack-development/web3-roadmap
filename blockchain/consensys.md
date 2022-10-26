@@ -21,6 +21,7 @@ Resources:
 
 Additional resources:
 * [The Merge](https://ethereum.org/en/upgrades/merge/)
+* [What is The Ethereum Merge?](https://www.kraken.com/learn/ethereum-merge-explained)
 
 
 Questions:
