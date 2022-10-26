@@ -7,6 +7,7 @@ Resources:
 * [What is Cardano (ADA)? The Peer-Reviewed Blockchain](https://decrypt.co/resources/cardano)
 
 * [What is Plutus?](https://docs.cardano.org/plutus/learn-about-plutus)
+* [Cardano ADA Review by an Ethereum Developer! (Cardano News!)](https://www.youtube.com/watch?v=r9OLFZqkHLw)
 * [Cardano: Plutus Smart Contracts Explained (Deep Dive!)](https://www.youtube.com/watch?v=SvaFFSqyVwM)
 * [What is EUTXO model?](https://docs.cardano.org/learn/eutxo-explainer)
 * [Cardano wallets](https://www.cada.news/best-cardano-ada-wallets/)
