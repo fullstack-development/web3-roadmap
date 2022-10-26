@@ -1,7 +1,7 @@
 # Oracles
 
 
-Материалы:
+Resources:
 
 * [What are Oracles in Crypto? (Animated)](https://www.youtube.com/watch?v=uycQ7ReSt_c&t=3s)
 * [What is Chainlink? LINK Explained with Animations (Price Prediction)](https://www.youtube.com/watch?v=GnXsJe2wZ_w)
@@ -16,3 +16,5 @@
 * [Blockchain Oracles Explained](https://coin98.net/what-is-blockchain-oracle)
 * [A Study of Blockchain Oracles](https://arxiv.org/pdf/2004.07140.pdf)
 * [chain.link](https://chain.link/use-cases)
+
+Questions:
