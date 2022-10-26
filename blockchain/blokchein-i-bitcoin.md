@@ -15,18 +15,18 @@ Resources:
 
 Questions:
 
-* Что такое блокчейн? Какую проблему он решает?
-* Придумайте 3 применения блокчейну, не связанные с финансами.
-* Что такое связный список?
-* Что такое нода? Кто хранит данные блокчейна?
-* Какие типы ключей бывают? Для чего они нужны? Каким ключом подписывается транзакция?
-* Что такое inputs и outputs? Что такое баланс кошелька?
-* Как решается проблема двойной траты в блокчейне?
-* Что такое дерево Меркла?
-* Какую задачу нужно решить чтобы добавить свой блок в блокчейн? Что такое nonce?
-* Кто такие майнеры и что такое майнинг пулы? Что такое Айсик?
-* Что произойдет если два майнера решат задачу одновременно?
-* Что такое атака 51%?
-* Что такое хеш-рейт?
-* Что такое халвинг?
-* Что такое альткоин?
+* What is blockchain? What problem does it solve?
+* Come up with 3 non-financial use-cases for blockchain.
+* What is a linked list? What is main purpose of its usage?
+* What is node in blockchain? Where is blockchain data stored?
+* What types of keys are there? What are they needed for? What key is used to sign the transaction?
+* What are inputs and outputs? What is wallet ballance?
+* How the problem of double spending solves in the blockchain?
+* What Is a Merkle Tree?
+* What task needs to be solved to add your block to the blockchain? What is nonce? What is Mining Difficulty?
+* Who are miners and what are mining pools? What is Asics?
+* What happens if two miners solve the problem at the same time?
+* What is a 51% attack?
+* What is a hash rate?
+* What is a halving?
+* What is a altcoin?
