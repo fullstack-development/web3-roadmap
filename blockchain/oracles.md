@@ -17,6 +17,7 @@ Resources:
 * [A Study of Blockchain Oracles](https://arxiv.org/pdf/2004.07140.pdf)
 * [chain.link]([https://chain.link/use-cases](https://chain.link/whitepaper)
 * [Chainlink Cryptocurrency: The ULTIMATE Guide to Chainlink! // $LINK](https://www.youtube.com/watch?v=m_1uDhsnghw&list=PLZWRruJDdjy2qkkV-T0hluz83rlG6gwXa)
+* [What Is the Blockchain Oracle Problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
 Questions:
 * What is oracle? What is main purpose of it?
