@@ -19,6 +19,10 @@ Resources:
 * [Chainlink Cryptocurrency: The ULTIMATE Guide to Chainlink! // $LINK](https://www.youtube.com/watch?v=m_1uDhsnghw&list=PLZWRruJDdjy2qkkV-T0hluz83rlG6gwXa)
 * [What Is the Blockchain Oracle Problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
+Additional resources:
+* [TWAP vs. VWAP Price Algorithms](https://blog.chain.link/twap-vs-vwap/)
+* [TWAP Oracles vs. Chainlink Price Feeds: A Comparative Analysis](https://smartcontentpublication.medium.com/twap-oracles-vs-chainlink-price-feeds-a-comparative-analysis-8155a3483cbd)
+
 Questions:
 * What is oracle? What is main purpose of it?
 * What is oracle problem?
