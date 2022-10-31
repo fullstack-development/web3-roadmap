@@ -21,6 +21,6 @@ Resources:
 
 Questions:
 * What is oracle? What is main purpose of it?
-* What problems exist with oracles?
+* What is oracle problem?
 * What types of oracles do you know?
 * What are inbound and outbound oracles?
