@@ -19,3 +19,4 @@ Resources:
 * [Chainlink Cryptocurrency: The ULTIMATE Guide to Chainlink! // $LINK](https://www.youtube.com/watch?v=m_1uDhsnghw&list=PLZWRruJDdjy2qkkV-T0hluz83rlG6gwXa)
 
 Questions:
+* What is oracle? What is main purpose of it?
