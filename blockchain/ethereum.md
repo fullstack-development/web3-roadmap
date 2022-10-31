@@ -21,7 +21,6 @@ Questions:
 * How does the essence of a wallet differ from the essence of a contract in the Ethereum network?
 * Why call a transaction without a recipient?
 * What is the difference between a chain of states and a chain of changes?
-* Что такое storage в смарт-контракте сети Ethereum?
 * What is storage in the smart contract of the Ethereum network?
 * How is a transaction on the Bitcoin network different from a transaction on the Ethereum network? What are the fields (parts)?
 * What is a check, aka receipt?
