@@ -22,6 +22,7 @@ Resources:
 Additional resources:
 * [TWAP vs. VWAP Price Algorithms](https://blog.chain.link/twap-vs-vwap/)
 * [TWAP Oracles vs. Chainlink Price Feeds: A Comparative Analysis](https://smartcontentpublication.medium.com/twap-oracles-vs-chainlink-price-feeds-a-comparative-analysis-8155a3483cbd)
+* [Oracle Exploit Sees $89 Million Liquidated on Compound](https://decrypt.co/49657/oracle-exploit-sees-100-million-liquidated-on-compound)
 
 Questions:
 * What is oracle? What is main purpose of it?
