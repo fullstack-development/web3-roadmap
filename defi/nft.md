@@ -1,6 +1,6 @@
 # Non-fungible tokens
 
-# Sources:
+## Sources:
 
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
 
@@ -20,7 +20,7 @@
 
 ---
 
-# Questions:
+## Questions:
 
 * Explain the definition between the fungible and non-fungible tokens.
 * Which are the most popular standards of non-fungible tokens? Tell about their definitions. 
