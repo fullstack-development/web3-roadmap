@@ -10,8 +10,6 @@
 
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
 
-* [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
-
 * [NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
 ---
@@ -23,5 +21,5 @@
 * What is the purpose of metadata in the NFT?
 * Why NFTs pictures are not storing on-chain? 
 * Describe briefly the main problem with royalties in the NFT?
-* Name the main purpose of SBT. 
+* What is the main purpose of SBT? 
 * How can creators benefit from submarining?
