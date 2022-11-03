@@ -2,17 +2,17 @@
 
 # Sources:
 
-*[The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
+* [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
 
-*[Scaling Your NFT Project: A Beginner’s Guide to IPFS](https://www.bueno.art/blog/pinata-ipfs-guide)
+* [Scaling Your NFT Project: A Beginner’s Guide to IPFS](https://www.bueno.art/blog/pinata-ipfs-guide)
 
-*[Storing NFTs on IPFS Advanced](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/) 
+* [Storing NFTs on IPFS Advanced](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/) 
 
-*[Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
+* [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
 
-*[What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
+* [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
 
-*[NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
+* [NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
 ---
 
