@@ -13,6 +13,7 @@
 * [NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
 ### Additional content:
+* [NFT Glossary](https://www.finder.com/nft-glossary)
 * [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/mob-short-squeeze-has-traders-reminiscing-gme-days)
 * [NFTs and intellectual property, explained](https://cointelegraph.com/explained/nfts-and-intellectual-property-explained)
 * [What are wash trading and money laundering in NFTs?](https://cointelegraph.com/explained/what-are-wash-trading-and-money-laundering-in-nfts)
