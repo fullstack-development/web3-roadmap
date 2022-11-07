@@ -2,7 +2,7 @@
 
 Resources:
 
-* [The GameFi Cycle - Why all Play To Earn (P2E) games die]([https://www.youtube.com/watch?v=y1BCkaYOJ0I](https://www.youtube.com/watch?v=0Bq-jmK1O-k))
+* [The GameFi Cycle - Why all Play To Earn (P2E) games die](https://www.youtube.com/watch?v=0Bq-jmK1O-k)
 * [Play-to-Earn](https://finswin.com/kripto/terminologiya/play-to-earn.html)
 * [What Are Play-to-Earn Games? How Players Are Making a Living With NFTs](https://decrypt.co/resources/what-are-play-to-earn-games-how-players-are-making-a-living-with-nfts)
 * [What Is Play To Earn? | Explained With Animation](https://www.youtube.com/watch?v=dYK-_mpvgOw)
