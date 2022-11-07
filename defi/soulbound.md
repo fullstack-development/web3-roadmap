@@ -1,6 +1,6 @@
 # Soulbound tokens
 
-Resources:
+Sources:
 
 * [What are Soulbound Tokens? SBTs Explained | Future of Ethereum](https://www.youtube.com/watch?v=6EhO8Dd-Z-o)
 * [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
@@ -23,4 +23,9 @@ Resources:
 * [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting | Glen Weyl, Puja Ohlhaver](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
 * [Bankless podcast - Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](http://podcast.banklesshq.com/soulbound-on-or-off-chain-vitalik-buterin-and-evin-mcmullen)
 
+
+
 Questions:
+* What is the difference between NFT and SBT?
+* How can SBTs be used?
+* How do SBTs work in Web3?
