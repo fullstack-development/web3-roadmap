@@ -1,7 +1,8 @@
 # Arbitrage
 
 
-Материалы: 
+Resources: 
+* [What is Crypto Arbitrage? Is Trading Profitable with Bots?](https://www.youtube.com/watch?v=b3BcH5DvC-Q&t=1s)
 * [What Is Arbitrage Trading?](https://academy.binance.com/en/articles/what-is-arbitrage-trading)
 * [Crypto Arbitrage: Overview, Trading Strategies, Opportunities, and More](https://blog.quantinsti.com/crypto-arbitrage/)
 * [What is Crypto Arbitrage? Is Trading Profitable with Bots?](https://www.youtube.com/watch?v=b3BcH5DvC-Q)
