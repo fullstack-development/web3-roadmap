@@ -9,7 +9,7 @@ Resources:
 
 Additional  materials:
 * [18 Top Play-To-Earn Crypto Games To Play In 2022](https://zipmex.com/learn/top-play-to-earn-crypto-games/)
-* [The GameFi Cycle - Why all Play To Earn (P2E) games die](https://www.youtube.com/watch?v=0Bq-jmK1O-k&list=RDCMUCsYYksPHiGqXHPoHI-fm5sg&start_radio=1)
+
 
 
 Questions:
