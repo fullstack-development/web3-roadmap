@@ -1,7 +1,7 @@
 # Bridges
 
 
-Материалы:
+Resources:
 
 * [What is a Crypto Bridge? (Examples + Purpose for Blockchains)](https://www.youtube.com/watch?v=nT26cIz8HjI)
 * [What Is A Crypto Bridge? | Blockchain Bridge EXPLAINED For Beginners](https://www.youtube.com/watch?v=xS0PyYpt6bA)
@@ -12,3 +12,4 @@
 * [How to Convert from Ethereum to Polygon using the Bridge](https://www.youtube.com/watch?v=GLK33hkwA68)
 * [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
+Questions:
