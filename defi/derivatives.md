@@ -1,8 +1,8 @@
 # Trading instruments
 
-Материалы:
+Resources:
 
-- [derivative. wiki](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82)
+- [derivative. wiki](https://en.wikipedia.org/wiki/Derivative_(finance))
 - [Derivatives Trading Explained](https://www.youtube.com/watch?v=LQrBzl0DMBA)
 - [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
@@ -25,16 +25,8 @@
   * [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
   * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
 
-Доп. материалы:
-- [A Quick Guide to Binance Dual Investment](https://academy.binance.com/en/articles/a-quick-guide-to-binance-dual-savings)
-- [Типы ордеров и чем они отличаются](https://academy.binance.com/ru/articles/understanding-the-different-order-types)
-- [Что такое лимитный ордер](https://academy.binance.com/ru/articles/what-is-a-limit-order)
-- [Что такое лимитный стоп-ордер?](https://academy.binance.com/ru/articles/what-is-a-stop-limit-order)
-- [Что такое рыночный ордер?](https://academy.binance.com/ru/articles/what-is-a-market-order)
-- [Что такое OCO-ордер](https://academy.binance.com/ru/articles/what-is-an-oco-order)
-
-Вопросы:
-* Что такое деривативы?
-* Что такое акции? Что такое облигации?
-* Что такое опцион? Какие опционы бывают?
-* Что такое маржинальная торговля? Что такое кредитное плечо? Что такое margin-call?
+Questions:
+* What is derivative?
+* What is stock? What is bond?
+* What is option? What types of options do you know?
+* What is margin trading? What is leverage? What is margin-call?
