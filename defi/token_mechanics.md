@@ -12,4 +12,4 @@ Questions:
 
 * What is Minting?
 * What is Burning?
-* What is Staking?
+* What is Staking? What is main purpose of staking?
