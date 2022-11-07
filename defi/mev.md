@@ -1,11 +1,11 @@
 # MEV
 
 
-Материалы:
+Resources:
 
-* [Невидимый налог в Ethereum: что такое MEV и как ему противостоять](https://forklog.com/exclusive/nevidimyj-nalog-v-ethereum-chto-takoe-mev-i-kak-emu-protivostoyat/)
-* [Что такое MEV? (Объяснение MEV на Ethereum)](https://www.youtube.com/watch?v=fBR5Rjwk5C4)
+* [What is MEV (Miner Extractable Value) in crypto?](https://blog.pantherprotocol.io/miner-extractable-value-the-good-the-bad-the-ugly/)
+* [What is MEV? (MEV on Ethereum Explained)](https://www.youtube.com/watch?v=fBR5Rjwk5C4)
 
 
-Вопросы:
+Questions:
 
