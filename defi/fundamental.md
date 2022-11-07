@@ -1,10 +1,9 @@
 # Fundamental analysis
   
-Материалы:
+Resources:
 
-- [Что такое фундаментальный анализ (FA)?](https://academy.binance.com/ru/articles/what-is-fundamental-analysis-fa)
-- [Как проводить фундаментальный анализ?](https://cryptonisation.com/kak-provodit-fundamentalnyy-analiz-kriptovalyut/)
+- [What is Fundamental Analysis (FA)?](https://academy.binance.com/en/articles/what-is-fundamental-analysis-fa)
 - [A Guide to Cryptocurrency Fundamental Analysis](https://academy.binance.com/en/articles/a-guide-to-cryptocurrency-fundamental-analysis)
 
-Доп. материалы:
+Additional resources:
 - [What Is Crypto Market Sentiment?](https://academy.binance.com/en/articles/what-is-crypto-market-sentiment)
