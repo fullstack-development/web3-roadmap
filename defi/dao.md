@@ -4,24 +4,19 @@
 
 * [What Are Governance Tokens?](https://academy.binance.com/en/articles/what-are-governance-tokens)
 * [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)
-* [Что такое токены управления (Governance Tokens), как работают и какие функции выполняют](https://bit.news/glavnie-novosti/chto-takoe-tokeny-upravleniya-governance-tokens-kak-rabotayut-i-kakie-funktsii-vypolnyayut)
-* [Governance token. Как развиваются блокчейн-проекты с помощью децентрализованной модели управления?](https://golden-island.net/governance-token/)
 * [What are Governance Tokens?](https://www.youtube.com/watch?v=8Sh8EOyWga8)
 * [Governance Tokens Explained in One Minute](https://www.youtube.com/watch?v=XlmyoWSVl9s)
 * [What are Governance Tokens? Governance Tokens Explained (with Animations)](https://www.youtube.com/watch?v=rIgpEaLLINI&t=163s)
 * [Aragon. Level Up Your Knowledge of DAOs](https://aragon.org/dao)
 * [Crypto Education - DAO Explained | Animation | Cryptomatics](https://www.youtube.com/watch?v=0uDuUXyFFoo)
-* [Как заработать на DAO? Виды DAO на рынке](https://www.youtube.com/watch?v=pMCkB4Qlcl8)
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide)
 * [What is a DAO and What is it For?](https://daohaus.substack.com/p/-what-is-a-dao-and-what-is-it-for)
 * [Decentralized Autonomous Organization (DAO): Definition, Purpose, and Example](https://www.investopedia.com/tech/what-dao/)
 * [What is a decentralized autonomous organization, and how does a DAO work?](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
 * [What Is A DAO And How Do They Work?](https://consensys.net/blog/blockchain-explained/what-is-a-dao-and-how-do-they-work/)
-* [Governance токены и DAO-организации | Token Stories ч.8](https://www.youtube.com/watch?v=BbexoOt3ys4)
-* [Что такое DAO? Объясняем за 9 минут! (ПростоКрипта)](https://www.youtube.com/watch?v=oLcDzR0TLOU)
 * [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
 
-Доп. материалы:
+Additional resources:
 * [Holographic consensus—part 1](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
 * [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
 * [House of DAOs](https://wiki.metagame.wtf/great-houses/house-of-daos)
