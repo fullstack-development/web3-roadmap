@@ -1,10 +1,10 @@
 # Economics
 
 
-Материалы:
+Resources:
 
-* [Как работает экономика](https://academy.binance.com/ru/articles/how-does-the-economy-work)
-* [Что такое инфляция](https://academy.binance.com/ru/articles/what-is-inflation)
-* [Что такое Гиперинфляция?](https://academy.binance.com/ru/articles/what-is-hyperinflation)
-* [Что такое стагфляция](https://academy.binance.com/ru/articles/what-is-stagflation)
+* [How Does the Economy Work?](https://academy.binance.com/en/articles/how-does-the-economy-work)
+* [What Is Inflation?](https://academy.binance.com/en/articles/what-is-inflation)
+* [What Is Hyperinflation?](https://academy.binance.com/en/articles/what-is-hyperinflation)
+* [What Is Stagflation?](https://academy.binance.com/en/articles/what-is-stagflation)
 * [Volatility](https://academy.binance.com/en/glossary/volatility)
