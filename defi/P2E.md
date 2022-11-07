@@ -2,15 +2,14 @@
 
 Resources:
 
-* [Что такое блокчейн-игры, и как в них заработать? | Axie Infinity](https://www.youtube.com/watch?v=y1BCkaYOJ0I)
+* [The GameFi Cycle - Why all Play To Earn (P2E) games die]([https://www.youtube.com/watch?v=y1BCkaYOJ0I](https://www.youtube.com/watch?v=0Bq-jmK1O-k))
 * [Play-to-Earn](https://finswin.com/kripto/terminologiya/play-to-earn.html)
-* [Как работает Play-to-Earn на примере игры Gods Unchained](https://finswin.com/kripto/igry/gods-unchained.html)
-* [Как работает Play-to-Earn на примере игры CryptoKitties](https://finswin.com/kripto/igry/cryptokitties.html)
-* [Что такое play-to-earn (P2E-игры) простыми словами](https://ru.beincrypto.com/learn/chto-takoe-play-to-earn-p2e-igry)
+* [What Are Play-to-Earn Games? How Players Are Making a Living With NFTs](https://decrypt.co/resources/what-are-play-to-earn-games-how-players-are-making-a-living-with-nfts)
 * [What Is Play To Earn? | Explained With Animation](https://www.youtube.com/watch?v=dYK-_mpvgOw)
+* [Let the blockchain games begin](https://zipmex.com/learn/the-future-of-blockchain-gaming/)
 
 Additional  materials:
-* [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games)
+* [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://zipmex.com/learn/top-play-to-earn-crypto-games/)
 * [The GameFi Cycle - Why all Play To Earn (P2E) games die](https://www.youtube.com/watch?v=0Bq-jmK1O-k&list=RDCMUCsYYksPHiGqXHPoHI-fm5sg&start_radio=1)
 
 
