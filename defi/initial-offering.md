@@ -1,6 +1,6 @@
 # Initial offering
 
-Материалы:
+Resources:
 
 * ICO
   - [What is an ICO?](https://www.youtube.com/watch?v=4_b3c1vjUeo&t=66s)
@@ -17,6 +17,6 @@
   - [What is an STO? Security Token Offering](https://www.youtube.com/watch?v=oHkspZEokY4&t=7s)
 
 
-Вопросы:
+Questions:
 
 *
