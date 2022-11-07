@@ -8,3 +8,5 @@ Resources:
 * [What Is Hyperinflation?](https://academy.binance.com/en/articles/what-is-hyperinflation)
 * [What Is Stagflation?](https://academy.binance.com/en/articles/what-is-stagflation)
 * [Volatility](https://academy.binance.com/en/glossary/volatility)
+
+Questions:
