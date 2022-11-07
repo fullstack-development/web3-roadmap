@@ -1,6 +1,6 @@
 # Parachains
 
-Материалы:
+Resources:
 
 * Polkadot
   - [What is Polkadot? DOT Explained with Animations](https://www.youtube.com/watch?v=YlAdEQp6ekM)
@@ -18,3 +18,5 @@
 * [Polkadot Vs. Cosmos: A Detailed Comparison](https://www.blockchain-council.org/blockchain/polkadot-vs-cosmos/)
 * [5 Differences between Cosmos & Polkadot](https://juliankoh.medium.com/5-differences-between-cosmos-polkadot-67f09535594b)
 * [Polkadot vs Cosmos: What is the Difference?](https://academy.moralis.io/blog/polkadot-vs-cosmos-what-is-the-difference)
+
+Questions:
