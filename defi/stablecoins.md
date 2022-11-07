@@ -1,8 +1,7 @@
 # Stablecoins
 
-Материалы:
+Resources:
 
-* [Все про стейблкоины простыми словами: как они работают и в чем их преимущества](https://incrypted.com/stablecoin-chto-eto-takoe/)
 * [What is a Stablecoin? (How they work - ANIMATED)](https://www.youtube.com/watch?v=pGzfexGmuVw)
 * [3 Stablecoin Algorithms Explained (Rebase, Empty Set Dollar, Basis Cash, Iron Finance)](https://www.youtube.com/watch?v=S7-rfvpEpJs)
 * [Fighting to be STABLE: the Evolution of Stablecoins](https://medium.com/dragonfly-research/fighting-to-be-stable-the-evolution-of-stablecoins-aca81fb432f9)
@@ -19,9 +18,9 @@
 * [What is Tether? USDT Stablecoin - How it works + MAJOR Issues](https://www.youtube.com/watch?v=cK8bAA6H5PY)
 * [What's The Best Stablecoin? | FULL Guide To Stablecoins In 2022!](https://www.youtube.com/watch?v=pfIq8aRNVZc)
 
-Доп. материалы:
 
-* [Война Tether vs. Circle: разбираем FUD вокруг главных стейблкоинов](https://incrypted.com/tether-vs-circle-war/)
+Additional resources:
+
 * [What Is PAX Gold (PAXG)?｜ Explained for Beginners](https://www.youtube.com/watch?v=Ocvz97jG2RY)
 * [The Terra Crash – A Deep Dive into Events that Wiped Out $45 Billion of Investor Wealth](https://finnick.club/2022/06/09/the-terra-crash-a-deep-dive-into-events-that-wiped-out-45-billion-of-investor-wealth/)
 * [Black Thursday for MakerDAO: $8.32 million was liquidated for 0 DAI](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6)
