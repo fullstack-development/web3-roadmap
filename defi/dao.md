@@ -1,6 +1,6 @@
 # DAO
 
-Материалы:
+Resources:
 
 * [What Are Governance Tokens?](https://academy.binance.com/en/articles/what-are-governance-tokens)
 * [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)
