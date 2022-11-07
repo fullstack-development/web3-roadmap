@@ -1,6 +1,7 @@
 # EVM compatible networks
 
 Resources:
+
 * [What are EVM-compatible blockchains?](https://medium.com/eligma-blog/what-are-evm-compatible-blockchains-64f91c97038e)
 * [Total Value Locked All Chains](https://defillama.com/chains/EVM)
 
@@ -8,6 +9,7 @@ Resources:
   - [Binance Smart Chain And CeDeFi Explained](https://www.youtube.com/watch?v=iJDoc0kvXLc)
   - [Connecting MetaMask to BNB Smart Chain](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
   - [DefiLlama](https://defillama.com/chain/BSC)
+
 * Avalance
   - [What is the Avalanche Network? AVAX Explained with Animations](https://www.youtube.com/watch?v=CbM2jidEn0s)
   - [A Quick Overview of Avalanche (AVAX) and Why You Should Be Paying Attention](https://cryptoseq.medium.com/a-quick-overview-of-avalanche-avax-and-why-you-should-be-paying-attention-612278598da2)
