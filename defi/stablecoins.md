@@ -23,3 +23,6 @@ Additional resources:
 * [What Is PAX Gold (PAXG)?｜ Explained for Beginners](https://www.youtube.com/watch?v=Ocvz97jG2RY)
 * [The Terra Crash – A Deep Dive into Events that Wiped Out $45 Billion of Investor Wealth](https://finnick.club/2022/06/09/the-terra-crash-a-deep-dive-into-events-that-wiped-out-45-billion-of-investor-wealth/)
 * [Black Thursday for MakerDAO: $8.32 million was liquidated for 0 DAI](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6)
+
+Questions:
+* What happened with Terra? (UST,LUNC)
