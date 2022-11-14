@@ -16,6 +16,9 @@ Questions:
 * What is an allocation? 
 * What is a Whitelist?
 * What are multi-accounts for?
+* What are 'tiers' on the launchpad for?
 * What's the difference between Launchpad and Launchpool?
 * What is usually called an 'FCFS round'?
 * Launchpad's fundraising process? Where does it start and what is the bottom line? 
+* Which kind of token distribution are using after IDO?
+* What is vesting?
