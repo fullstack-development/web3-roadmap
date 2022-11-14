@@ -17,4 +17,5 @@ Questions:
 * What is a Whitelist?
 * What are multi-accounts for?
 * What's the difference between Launchpad and Launchpool?
+* What is usually called an 'FCFS round'?
 * Launchpad's fundraising process? Where does it start and what is the bottom line? 
