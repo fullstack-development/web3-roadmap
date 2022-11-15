@@ -2,7 +2,7 @@
 
 Resources:
 
-* 1 & 2 chapters from 'How to DEFI' book
+* 1 & 2 chapters from 'How to DEFI' book by Coingecko
 * [DEFI - The Future Of Finance Explained](https://www.youtube.com/watch?v=H-O3r2YMWJ4)
 * [DEFI - From Inception To 2021 And Beyond (History Of Decentralized Finance Explained)](https://www.youtube.com/watch?v=qFBYB4W2tqU)
 * [DeFi - Past, Present and Future](https://www.youtube.com/watch?v=PT72hAbm2Eo)
