@@ -1,4 +1,4 @@
-# Play-to-earn (P2E)
+# Play-to-Earn (P2E)
 
 Resources:
 
