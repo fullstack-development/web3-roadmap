@@ -53,7 +53,7 @@
   - [Mixers](defi/mixers.md)
   - [NFT](defi/nft.md)
     * [Soulbound tokens](defi/soulbound.md)
-    * [Play to earn](defi/P2E.md)
+    * [Play-to-earn (P2E)](defi/P2E.md)
     * [Metaverse](Metaverse.md)
   - [DAO](defi/dao.md)
   - [Insurance](defi/insurance.md)
