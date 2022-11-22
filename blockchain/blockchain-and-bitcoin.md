@@ -9,6 +9,7 @@ Resources:
 * [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
 * [What Is a Merkle Tree & What Is Its Role in Blockchain?](https://learn.bybit.com/blockchain/what-is-merkle-tree/)
 * [Mining Difficulty - Simply Explained](https://www.youtube.com/watch?v=o1gOyhU6XEw)
+* [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
 * [What is the Bitcoin Halving? CoinDesk Explains](https://www.youtube.com/watch?v=rT3szqSykVU)
 * [Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!](https://www.youtube.com/watch?v=oUusKpkSHkw)
 * [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
@@ -19,7 +20,7 @@ Questions:
 * What is blockchain? What problem does it solve?
 * Come up with 3 non-financial use-cases for blockchain.
 * What is a linked list? What is main purpose of its usage?
-* What is node in blockchain? Where is blockchain data stored?
+* What is node in blockchain? Where is blockchain data stored? What types of nodes do you know?
 * What is hash function and what is 5 rules with it?
 * What types of keys are there? What are they needed for? What key is used to sign the transaction?
 * What are inputs and outputs? What is wallet ballance?
