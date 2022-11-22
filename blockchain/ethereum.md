@@ -11,6 +11,7 @@ Resources:
 Additional resources:
 * [What is an ABI of a Smart Contract? Examples and Usage](https://www.alchemy.com/overviews/what-is-an-abi-of-a-smart-contract-examples-and-usage)
 * [How to read Etherscan / Accounts & Smart Contracts (2/2) - Explained](https://www.youtube.com/watch?v=EkONLhRipJI)
+* [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
 
 Questions:
 
