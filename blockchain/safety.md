@@ -13,7 +13,4 @@ Questions:
 * What precautions are there to keep your wallet safe?
 * What is fishing?
 * What is approval in erc20 and why is it dangerous?
-
-Tasks:
-
-* Check your approvals here: https://etherscan.io/tokenapprovalchecker
+* Find out where you can check your approvals
