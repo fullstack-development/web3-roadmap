@@ -37,3 +37,4 @@ Questions:
 * What is a halving?
 * What is a altcoin?
 * What is UTXO?
+* Is there time in blockchain? 
