@@ -19,3 +19,4 @@ Questions:
 * What is the main goal of web3?
 * What are the main problems of each generation of web?
 * What are the advantages and disadvantages of web3?
+* What is the difference between distributed and decentralized?
