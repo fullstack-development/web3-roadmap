@@ -6,6 +6,7 @@ Resources:
 * [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
+* [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
 * [What Is a Merkle Tree & What Is Its Role in Blockchain?](https://learn.bybit.com/blockchain/what-is-merkle-tree/)
 * [Mining Difficulty - Simply Explained](https://www.youtube.com/watch?v=o1gOyhU6XEw)
 * [What is the Bitcoin Halving? CoinDesk Explains](https://www.youtube.com/watch?v=rT3szqSykVU)
