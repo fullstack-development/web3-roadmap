@@ -8,6 +8,9 @@ Resources:
 * [What are Smart Contracts in Crypto? (4 Examples + Animated)](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [What is Ethereum Gas? (Examples + Easy Explanation)](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
 
+Additional resources:
+* [What is an ABI of a Smart Contract? Examples and Usage](https://www.alchemy.com/overviews/what-is-an-abi-of-a-smart-contract-examples-and-usage)
+
 Questions:
 
 * What are smart contracts? What problem are they solving?
