@@ -12,6 +12,7 @@ Questions:
 
 * What are smart contracts? What problem are they solving?
 * Why is it impossible to write smart contracts for bitcoin, but for Ethereum is real?
+* What is Turing machine?
 * What happens when someone calls a smart contract function?
 * How to make an http request from inside the smart contract function?
 * Is it possible to call the function of another smart contract from within a smart contract function? 
