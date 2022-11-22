@@ -15,6 +15,9 @@ Resources:
 * [What Is Cryptojacking?](https://academy.binance.com/en/articles/what-is-cryptojacking)
 * [Sybil Attacks Explained](https://academy.binance.com/en/articles/sybil-attacks-explained)
 
+Additional resources:
+* [Blockchain Basics: Unspent Transaction Output (UTXO) Explained!](https://www.youtube.com/watch?v=hKft6E4K8KY&list=PLZWRruJDdjy1YCnVTcdh9w9vFe8DHy4SG)
+
 Questions:
 
 * What is blockchain? What problem does it solve?
@@ -33,3 +36,4 @@ Questions:
 * What is a hash rate?
 * What is a halving?
 * What is a altcoin?
+* What is UTXO?
