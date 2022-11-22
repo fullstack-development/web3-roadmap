@@ -25,3 +25,6 @@ Questions:
 * What is storage in the smart contract of the Ethereum network?
 * How is a transaction on the Bitcoin network different from a transaction on the Ethereum network? What are the fields (parts)?
 * What is a check, aka receipt?
+* What is explorer? How interact with smart-contract in explorer?
+* What is abi? Where you can find it? 
+* 
