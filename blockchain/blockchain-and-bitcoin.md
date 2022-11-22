@@ -20,6 +20,7 @@ Questions:
 * Come up with 3 non-financial use-cases for blockchain.
 * What is a linked list? What is main purpose of its usage?
 * What is node in blockchain? Where is blockchain data stored?
+* What is hash function and what is 5 rules with it?
 * What types of keys are there? What are they needed for? What key is used to sign the transaction?
 * What are inputs and outputs? What is wallet ballance?
 * How the problem of double spending solves in the blockchain?
