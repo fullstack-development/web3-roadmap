@@ -2,7 +2,7 @@
 
 * [Intro](defi-intro.md)
 * [Web 3.0](Web3.md)
-* [Blockchain basics](blockchain/blokchain-i-bitcoin.md)
+* [Blockchain basics](blockchain/blokchain-and-bitcoin.md)
   - [Ethereum and smart-contracts](blockchain/ethereum.md)
   - [Consensys](blockchain/consensys.md)
   - [Crypto-wallets](blockchain/wallets.md)
