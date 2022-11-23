@@ -7,6 +7,7 @@ Resources:
 
 * BSC
   - [Binance Smart Chain And CeDeFi Explained](https://www.youtube.com/watch?v=iJDoc0kvXLc)
+  - [Tendermint explained](https://academy.binance.com/en/articles/tendermint-explained)
   - [Connecting MetaMask to BNB Smart Chain](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
   - [DefiLlama](https://defillama.com/chain/BSC)
 
