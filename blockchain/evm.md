@@ -22,3 +22,10 @@ Resources:
   - [DefiLlama](https://defillama.com/chain/Avalanche)
   - [Connecting MetaMask to Avalanche](https://academy.binance.com/en/articles/how-to-add-avalanche-to-metamask)
 
+
+Questions:
+* What is EVM?
+* What does "EVM-compatible blockchain" mean?
+* What is BSC? What is Tendermint?
+* What is Avalance?
+* What other evm chains do you know?
