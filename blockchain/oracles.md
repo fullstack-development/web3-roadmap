@@ -18,6 +18,7 @@ Resources:
 * [chain.link](https://chain.link/whitepaper)
 * [Chainlink Cryptocurrency: The ULTIMATE Guide to Chainlink! // $LINK](https://www.youtube.com/watch?v=m_1uDhsnghw&list=PLZWRruJDdjy2qkkV-T0hluz83rlG6gwXa)
 * [What Is the Blockchain Oracle Problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
+* [What Is Chainlink in 5 Minutes](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work?utm_source=pocket_saves)
 
 Additional resources:
 * [TWAP vs. VWAP Price Algorithms](https://blog.chain.link/twap-vs-vwap/)
