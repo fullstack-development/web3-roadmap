@@ -8,7 +8,6 @@ Resources:
 * [Crypto Oracles Explained | How do Oracles Work? | Animation | Cryptomatics](https://www.youtube.com/watch?v=MNfXtMSgL0A)
 * [What Is a Blockchain Oracle? What Is the Oracle Problem? | Chainlink Engineering Tutorials](https://www.youtube.com/watch?v=ZJfkNzyO7-U)
 * [What is a blockchain oracle, and how does it work?](https://cointelegraph.com/blockchain-for-beginners/what-is-a-blockchain-oracle-and-how-does-it-work)
-* [Blockchain Oracles Explained](https://academy.binance.com/en/articles/blockchain-oracles-explained)
 * [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841)
 * [Overview: Blockchain Oracles](https://medium.com/momentum6/overview-blockchain-oracles-21007df8ea48)
 * [WHAT ARE ORACLES IN BLOCKCHAIN?](https://www.horizen.io/blockchain-academy/technology/advanced/blockchain-oracle/)
