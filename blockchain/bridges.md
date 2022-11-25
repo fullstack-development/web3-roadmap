@@ -3,6 +3,7 @@
 
 Resources:
 
+* [What Is Blockchain Interoperability?](https://blog.chain.link/blockchain-interoperability/)
 * [What is a Crypto Bridge? (Examples + Purpose for Blockchains)](https://www.youtube.com/watch?v=nT26cIz8HjI)
 * [What Is A Crypto Bridge? | Blockchain Bridge EXPLAINED For Beginners](https://www.youtube.com/watch?v=xS0PyYpt6bA)
 * [Crypto Education: Inter-Blockchain Bridges Explained | Animation | Cryptomatics](https://www.youtube.com/watch?v=YivPupDvhbA)
@@ -13,3 +14,4 @@ Resources:
 * [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
 Questions:
+* What Is Blockchain Interoperability?
