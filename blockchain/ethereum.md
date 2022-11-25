@@ -12,6 +12,7 @@ Additional resources:
 * [What is an ABI of a Smart Contract? Examples and Usage](https://www.alchemy.com/overviews/what-is-an-abi-of-a-smart-contract-examples-and-usage)
 * [How to read Etherscan / Accounts & Smart Contracts (2/2) - Explained](https://www.youtube.com/watch?v=EkONLhRipJI)
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
+* [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/)
 
 Questions:
 
@@ -33,3 +34,4 @@ Questions:
 * What is a check, aka receipt?
 * What is explorer? How interact with smart-contract in explorer?
 * What is abi? Where you can find it? 
+* Is it real to change contract code?
