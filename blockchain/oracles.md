@@ -27,6 +27,9 @@ Additional resources:
 
 Questions:
 * What is oracle? What is main purpose of it?
-* What is oracle problem?
+* What is oracle problem? How chainlink solves oracle problem?
+* Describe chainlink working flow and main parts of its system.
 * What types of oracles do you know?
 * What are inbound and outbound oracles?
+* Are chainlink oracles free to use? 
+* Have chainlink or competitors offers for working with your own data on blockchain?
