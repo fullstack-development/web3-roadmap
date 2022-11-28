@@ -13,6 +13,7 @@ Questions:
 * What is token supply? What is circullation supply? What is total supply? What is max. supply?
 * What is marketcap?
 * What is Deflationary и Inflationary token model types?
+* What is a 'utility' of the token?
 
 Tasks:
 
