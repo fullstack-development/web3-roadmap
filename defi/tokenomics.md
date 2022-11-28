@@ -18,7 +18,7 @@ Questions:
 * What is marketcap?
 * What is Deflationary и Inflationary token model types?
 * What is an 'utility' of the token?
-* Bitcoin is utility or security token? 
+* Is Bitcoin the utility or security token? 
 
 Tasks:
 
