@@ -6,7 +6,8 @@ Resources:
 * [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
 
 Additional sources:
-[100 questions you should ask yourself when analyzing tokenomics](https://medium.com/@kinaumov/100-questions-tokenomics-c31382966785)
+
+* [100 questions you should ask yourself when analyzing tokenomics](https://medium.com/@kinaumov/100-questions-tokenomics-c31382966785)
 
 
 Questions:
