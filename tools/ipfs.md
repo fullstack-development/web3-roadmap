@@ -8,6 +8,6 @@ Resources:
 
 Advanced:
 
-[Storing NFTs on IPFS](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/)
+* [Storing NFTs on IPFS](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/)
 
 Questions:
