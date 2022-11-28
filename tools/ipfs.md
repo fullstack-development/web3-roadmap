@@ -7,6 +7,7 @@ Resources:
 * [Scaling Your NFT Project: A Beginner’s Guide to IPFS By Pinata](https://www.bueno.art/blog/pinata-ipfs-guide)
 
 Advanced:
+
 [Storing NFTs on IPFS](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/)
 
 Questions:
