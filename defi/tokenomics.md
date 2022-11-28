@@ -5,6 +5,9 @@ Resources:
 * [What is Tokenomics? Understanding Crypto Fundamentals](https://www.youtube.com/watch?v=NOjST7ny4oY)
 * [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
 
+Additional sources:
+[100 questions you should ask yourself when analyzing tokenomics](https://medium.com/@kinaumov/100-questions-tokenomics-c31382966785)
+
 
 Questions:
 
@@ -13,7 +16,8 @@ Questions:
 * What is token supply? What is circullation supply? What is total supply? What is max. supply?
 * What is marketcap?
 * What is Deflationary и Inflationary token model types?
-* What is a 'utility' of the token?
+* What is an 'utility' of the token?
+* Bitcoin is utility or security token? 
 
 Tasks:
 
