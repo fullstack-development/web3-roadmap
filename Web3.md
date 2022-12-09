@@ -1,8 +1,8 @@
 # Web3
 
 Resources:
-* [Introduction to Web3](https://ethereum.org/en/web3/)
-* [Making Sense of Web 3](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
+* [Introduction to Web 3.0](https://ethereum.org/en/web3/)
+* [Making Sense of Web 3.0](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
 * [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 * [Why Web3 Matters](https://future.com/why-web3-matters/)
 * [What is Web 3.0?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
@@ -15,8 +15,8 @@ Additional resources:
 
 Questions:
 
-* What is the difference between web1, web2, web3?
-* What is the main goal of web3?
+* What is the difference between Web 1.0, Web 2.0, Web 3.0?
+* What is the main goal of Web 3.0?
 * What are the main problems of each generation of web?
-* What are the advantages and disadvantages of web3?
+* What are the advantages and disadvantages of Web 3.0?
 * What is the difference between distributed and decentralized?
