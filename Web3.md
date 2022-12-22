@@ -13,6 +13,8 @@ Additional resources:
 * [The Pros and Cons of Web3](https://supraoracles.com/academy/the-pros-and-cons-of-web3/)
 * [7 reasons to embrace Web3 — and 7 reasons not to](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html)
 * [Blockchain implemetnation challenges](https://dataconomy.com/2022/05/blockchain-implementation-challenges/)
+* [Distributed VS Decentralized Blockchain Systems](https://zipmex.com/learn/distributed-vs-decentralized/)
+
 
 Questions:
 
@@ -21,3 +23,4 @@ Questions:
 * What are the main problems of each generation of web?
 * What are the advantages and disadvantages of Web 3.0?
 * What is the difference between distributed and decentralized?
+
