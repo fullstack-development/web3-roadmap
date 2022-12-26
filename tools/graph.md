@@ -10,5 +10,6 @@ Resources:
 
 Additional resources:
 * [The graph docs](https://thegraph.com/docs/en/)
+* [What is QraphQl](https://www.youtube.com/watch?v=eIQh02xuVw4)
 
 Questions:
