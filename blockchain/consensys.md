@@ -10,7 +10,6 @@ Resources:
 * [Proof of stake. Binance Academy](https://academy.binance.com/en/articles/proof-of-stake-explained)
 * [What is Ethereum Casper?](https://academy.binance.com/en/articles/ethereum-casper-explained)
 * [Proof of Work (PoW) or Proof of Stake (PoS). Binance Academy](https://academy.binance.com/en/articles/proof-of-work-vs-proof-of-stake)
-* [Delegated Proof of Stake](https://www.youtube.com/watch?v=KG9_U2IYmuc)
 * [Proof of Authority](https://www.youtube.com/watch?v=rjsaa0tJ8Cw)
 * [Delayed Proof of Work explained](https://academy.binance.com/en/articles/delayed-proof-of-work-explained)
 * [Proof of History Explained](https://www.youtube.com/watch?v=A5G_FJpzKtk)
