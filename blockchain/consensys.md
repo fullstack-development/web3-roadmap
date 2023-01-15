@@ -14,7 +14,7 @@ Resources:
 * [Delayed Proof of Work explained](https://academy.binance.com/en/articles/delayed-proof-of-work-explained)
 * [Proof of History Explained](https://www.youtube.com/watch?v=A5G_FJpzKtk)
 * [Proof of Burn explained](https://academy.binance.com/en/articles/proof-of-burn-explained)
-
+* [12 Consensus Mechanisms + How they Work (Pros/Cons)](https://www.youtube.com/watch?v=3QCykHU89To)
 
 Additional resources:
 * [The Merge](https://ethereum.org/en/upgrades/merge/)
