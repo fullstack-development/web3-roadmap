@@ -18,7 +18,7 @@ Resources:
   - [Comparison between Avalanche, Cosmos and Polkadot](https://medium.com/avalanche-hub/comparison-between-avalanche-cosmos-and-polkadot-a2a98f46c03b)
   - [Avalanche Consensus, The Biggest Breakthrough since Nakamoto](https://medium.com/avalanche-hub/avalanche-consensus-the-biggest-breakthrough-since-nakamoto-66e9917fd656)
   - [Avalanche 101: An Overview of the Internet of Finance](https://medium.com/avalabs/avalanche-101-an-overview-of-the-internet-of-finance-7cdc5a2bee46#407d)
-  - [Avalanche Consensus 101](https://medium.com/avalancheavax/avalanche-consensus-101-99c68a3e3159)
+  - [Avalanche Consensus, The Biggest Breakthrough since Nakamoto](https://medium.com/ava-hub/avalanche-consensus-the-biggest-breakthrough-since-nakamoto-66e9917fd656)
   - [DefiLlama](https://defillama.com/chain/Avalanche)
   - [Connecting MetaMask to Avalanche](https://academy.binance.com/en/articles/how-to-add-avalanche-to-metamask)
 
