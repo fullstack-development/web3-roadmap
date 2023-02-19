@@ -6,3 +6,4 @@ Resources:
 * [Zero Knowledge Proof - ZKP](https://www.youtube.com/watch?v=OcmvMs4AMbM)
 
 Questions:
+1. What is the Zero Knowledge Proof?
