@@ -17,3 +17,5 @@ Additional resources
 * [Solana youtube channel](https://www.youtube.com/c/SolanaFndn/videos)
 
 Questions:
+1. What is solana ?
+2. What features of solana do you know? 
