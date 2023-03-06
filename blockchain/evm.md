@@ -26,6 +26,7 @@ Resources:
 * Polygon
   - [What is the EVM? Ethereum Virtual Machine - Explained with Animations](https://www.youtube.com/watch?v=IijtdpAtOt0&t=1s)
   - [Polygon PoS Chain - A Commit Chain? DeFi Explained](https://www.youtube.com/watch?v=f7F67ZP9fsE&t=2s)
+  - [What is Polygon? MATIC Explained with Animations](https://www.youtube.com/watch?v=GWUwFDFOipo&t=1s)
 
 Questions:
 * What is EVM?
