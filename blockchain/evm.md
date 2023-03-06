@@ -23,6 +23,8 @@ Resources:
   - [DefiLlama](https://defillama.com/chain/Avalanche)
   - [Connecting MetaMask to Avalanche](https://academy.binance.com/en/articles/how-to-add-avalanche-to-metamask)
 
+* Polygon
+  - [What is the EVM? Ethereum Virtual Machine - Explained with Animations](https://www.youtube.com/watch?v=IijtdpAtOt0&t=1s)
 
 Questions:
 * What is EVM?
