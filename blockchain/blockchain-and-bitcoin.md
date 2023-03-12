@@ -7,6 +7,7 @@ Resources:
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
+* [What is Double Spending in Blockchain](https://www.geeksforgeeks.org/what-is-double-spending-in-blockchain/)
 * [What Is a Merkle Tree & What Is Its Role in Blockchain?](https://learn.bybit.com/blockchain/what-is-merkle-tree/)
 * [Mining Difficulty - Simply Explained](https://www.youtube.com/watch?v=o1gOyhU6XEw)
 * [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
