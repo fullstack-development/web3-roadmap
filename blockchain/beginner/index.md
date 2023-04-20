@@ -6,4 +6,4 @@
 - [Consensys](blockchain/beginner/consensys.md)
 - [Oracles](blockchain/beginner/oracles.md)
 - [Safety](blockchain/beginner/safety.md)
-* [Forks](blockchain/beginner/forks.md)
+- [Forks](blockchain/beginner/forks.md)
