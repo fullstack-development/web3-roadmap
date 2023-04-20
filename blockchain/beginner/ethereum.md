@@ -1,16 +1,13 @@
 # Ethereum and smart-contracts
 
-Resources:
+## Resources:
 
 * [How Ethereum and Smart Contracts Work. Distributed Turing Machine with Blockсhain Protection](https://vas3k.com/blog/ethereum/)
 * [CODE IS LAW? Smart Contracts Explained (Ethereum, DeFi)](https://www.youtube.com/watch?v=pWGLtjG-F5c)
 * [What are Smart Contracts in Crypto? (4 Examples + Animated)](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [What is Ethereum Gas? (Examples + Easy Explanation)](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
 
-Additional resources:
-* [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
-
-Questions:
+## Questions:
 
 * What are smart contracts? What problem are they solving?
 * Why is it impossible to write smart contracts for bitcoin, but for Ethereum is real?
