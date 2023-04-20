@@ -1,6 +1,6 @@
 # Blockchain and Bitcoin
 
-Resources:
+## Resources:
 
 * [Blockchain Inside Out: How Bitcoin Works. Once and for all in simple words](https://vas3k.com/blog/blockchain/) 
 * [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
@@ -12,7 +12,10 @@ Resources:
 * [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
 * [Blockchain Basics: Unspent Transaction Output (UTXO) Explained!](https://www.youtube.com/watch?v=hKft6E4K8KY&list=PLZWRruJDdjy1YCnVTcdh9w9vFe8DHy4SG)
 
-Questions:
+Additional resources:
+* [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
+
+## Questions:
 
 * What is blockchain? What problem does it solve?
 * What is node in blockchain? Where is blockchain data stored? What types of nodes do you know?
