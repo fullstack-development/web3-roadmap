@@ -1,3 +1,3 @@
 # Blockchain basics
-- [Beginner](beginner/index.md)
-- [Advanced](advanced/index.md)
+- [Beginner](beginner/README.md)
+- [Advanced](advanced/README.md)
