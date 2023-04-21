@@ -1,7 +1,7 @@
 # Oracles
 
 
-Resources:
+## Resources:
 
 * [What are Oracles in Crypto? (Animated)](https://www.youtube.com/watch?v=uycQ7ReSt_c&t=3s)
 * [What is Chainlink? LINK Explained with Animations (Price Prediction)](https://www.youtube.com/watch?v=GnXsJe2wZ_w)
@@ -20,7 +20,7 @@ Additional resources:
 * [TWAP Oracles vs. Chainlink Price Feeds: A Comparative Analysis](https://smartcontentpublication.medium.com/twap-oracles-vs-chainlink-price-feeds-a-comparative-analysis-8155a3483cbd)
 * [Oracle Exploit Sees $89 Million Liquidated on Compound](https://decrypt.co/49657/oracle-exploit-sees-100-million-liquidated-on-compound)
 
-Questions:
+## Questions:
 * What is oracle? What is main purpose of it?
 * What is oracle problem? How chainlink solves oracle problem?
 * Describe chainlink working flow and main parts of its system.
