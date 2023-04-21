@@ -1,6 +1,6 @@
 # Trading
 
-- [Derrivatives](derivatives.md)
+- [Derivatives](derivatives.md)
 - [Arbitrage](arbitrage.md)
 - [Technical analysis](technical.md)
 - [Fundamental analysis](fundamental.md)
