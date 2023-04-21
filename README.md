@@ -19,7 +19,7 @@ We want to grow and help others grow. Leave any suggestions and comments to the 
 ## Table of contents
 
 * [Web 3.0](Web3.md)
-* [Blockchain basics](blockchain/README.md)
-* [DEFI basics](defi/README.md)
+* [Blockchain](blockchain/README.md)
+* [DEFI](defi/README.md)
 * [Tools](tools/README.md)
 * [Security](security/README.md)
