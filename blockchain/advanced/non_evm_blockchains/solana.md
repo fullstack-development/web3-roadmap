@@ -1,6 +1,6 @@
 # Solana
 
-Resources:
+## Resources:
 
 * [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
 * [Solana EXPLAINED! | Things You Need To Know About SOL](https://www.youtube.com/watch?v=K3BsEWkof_Y)
@@ -16,6 +16,6 @@ Additional resources
 * [Once billed as a rising star in crypto, Solana’s sixth outage this month—and founder’s ‘lol’ tweet—frustrates traders](https://fortune.com/2022/01/25/solana-founder-anatoly-yakovenko-crypto-crash-blockchain-instability/)
 * [Solana youtube channel](https://www.youtube.com/c/SolanaFndn/videos)
 
-Questions:
-1. What is solana ?
-2. What features of solana do you know? 
+## Questions:
+* What is solana?
+* What features of solana do you know? 

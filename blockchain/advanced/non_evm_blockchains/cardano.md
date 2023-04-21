@@ -1,6 +1,6 @@
 # Cardano
 
-Resources:
+## Resources:
 
 * [What is Cardano? ADA Explained with Animations](https://www.youtube.com/watch?v=UMUztLQNqSI&t=66s)
 * [Cardano - Simply Explained](https://www.youtube.com/watch?v=Do8rHvr65ZA)
@@ -11,11 +11,11 @@ Resources:
 * [What is EUTXO model?](https://docs.cardano.org/learn/eutxo-explainer)
 * [Cardano wallets](https://www.cada.news/best-cardano-ada-wallets/)
 
-Additional resources:
+## Additional resources:
 
 * [Hashoshi channel](https://www.youtube.com/c/Hashoshi4/videos)
 
-Questions:
+## Questions:
 
 * What is Cardano? Shortly point out the main differences with EVM-networks. 
 * What is the Third Generation Blockchain. Is Cardano a III-Gen Blockchain? Why/Why not?

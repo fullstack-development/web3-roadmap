@@ -1,7 +1,7 @@
 # Bridges
 
 
-Resources:
+## Resources:
 
 * [What Is Blockchain Interoperability?](https://blog.chain.link/blockchain-interoperability/)
 * [What is a Crypto Bridge? (Examples + Purpose for Blockchains)](https://www.youtube.com/watch?v=nT26cIz8HjI)
@@ -13,5 +13,5 @@ Resources:
 * [How to Convert from Ethereum to Polygon using the Bridge](https://www.youtube.com/watch?v=GLK33hkwA68)
 * [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
-Questions:
+## Questions:
 * What Is Blockchain Interoperability?

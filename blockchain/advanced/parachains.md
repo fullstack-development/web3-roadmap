@@ -1,6 +1,6 @@
 # Parachains
 
-Resources:
+## Resources:
 
 * Polkadot
   - [What is Polkadot? DOT Explained with Animations](https://www.youtube.com/watch?v=YlAdEQp6ekM)
@@ -19,7 +19,7 @@ Resources:
 * [5 Differences between Cosmos & Polkadot](https://juliankoh.medium.com/5-differences-between-cosmos-polkadot-67f09535594b)
 * [Polkadot vs Cosmos: What is the Difference?](https://academy.moralis.io/blog/polkadot-vs-cosmos-what-is-the-difference)
 
-Questions:
+## Questions:
 1. Describe the polkadot project. how does it work and what is it for?
 2. Describe the Cosmos project. how does it work and what is it for?
 3. What are the differences between polkodot and cosmos? 
