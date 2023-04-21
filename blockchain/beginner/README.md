@@ -5,6 +5,5 @@
 - [Crypto-wallets](wallets.md)
 - [Consensys](consensys.md)
 - [Oracles](oracles.md)
-- [Safety](safety.md)
 - [Forks](forks.md)
 - [Evm compatible networks](evm.md)
