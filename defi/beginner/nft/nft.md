@@ -1,25 +1,16 @@
 # Non-fungible tokens
 
-## Sources:
+## Resources:
 
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
-
-* [Scaling Your NFT Project: A Beginner’s Guide to IPFS](https://www.bueno.art/blog/pinata-ipfs-guide)
-
-* [Storing NFTs on IPFS Advanced](https://blog.ipfs.tech/2021-04-05-storing-nfts-on-ipfs/) 
-
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
-
 * [NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
-## Additional content:
+## Additional resources:
 * [NFT Glossary](https://www.finder.com/nft-glossary)
 * [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/mob-short-squeeze-has-traders-reminiscing-gme-days)
 * [NFTs and intellectual property, explained](https://cointelegraph.com/explained/nfts-and-intellectual-property-explained)
 * [What are wash trading and money laundering in NFTs?](https://cointelegraph.com/explained/what-are-wash-trading-and-money-laundering-in-nfts)
-
-
----
 
 ## Questions:
 

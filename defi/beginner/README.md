@@ -1,3 +1,15 @@
-# Blockchain basics
-- [Beginner](beginner/README.md)
-- [Advanced](advanced/README.md)
+# DEFI. Beginner level
+
+- [DEFI intro](defi.md)
+- [Economics](economics.md)
+- [Fungible Tokens](tokens/README.md)
+- [Trading](trading/README.md)
+- [CEX](cex/README.md)
+- [DEX](dex/README.md)
+- [Lending & Borrowing & Vaults](lending/README.md)
+- [Stablecoins](stablecoins/README.md)
+- [Yield farming](yield-farming/README.md)
+- [NFT](nft/README.md)
+- [Vaults](vaults/README.md)
+- [DAO](dao/README.md)
+- [Launchpads](launchpads/README.md)

@@ -1,6 +1,6 @@
 # ENS
 
-Resources:
+## Resources:
 
 * [What Is Ethereum Name Service (ENS)?](https://academy.binance.com/en/articles/what-is-ethereum-name-service-ens)
 * [What Is the Ethereum Name Service? How ENS Works and What It’s Used For](https://www.coindesk.com/learn/what-is-the-ethereum-name-service-how-ens-works-and-what-its-used-for/)

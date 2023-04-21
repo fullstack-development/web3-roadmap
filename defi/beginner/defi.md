@@ -1,6 +1,6 @@
 # DEFI
 
-Resources:
+## Resources:
 
 * 1 & 2 chapters from 'How to DEFI' book by Coingecko
 * [DEFI - The Future Of Finance Explained](https://www.youtube.com/watch?v=H-O3r2YMWJ4)
@@ -11,10 +11,10 @@ Resources:
 
 
 
-Questions:
+## Questions:
 
 * What is TVL?
 
-Tasks:
+## Tasks:
 
 * Find at [defillama.com](https://defillama.com/) current TVL of Uniswap.

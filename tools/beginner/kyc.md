@@ -1,6 +1,6 @@
 # KYC & AML
 
-Resources:
+## Resources:
 
 * [Know Your Customer (KYC)](https://academy.binance.com/en/glossary/know-your-customer)
 * [KYC Guide 2022—What’s KYC and Why is It Important?](https://sumsub.com/blog/kyc-guide/)
@@ -9,4 +9,4 @@ Resources:
 * [Managing KYC Dilemmas: In-house vs. Outsourced Solutions](https://sumsub.com/blog/in-house-vs-outsourcing-kyc/)
 * [Identification, Verification, and Authentication—What’s the Difference?](https://sumsub.com/blog/identification-verification-and-authentication/)
 
-Questions:
+## Questions:
