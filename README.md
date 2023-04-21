@@ -1,69 +1,25 @@
-# Table of contents
+# DEFI roadmap for non-developers 
 
-* [Intro](defi-intro.md)
+Hello! We are the [MetaLamp](www.metalamp.io/) team - we have been packaging customer ideas into finished products since 2014. Since 2020, we have focused on projects in the web3 space and we've been developing our expertise which we want to share with the community.
+
+We already have open access roadmaps and training programs for front-end and back-end developers that have helped hundreds of people gain knowledge about development from scratch. Now many of these people are working on real IT projects. And now we're publishing our roadmap for everyone who wants to work in the field of web3, but doesn't know where to start.
+
+Our roadmap can be useful to people working or looking for work as:
+
+* **HR-manager**, which needs to evaluate the developer's level of immersion in web3
+* **A project manager** who strives to speak the same language with a devs team and clearly understand the progress of work on projects
+* **A sales manager** who needs to understand the customers’ pains and needs of a project in the field of DeFi at the pre-sale stage and the formation of an ideal commercial offer
+* **A digital marketer** who wants to understand his audience in order to select relevant channels for promoting services
+* **An editor/copywriter** who knows the importance of writing in the language of the audience and using catchy topics
+* **An enthusiast** who wants to understand the world of decentralized techs in order to follow trends to earn money or even launch their own project
+
+We want to grow and help others grow. Leave any suggestions and comments to the roadmap (write or contact, or sign, as in the interface of where we will publish, people could comment on something)
+
+
+## Table of contents
+
 * [Web 3.0](Web3.md)
-* [Blockchain basics](blockchain/blockchain-and-bitcoin.md)
-  - [Ethereum and smart-contracts](blockchain/ethereum.md)
-  - [Consensys](blockchain/consensys.md)
-  - [Crypto-wallets](blockchain/wallets.md)
-    - [Safety](blockchain/safety.md)
-  - [Oracles](blockchain/oracles.md)
-  - Advanced
-    * [EVM compatible blockchains](blockchain/evm.md)
-    * [Bridges](blockchain/bridges.md)
-    * [Scallability](blockchain/scale.md)
-      - [Layer 1](blockchain/l1.md)
-      - [Layer 2: Rollups, sidechains, lightning networks](blockchain/l2.md)
-    * [Parachains](blockchain/parachains.md)
-    * [Zero knowledge proof](blockchain/zero.md)
-    * [Cardano](blockchain/cardano.md)
-    * [Solana](blockchain/solana.md)
-    * [Other blockchains](blockchain/other-blockchains.md)
-    * [Forks](blockchain/forks.md)
-* [DEFI](defi/defi.md)
-  - [Fungible Tokens](defi/tokens.md)
-  - [Tokenomics](defi/tokenomics.md)
-    * [Base mechanics: minting, burning, staking](defi/token_mechanics.md)
-    * [Distribution models](defi/distribution.md)
-      - [Initial offering](defi/initial-offering.md)
-      - [Airdrops](defi/airdrops.md)
-    * [Valuation](defi/valuation.md)
-  - Exchanges & trading
-    * [Economics](defi/economics.md)
-    * [Trading instruments](defi/derivatives.md)
-    * [Trading strategies](defi/strategies.md)
-    * [Fundamental analysis](defi/fundamental.md)
-    * [Technical analysis](defi/technical.md)
-    * CEX
-    * [DEX](defi/dex.md)
-      - [Impermanent loss](defi/impermanent-loss.md)
-      - [Vampire attack](defi/vampire.md)
-      - [Rug pulls](defi/rug-pulls.md)
-      - [MEV](defi/mev.md)
-      - [Balancer](defi/balancer.md)
-      - [DEX with orderbook](defi/dex-with-orderbook.md)
-    * [Arbitrage](defi/arbitrage.md)
-    * [Front-running](defi/frontrunning.md)
-    * [Trading bots](defi/bots.md)
-  - [Lending & Borrowing & Vaults](defi/lending.md)
-    * [Flash loans](defi/flash.md)
-    * [Yield farming](defi/yield.md)
-    * [Vaults](defi/vaults.md)
-  - [Stablecoins](defi/stablecoins.md)
-  - [Mixers](defi/mixers.md)
-  - [NFT](defi/nft.md)
-    * [Soulbound tokens](defi/soulbound.md)
-    * [Play-to-Earn (P2E)](defi/P2E.md)
-    * [Metaverse](Metaverse.md)
-  - [DAO](defi/dao.md)
-  - [Insurance](defi/insurance.md)
-  - [Launchpads](Launchpads.md)
-* Tools
-  - [The graph](tools/graph.md)
-  - [Multisig & gnosis safe](tools/multisig.md)
-  - [IPFS](tools/ipfs.md)
-  - [KYC & AML](tools/kyc.md)
-  - [ENS](tools/ens.md)
-  - [Development technologies](tools/development.md)
-  - [Audit](tools/audit.md)
-
+* [Blockchain](blockchain/README.md)
+* [DEFI](defi/README.md)
+* [Tools](tools/README.md)
+* [Security](security/README.md)
