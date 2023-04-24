@@ -1,6 +1,6 @@
 # Tools. Beginner level
 
-- [Development technologies](development.md)
+- [Development tools](tools.md)
 - [The graph](graph.md)
 - [Multisig & gnosis safe](multisig.md)
 - [IPFS](ipfs.md)
