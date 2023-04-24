@@ -6,4 +6,3 @@
 - [IPFS](ipfs.md)
 - [KYC & AML](kyc.md)
 - [ENS](ens.md)
-- [Audit](audit.md)
