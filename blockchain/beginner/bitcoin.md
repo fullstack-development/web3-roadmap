@@ -10,7 +10,7 @@
 * [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
 * [Blockchain Basics: Unspent Transaction Output (UTXO) Explained!](https://www.youtube.com/watch?v=hKft6E4K8KY&list=PLZWRruJDdjy1YCnVTcdh9w9vFe8DHy4SG)
 
-Additional resources:
+## Additional resources:
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
 
 ## Questions:
