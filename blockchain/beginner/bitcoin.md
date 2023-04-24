@@ -7,7 +7,6 @@
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
 * [What Is a Merkle Tree & What Is Its Role in Blockchain?](https://learn.bybit.com/blockchain/what-is-merkle-tree/)
-* [Mining Difficulty - Simply Explained](https://www.youtube.com/watch?v=o1gOyhU6XEw)
 * [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
 * [Blockchain Basics: Unspent Transaction Output (UTXO) Explained!](https://www.youtube.com/watch?v=hKft6E4K8KY&list=PLZWRruJDdjy1YCnVTcdh9w9vFe8DHy4SG)
 
