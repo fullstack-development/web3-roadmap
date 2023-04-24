@@ -20,6 +20,3 @@
 
 * Create an account in metamask.
 * Create another one account in trust wallet.
-* Try to connect your metamask wallet on website https://app.venus.io/
-* Try to connect your trust wallet on website https://app.venus.io/ using wallet connect
-
