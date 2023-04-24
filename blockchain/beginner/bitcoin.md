@@ -3,7 +3,6 @@
 ## Resources:
 
 * [Blockchain Inside Out: How Bitcoin Works. Once and for all in simple words](https://vas3k.com/blog/blockchain/) 
-* [What is a Blockchain? (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
