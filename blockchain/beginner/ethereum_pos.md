@@ -9,3 +9,9 @@
 * [The Merge Is Done. What’s Next for the Ethereum Ecosystem?](https://consensys.net/blog/news/the-merge-is-done-whats-next-for-the-ethereum-ecosystem/)
 
 ## Questions:
+
+* What are the main goals of Ethereum Merge?
+* What are the main changes in Ethereum?
+* What is Beacon Chain?
+* What is sharding?
+* What happened with previous version of Ethereum?
