@@ -1,7 +1,7 @@
 # DEFI. Beginner level
 
 - [DEFI intro](defi.md)
-- [Economics](economics/README.md)
+- [Economics](economics/economics.md)
 - [Fungible Tokens](tokens/README.md)
 - [Trading & Exchanges](trading/README.md)
 - [Stablecoins](stablecoins/README.md)
