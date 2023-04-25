@@ -1,4 +1,4 @@
-# Trading
+# Trading & Exchanges
 
 - [Derivatives](derivatives.md)
 - [Arbitrage](arbitrage.md)
