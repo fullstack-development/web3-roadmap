@@ -8,3 +8,6 @@
 * [What are Bitcoin Forks? A Simple Explanation](https://www.youtube.com/watch?v=pLNr786xEkg)
 
 ## Questions:
+
+* What is a fork?
+* 
