@@ -6,6 +6,7 @@
 * [Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...)](https://www.youtube.com/watch?v=Bu1GcyyFZ7w)
 * [What is Ethereum Classic? ETC Explained with Animations](https://youtu.be/dmLKnnzqmVU)
 * [What are Bitcoin Forks? A Simple Explanation](https://www.youtube.com/watch?v=pLNr786xEkg)
+* [What is Litecoin? LTC Explained with Animations](https://www.youtube.com/watch?v=JMTJvXyHJGU)
 
 ## Questions:
 
