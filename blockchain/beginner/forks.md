@@ -10,4 +10,5 @@
 ## Questions:
 
 * What is a fork?
-* 
+* What is the difference between soft fork and hard fork?
+* What forks do you know and what purpose of its creation? 
