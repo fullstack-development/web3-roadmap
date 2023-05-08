@@ -10,4 +10,3 @@
 - [Vaults](vaults/README.md)
 - [NFT](nft/README.md)
 - [DAO](dao/README.md)
-- [Launchpads](launchpads/README.md)
