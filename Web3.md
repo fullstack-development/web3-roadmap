@@ -9,8 +9,6 @@
 
 ## Additional resources:
 * [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-* [The dark side of Web3 and the path of progressive decentralization](https://cointelegraph.com/innovation-circle/the-dark-side-of-web3-and-the-path-of-progressive-decentralization)
-
 * [Blockchain implementation challenges](https://dataconomy.com/2022/05/blockchain-implementation-challenges/)
 
 ## Questions:
