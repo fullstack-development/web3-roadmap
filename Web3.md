@@ -3,7 +3,6 @@
 ## Resources:
 * [Introduction to Web 3.0](https://ethereum.org/en/web3/)
 * [Making Sense of Web 3.0](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
-* [Why Web3 Matters](https://future.com/why-web3-matters/)
 * [What is Web 3.0?](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 
 ## Additional resources:
