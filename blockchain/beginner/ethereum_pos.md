@@ -12,6 +12,7 @@
 
 * What are the main goals of Ethereum Merge?
 * What are the main changes in Ethereum?
+* What challenges for developers were in Ethereum Merge?
 * What is Beacon Chain?
 * What is sharding?
 * What problems are not resolved after the merge?
