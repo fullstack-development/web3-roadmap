@@ -19,11 +19,8 @@
 * How does (leader) miner selection happen in PoW?
 * How does chain selection happen (how to choose correct chain between forks)?
 * What are pros and cons of PoW?
-* What is a mining pool?
 * What is Proof-of-Stake?
 * How does leader selection happen in PoS?
 * How does chain selection happen (how to choose correct chain between forks)?
 * What are pros and cons of PoS?
-* What is a stake pool?
 * What are differences between PoW & PoS? Do other consensus mechanisms exist?
-* What are differences between stake & mining pools?
