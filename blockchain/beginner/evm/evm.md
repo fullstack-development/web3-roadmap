@@ -10,4 +10,3 @@
 ## Questions:
 * What is EVM?
 * What does "EVM-compatible blockchain" mean?
-* What evm chains do you know?
