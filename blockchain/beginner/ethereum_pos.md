@@ -14,5 +14,5 @@
 * What are the main changes in Ethereum?
 * What is Beacon Chain?
 * What is sharding?
-* What problems are not resolved after the merge
+* What problems are not resolved after the merge?
 * What happened with previous version of Ethereum?
