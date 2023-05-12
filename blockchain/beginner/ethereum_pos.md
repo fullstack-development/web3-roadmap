@@ -14,6 +14,7 @@
 * What are the main changes in Ethereum?
 * What challenges for developers were in Ethereum Merge?
 * What is Beacon Chain?
+* What are Ropsten, Sepolia and Goerli?
 * What is sharding?
 * What problems are not resolved after the merge?
 * What happened with previous version of Ethereum?
