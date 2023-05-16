@@ -19,3 +19,4 @@
 * What are Ethereum's clients do you know?
 * What problems are not resolved after the merge?
 * What happened with previous version of Ethereum?
+* What next upgrades of Ethereum are called?
