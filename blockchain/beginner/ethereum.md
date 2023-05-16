@@ -7,6 +7,10 @@
 * [What are Smart Contracts in Crypto? (4 Examples + Animated)](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [What is Ethereum Gas? (Examples + Easy Explanation)](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
 
+## Additional resources:
+* [etherscan.io](https://etherscan.io/)
+* [What Is Etherscan and How to Use It?](https://academy.binance.com/en/articles/what-is-etherscan-and-how-to-use-it)
+
 ## Questions:
 
 * What are smart contracts? What problem are they solving?
