@@ -3,7 +3,6 @@
 ## Resources:
 
 * [ETHEREUM MERGE - The Most Anticipated Event In Crypto Explained](https://finematics.com/the-ethereum-merge-explained/)
-* [Ethereum 2.0 Upgrades Explained - Sharding, Beacon Chain, Proof of Stake (Animated)](https://www.youtube.com/watch?v=pycVClxWUN8)
 * [Ethereum roadmap. The Merge.](https://ethereum.org/en/roadmap/merge/)
 * [The Merge Is Done. What’s Next for the Ethereum Ecosystem?](https://consensys.net/blog/news/the-merge-is-done-whats-next-for-the-ethereum-ecosystem/)
 
