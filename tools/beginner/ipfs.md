@@ -16,3 +16,4 @@
 * Have stored data some limitations or problems?
 * What is Pinata?
 * What is Filecoin?
+* What is submarining?
