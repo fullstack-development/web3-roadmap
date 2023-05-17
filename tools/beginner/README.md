@@ -1,6 +1,8 @@
 # Tools. Beginner level
 
-- [Development tools](tools.md)
+- [Intro](tools.md)
+- [Frontend tools](frontend_tools.md)
+- [Solidity tools](solidity_tools.md)
 - [The graph](graph.md)
 - [Multisig & gnosis safe](multisig.md)
 - [IPFS](ipfs.md)
