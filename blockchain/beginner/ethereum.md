@@ -10,6 +10,7 @@
 ## Additional resources:
 * [etherscan.io](https://etherscan.io/)
 * [What Is Etherscan and How to Use It?](https://academy.binance.com/en/articles/what-is-etherscan-and-how-to-use-it)
+* [Upgradable Smart Contracts: What They Are and How To Deploy Your Own](https://blog.chain.link/upgradable-smart-contracts/) - Read only first simple pattern.  
 
 ## Questions:
 
