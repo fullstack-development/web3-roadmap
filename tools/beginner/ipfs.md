@@ -14,3 +14,4 @@
 * How data is devided and stored in IPFS?
 * What are use cases of IPFS?
 * Have stored data some limitations or problems?
+* What is Pinata?
