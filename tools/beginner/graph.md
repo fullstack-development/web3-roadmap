@@ -9,7 +9,6 @@
 * [THE GRAPH: FIXING WEB3 DATA QUERYING](https://ethereum.org/en/developers/tutorials/the-graph-fixing-web3-data-querying/)
 
 ## Additional resources:
-* [The graph docs](https://thegraph.com/docs/en/)
 * [What is QraphQl](https://www.youtube.com/watch?v=eIQh02xuVw4)
 
 ## Questions:
