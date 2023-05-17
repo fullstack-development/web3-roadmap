@@ -4,7 +4,6 @@
 ## Resources:
 
 * [The GRAPH - Google Of Blockchains? GRT Token Explained](https://finematics.com/the-graph-explained/)
-* [Building a Subgraph with Subgraph Studio](https://www.youtube.com/watch?v=HfDgC2oNnwo)
 * [Why THE GRAPH is The Google of Blockchains](https://www.youtube.com/watch?v=mPfSWf_q77Y)
 * [THE GRAPH: FIXING WEB3 DATA QUERYING](https://ethereum.org/en/developers/tutorials/the-graph-fixing-web3-data-querying/)
 
