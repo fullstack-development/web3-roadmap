@@ -11,5 +11,6 @@
 ## Additional resources:
 * [What is QraphQl](https://www.youtube.com/watch?v=eIQh02xuVw4)
 * [THE GRAPH HUB](https://www.grtdatahub.com/)
+* [Uniswap subgraph example](https://thegraph.com/hosted-service/subgraph/uniswap/uniswap-v3)
 
 ## Questions:
