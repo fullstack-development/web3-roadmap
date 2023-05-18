@@ -9,5 +9,6 @@
 
 ## Additional resources:
 * [What is QraphQl](https://www.youtube.com/watch?v=eIQh02xuVw4)
+* [THE GRAPH HUB](https://www.grtdatahub.com/)
 
 ## Questions:
