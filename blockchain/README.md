@@ -10,11 +10,11 @@
     - [Forks](forks/README.md)
     - [Evm compatible networks](evm/evm.md)
 * Advanced
-    - [EVM compatible blockchains](evm_blockchains/README.md)
     - [Zero knowledge proof](zero.md)
     - [Bridges](bridges.md)
     - [Scallability](scale.md)
         * [Layer 1](l1.md)
         * [Layer 2: Rollups, sidechains, lightning networks](l2.md)
     - [Parachains](parachains.md)
+    - [EVM compatible blockchains](evm_blockchains/README.md)
     - [Non EVM blockchains](non_evm_blockchains/README.md)
