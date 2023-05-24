@@ -8,4 +8,3 @@
 - [The graph](graph.md)
 - [Multisig](multisig.md)
 - [KYC & AML](kyc.md)
-- [ENS](ens.md)
