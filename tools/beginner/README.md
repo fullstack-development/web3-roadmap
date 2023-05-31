@@ -1,7 +1,7 @@
 # Tools. Beginner level
 
 - [Intro](tools.md)
-- [Data providers](providers.md)
+- [Node Providers](providers.md)
 - [IPFS](ipfs.md)
 - [The graph](graph.md)
 - [Multisig](multisig.md)
