@@ -10,3 +10,4 @@
 * What are HardHat, Truffle, Ganache frameworks for?
 * What are packages Web3.js and Ether.js for?
 * What is OpenZeppelin package for?
+* What are Infura and Alchemy services for?
