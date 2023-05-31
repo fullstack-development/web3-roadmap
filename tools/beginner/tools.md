@@ -7,3 +7,4 @@
 ## Questions:
 
 * What is IDE? 
+* What is HardHat?
