@@ -9,3 +9,10 @@
 
 ## Additional resources:
 * [Gnosis Safe Tutorial | Multisig Wallet for DeFi](https://www.youtube.com/watch?v=GHyxe32Z814)
+
+## Questions:
+
+* What is multisig?
+* What benefits multisig has?
+* Has using of multisig some risks?
+* What is Gnosis?
