@@ -8,7 +8,7 @@
   - [Ethereum v2](beginner/ethereum_pos.md)
   - [Oracles](beginner/oracles/README.md)
   - [Forks](beginner/forks/README.md)
-  - [Evm compatible networks](beginner/evm/evm.md)
+  - [Evm compatible blockchains](beginner/evm/evm.md)
 * [Advanced](advanced/README.md)
   - [EVM compatible blockchains](advanced/evm_blockchains/README.md)
   - [Zero knowledge proof](advanced/zero.md)
