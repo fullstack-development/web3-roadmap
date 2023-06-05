@@ -1,1 +1,1 @@
-# EVM compatible networks
+# EVM compatible blockchains
