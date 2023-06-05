@@ -1,6 +1,6 @@
 # Blockchain
 
-* [Beginner](beginner/README.md)
+* Beginner
   - [Bitcoin](beginner/bitcoin.md)
   - [Ethereum and smart-contracts](beginner/ethereum.md)
   - [Crypto-wallets](beginner/wallets.md)
@@ -9,7 +9,7 @@
   - [Oracles](beginner/oracles/README.md)
   - [Forks](beginner/forks/README.md)
   - [Evm compatible blockchains](beginner/evm/evm.md)
-* [Advanced](advanced/README.md)
+* Advanced
   - [Zero knowledge proof](advanced/zero.md)
   - [Bridges](advanced/bridges.md)
   - [Scallability](advanced/scale.md)
