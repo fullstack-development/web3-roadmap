@@ -1,4 +1,5 @@
 # Security
 
-- [Beginner](beginner/README.md)
-- [Advanced](advanced/README.md)
+- Beginner
+  * [Account safety](beginner/safety.md)
+- Advanced
