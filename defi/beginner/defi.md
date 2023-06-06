@@ -19,8 +19,9 @@
 * What is DEFI?
 * What are the problems with traditional finanсial system?
 * What is the goal of DEFI?
-* What is TVL? Why it is important metric for DEFI? Compare TVL of 2020, 2021, 2022?
+* What is TVL? Why it is important metric for DEFI?
 
 ## Tasks:
 
 * Find at [defillama.com](https://defillama.com/) current TVL of Uniswap.
+* Compare TVL of whole DEFI in 2020, 2021, 2022
