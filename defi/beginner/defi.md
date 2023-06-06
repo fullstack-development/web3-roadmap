@@ -11,7 +11,7 @@
 
 ## Additional resources:
 
-* [Why Total Value Locked (TVL) Matters in DeFi](https://blog.thestandard.io/why-total-value-locked-tvl-matters-in-defi-d6937bfc6b6d)
+* [Why TVL matters in DeFi](https://blog.thestandard.io/why-total-value-locked-tvl-matters-in-defi-d6937bfc6b6d)
 
 
 ## Questions:
