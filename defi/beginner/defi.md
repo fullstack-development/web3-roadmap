@@ -13,6 +13,7 @@
 
 ## Questions:
 
+* What is DEFI?
 * What are the problems with traditional finanсial system?
 * What is the goal of DEFI?
 * What is TVL?
