@@ -9,6 +9,9 @@
 * [What are the major challenges hindering Decentralized Finance (DeFi) adoption in 2022?](https://bitcoinist.com/what-are-the-major-challenges-hindering-decentralized-finance-defi-adoption-in-2022/)
 * [Key DeFi Ecosystem Problems, Explained](https://cointelegraph.com/explained/key-defi-ecosystem-problems-explained)
 
+## Additional resources:
+
+* [Why Total Value Locked (TVL) Matters in DeFi](https://blog.thestandard.io/why-total-value-locked-tvl-matters-in-defi-d6937bfc6b6d)
 
 
 ## Questions:
@@ -16,7 +19,7 @@
 * What is DEFI?
 * What are the problems with traditional finanсial system?
 * What is the goal of DEFI?
-* What is TVL?
+* What is TVL? Why it is important metric for DEFI? Compare TVL of 2020, 2021, 2022?
 
 ## Tasks:
 
