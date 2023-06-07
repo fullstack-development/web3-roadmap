@@ -10,10 +10,7 @@
 
 * What are the main goals of Ethereum Merge?
 * What are the main changes in Ethereum?
-* What challenges for developers were in Ethereum Merge?
-* What is Beacon Chain?
-* What are Ropsten, Sepolia and Goerli?
-* What are Ethereum's clients do you know?
+* What is Beacon Chain? Why this update is called "the merge"?  
 * What problems are not resolved after the merge?
 * What happened with previous version of Ethereum?
-* What next upgrades of Ethereum are called?
+* What are the goals of the following updates: The surge, the verge, the purge, the splurge?
