@@ -16,7 +16,7 @@
 ## Questions:
 
 * What is blockchain? What problem does it solve?
-* What is node in blockchain? Where is blockchain data stored? What types of nodes do you know?
+* What is node in blockchain? What types of nodes do you know?
 * What is hash function and what is 5 rules with it?
 * What types of keys are there? What are they needed for?
 * What is UTXO?
