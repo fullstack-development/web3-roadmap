@@ -9,7 +9,6 @@
 * [A Beginner’s Guide to Security Tokens](https://academy.binance.com/en/articles/a-beginners-guide-to-security-tokens)
 * [Security vs. Utility Tokens: The Complete Guide](https://cryptopotato.com/security-vs-utility-tokens-the-complete-guide/)
 * [Security Tokens Vs. Utility Tokens : A Concise Guide](https://www.blockchain-council.org/blockchain/security-tokens-vs-utility-tokens-a-concise-guide/)
-* [Utility tokens vs. equity tokens: Key differences explained](https://cointelegraph.com/explained/utility-tokens-vs-equity-tokens-key-differences-explained)
 * [Utility Tokens vs. Security Tokens - Learn the Difference](https://www.youtube.com/watch?v=nGXxHAj_IL8)
 * [Howey Test Definition](https://www.embroker.com/blog/what-is-the-howey-test-does-crypto-pass/)
 * [3 Ways to Safely Design Utility Tokens](https://www.web3.university/article/3-ways-to-safely-design-utility-tokens)
