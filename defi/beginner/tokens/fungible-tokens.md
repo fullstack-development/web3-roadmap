@@ -18,7 +18,6 @@
 * Wrapped tokens
   - [What Are Wrapped Tokens?](https://academy.binance.com/en/articles/what-are-wrapped-tokens)
   - [What are Wrapped Tokens - Explained in Detail (Animation)](https://www.youtube.com/watch?v=SjdJWr8hgRY)
-  - [What Is Wrapped Ether (WETH) and How to Wrap It?](https://academy.binance.com/en/articles/what-is-wrapped-ether-weth-and-how-to-wrap-it)
 
 ## Questions:
 
