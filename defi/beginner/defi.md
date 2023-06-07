@@ -4,7 +4,6 @@
 
 * 1 & 2 chapters from 'How to DEFI' book by Coingecko
 * [DEFI - The Future Of Finance Explained](https://finematics.com/defi-the-future-of-finance/)
-* [DeFi - Past, Present and Future](https://www.youtube.com/watch?v=PT72hAbm2Eo)
 * [What are the major challenges hindering Decentralized Finance (DeFi) adoption in 2022?](https://bitcoinist.com/what-are-the-major-challenges-hindering-decentralized-finance-defi-adoption-in-2022/)
 * [Key DeFi Ecosystem Problems, Explained](https://cointelegraph.com/explained/key-defi-ecosystem-problems-explained)
 
