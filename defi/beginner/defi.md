@@ -5,7 +5,6 @@
 * 1 & 2 chapters from 'How to DEFI' book by Coingecko
 * [DEFI - The Future Of Finance Explained](https://finematics.com/defi-the-future-of-finance/)
 * [What are the major challenges hindering Decentralized Finance (DeFi) adoption in 2022?](https://bitcoinist.com/what-are-the-major-challenges-hindering-decentralized-finance-defi-adoption-in-2022/)
-* [Key DeFi Ecosystem Problems, Explained](https://cointelegraph.com/explained/key-defi-ecosystem-problems-explained)
 
 ## Additional resources:
 * [Why TVL matters in DeFi](https://blog.thestandard.io/why-total-value-locked-tvl-matters-in-defi-d6937bfc6b6d)
