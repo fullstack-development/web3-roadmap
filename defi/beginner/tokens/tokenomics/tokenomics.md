@@ -17,8 +17,6 @@
 * What is token supply? What is circullation supply? What is total supply? What is max. supply?
 * What is marketcap?
 * What is Deflationary и Inflationary token model types?
-* What is an 'utility' of the token?
-* Is Bitcoin the utility or security token? 
 
 ## Tasks:
 
