@@ -22,6 +22,7 @@
 ## Questions:
 
 * What difference between coin and token?
+* What does "fungible" mean?
 * What is ERC-20? What problem does it solve? 
 * Which methods ERC-20 includes?
 * What are BEP-20 and TRC-20?
