@@ -19,10 +19,14 @@
   - [What Are Wrapped Tokens?](https://academy.binance.com/en/articles/what-are-wrapped-tokens)
   - [What are Wrapped Tokens - Explained in Detail (Animation)](https://www.youtube.com/watch?v=SjdJWr8hgRY)
 
+## Additional resources:
+* [7 Reasons to launch a token](https://designingtokenomics.com/the-complete-tokenomics-course-primer/articles/7-reasons-to-launch-a-token)
+
 ## Questions:
 
 * What difference between coin and token?
 * What does "fungible" mean?
+* What is the purpose of launching own token?
 * What is ERC-20? What problem does it solve? 
 * Which methods ERC-20 includes?
 * What are BEP-20 and TRC-20?
