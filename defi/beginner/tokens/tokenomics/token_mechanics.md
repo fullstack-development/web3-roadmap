@@ -11,5 +11,5 @@
 ## Questions:
 
 * What is Minting?
-* What is Burning?
+* What is Burning? What is main purpose of burning?
 * What is Staking? What is main purpose of staking?
