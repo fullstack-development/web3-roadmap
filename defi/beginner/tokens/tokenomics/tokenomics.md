@@ -3,6 +3,7 @@
 ## Resources:
 * [Tokenomics / The Core of Every Crypto Project](https://www.youtube.com/watch?v=uA40CSoxoDY)
 * [What is Tokenomics? Understanding Crypto Fundamentals](https://www.youtube.com/watch?v=NOjST7ny4oY)
+* [Guide to tokenomics and how is it important in cryptocurrency?](https://guidefinancehub.com/guide-to-tokenomics-in-cryptocurrency/)
 * [What Is Tokenomics and Why Is It Important?](https://www.coindesk.com/learn/what-is-tokenomics-and-why-is-it-important/)
 * [A complete tokenomics guide for web3 founders](https://victorugochukwu.com/a-complete-tokenomics-guide-for-web3-founders)
 
@@ -14,6 +15,7 @@
 ## Questions:
 
 * What is whitepaper? 
+* 
 * What are 2 main parts of tokenomics?
 * What is token supply? What is circullation supply? What is total supply? What is max. supply?
 * What is marketcap?
