@@ -9,6 +9,7 @@
   - [Oracles](beginner/oracles/README.md)
   - [Forks](beginner/forks/README.md)
   - [Evm compatible blockchains](beginner/evm/evm.md)
+  - [Security](beginner/security/README.md)
 * Advanced
   - [Zero knowledge proof](advanced/zero.md)
   - [Bridges](advanced/bridges.md)

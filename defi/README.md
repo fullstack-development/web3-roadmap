@@ -11,6 +11,7 @@
   * [Vaults](beginner/vaults/README.md)
   * [NFT](beginner/nft/README.md)
   * [DAO](beginner/dao/README.md)
+  * [Security and frauds](beginner/security/README.md)
 - Advanced
   * [Trading & Exchanges](advanced/trading/README.md)
   * [Lending & Borrowing](advanced/lending/README.md)
