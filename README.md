@@ -22,5 +22,4 @@ We want to grow and help others grow. Leave any suggestions and comments to the 
 * [Blockchain](blockchain/README.md)
 * [DEFI](defi/README.md)
 * [Tools](tools/README.md)
-* [Security](security/README.md)
 * [Other blockchains](other_blockchains/README.md)
