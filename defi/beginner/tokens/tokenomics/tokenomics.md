@@ -8,7 +8,7 @@
 * [A complete tokenomics guide for web3 founders](https://victorugochukwu.com/a-complete-tokenomics-guide-for-web3-founders)
 
 ## Additional resources:
-
+* [Tokenomics Design: Essential Principles For Crypto Investors And Entrepreneurs](https://hacken.io/discover/tokenomics-design-principles/)
 * [100 questions you should ask yourself when analyzing tokenomics](https://medium.com/@kinaumov/100-questions-tokenomics-c31382966785)
 
 
