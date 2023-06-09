@@ -16,5 +16,9 @@
 * STO
   - [What is an STO? Security Token Offering](https://www.youtube.com/watch?v=oHkspZEokY4&t=7s)
 
+## Additional resources:
+
+* [Introduction to Token Sales (ICO) Best Practices](https://www.pwc.com/gx/en/financial-services/pdf/introduction-to-token-sales-ico-best-practices.pdf)
+* [Best Practices for Token Sales](https://ftahk.org/system/files/2019-07/FTAHK%20Best%20Practices%20for%20Token%20Sales%20-%20Version%202_0%20-%20October%202018.pdf)
 
 ## Questions:
