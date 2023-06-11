@@ -17,6 +17,8 @@
 * What is DEFI?
 * What are the problems with traditional finanсial system?
 * What is the goal of DEFI?
+* What are the challenges facing DEFI?
+* What are categories of products in DEFI do you know?
 * What is TVL? Why it is important metric for DEFI?
 
 ## Tasks:
