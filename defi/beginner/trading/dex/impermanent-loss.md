@@ -10,3 +10,5 @@
 
 
 ## Questions:
+
+* What is Impermanent Loss?
