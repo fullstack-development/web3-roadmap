@@ -3,6 +3,7 @@
 ## Resources:
 
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
+* [Beginner's Guide to NFTs: What Are Non-Fungible Tokens?](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
 
 ## Additional resources:
