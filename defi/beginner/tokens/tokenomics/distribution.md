@@ -15,3 +15,4 @@
 * What types of distribution do you know? 
 * What is allocation? 
 * Describe best practices in good allocation?
+* What is vesting? What is purpose of vesting?
