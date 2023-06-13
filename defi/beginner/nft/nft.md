@@ -4,7 +4,6 @@
 
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
-* [NFT Submarining](https://www.pinata.cloud/blog/introducing-submarining-what-it-is-why-you-need-it)
 
 ## Additional resources:
 * [NFT Glossary](https://www.finder.com/nft-glossary)
