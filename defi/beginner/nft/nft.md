@@ -18,5 +18,3 @@
 * What is the purpose of metadata in the NFT?
 * Why NFTs pictures are not storing on-chain? 
 * Describe briefly the main problem with royalties in the NFT?
-* What is the main purpose of SBT? 
-* How can creators benefit from submarining?
