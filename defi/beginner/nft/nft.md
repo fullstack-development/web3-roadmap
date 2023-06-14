@@ -10,6 +10,7 @@
 * [NFTs and intellectual property, explained](https://cointelegraph.com/explained/nfts-and-intellectual-property-explained)
 * [What are wash trading and money laundering in NFTs?](https://cointelegraph.com/explained/what-are-wash-trading-and-money-laundering-in-nfts)
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
+* [2023 NFT Market Analysis: An Insider Look](https://coinmarketcap.com/alexandria/ru/article/2023-nft-market-analysis:-an-insider-look)
 
 ## Questions:
 
