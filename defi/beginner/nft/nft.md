@@ -4,6 +4,7 @@
 
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
 * [Beginner's Guide to NFTs: What Are Non-Fungible Tokens?](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)
+* [The Benefits and Risks of NFT Investing](https://www.myartbroker.com/investing/articles/benefits-and-risks-of-nft-investing)
 
 ## Additional resources:
 * [2023 NFT Market Analysis: An Insider Look](https://coinmarketcap.com/alexandria/ru/article/2023-nft-market-analysis:-an-insider-look)
