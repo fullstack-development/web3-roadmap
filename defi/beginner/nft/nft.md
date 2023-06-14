@@ -18,5 +18,4 @@
 * Explain the difference between the fungible and non-fungible tokens.
 * Which are the most popular standards of non-fungible tokens? Tell about their definitions. 
 * What is the purpose of metadata in the NFT?
-* Why NFTs pictures are not storing on-chain? 
 * Describe briefly the main problem with royalties in the NFT?
