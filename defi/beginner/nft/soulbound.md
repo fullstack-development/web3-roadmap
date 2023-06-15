@@ -4,8 +4,7 @@
 
 * [What are Soulbound Tokens? SBTs Explained | Future of Ethereum](https://www.youtube.com/watch?v=6EhO8Dd-Z-o)
 * [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
-* [SoulBound Tokens- The Non-Transferable NFTs](https://101blockchains.com/soulbound-tokens/)
-* [Soulbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
+
 * [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 * [Addressing the most common misconceptions about Account-bound tokens](https://timdaub.github.io/2022/05/30/addressing-the-most-common-misconceptions-about-account-bound-tokens/)
 * [Soulbound tokens should be signed claims](https://katelynsills.com/blockchain/soulbound-tokens/)
