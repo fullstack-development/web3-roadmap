@@ -14,6 +14,7 @@
 * [What are wash trading and money laundering in NFTs?](https://cointelegraph.com/explained/what-are-wash-trading-and-money-laundering-in-nfts)
 * [Are NFTs really solving the Royalty problem?](https://medium.com/@neavra/are-nfts-really-solving-the-royalty-problem-75e341310e4d)
 * [Is Staking NFTs Worth it, and How Does It Work?](https://stackbrowser.com/blog/staking-nfts)
+* [What are dynamic NFTs?: Use cases and examples](https://cointelegraph.com/explained/what-are-dynamic-nfts-use-cases-and-examples)
 
 ## Questions:
 
