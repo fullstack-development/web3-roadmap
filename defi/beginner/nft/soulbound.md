@@ -14,10 +14,6 @@
 * [Definancializing Web3 with SBTs](https://otterspace.mirror.xyz/fhugaesrk4XPppXRB-QBDnxfuq9UDUbwos9wD7MDNgQ)
 * [DAO Badges as Non-transferable Tokens](https://otterspace.mirror.xyz/6qSvCLD-Fch_-XREYO9ALsd14HvizAacp2wqeZovhwI)
 * [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg)
-* [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
-* [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting | Glen Weyl, Puja Ohlhaver](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
-* [Bankless podcast - Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](http://podcast.banklesshq.com/soulbound-on-or-off-chain-vitalik-buterin-and-evin-mcmullen)
-
 
 
 ## Questions:
