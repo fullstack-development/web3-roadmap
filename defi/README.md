@@ -2,15 +2,15 @@
 
 - Beginner
   * [intro](beginner/defi.md)
-  * [Economics](beginner/economics/economics.md)
+  * [Economics](beginner/economics.md)
   * [Fungible Tokens](beginner/tokens/README.md)
-  * [Trading & Exchanges](beginner/trading/README.md)
-  * [Stablecoins](beginner/stablecoins/README.md)
-  * [Lending & Borrowing](beginner/lending/README.md)
-  * [Yield farming](beginner/yield-farming/README.md)
-  * [Vaults](beginner/vaults/README.md)
   * [NFT](beginner/nft/README.md)
-  * [DAO](beginner/dao/README.md)
+  * [Trading & Exchanges](beginner/trading/README.md)
+  * [Stablecoins](beginner/stablecoins.md)
+  * [Lending & Borrowing](beginner/lending.md)
+  * [Yield farming](beginner/yield.md)
+  * [Vaults](beginner/vaults.md)
+  * [DAO](beginner/dao.md)
   * [Security and frauds](beginner/security/README.md)
 - Advanced
   * [Trading & Exchanges](advanced/trading/README.md)
