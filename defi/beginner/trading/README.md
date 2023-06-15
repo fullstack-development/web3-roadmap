@@ -4,6 +4,6 @@
 - [Technical analysis](technical.md)
 - [Fundamental analysis](fundamental.md)
 - [Trading Strategies](strategies.md)
-- [CEX](cex/README.md)
-- [DEX](dex/README.md)
+- [CEX](cex.md)
+- [DEX](dex.md)
 - [Arbitrage](arbitrage.md)
