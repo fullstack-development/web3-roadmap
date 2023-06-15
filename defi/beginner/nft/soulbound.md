@@ -4,7 +4,6 @@
 
 * [What are Soulbound Tokens? SBTs Explained | Future of Ethereum](https://www.youtube.com/watch?v=6EhO8Dd-Z-o)
 * [What Are Soulbound Tokens (SBT)?](https://academy.binance.com/en/articles/what-are-soulbound-tokens-sbt)
-* [DAO Badges as Non-transferable Tokens](https://otterspace.mirror.xyz/6qSvCLD-Fch_-XREYO9ALsd14HvizAacp2wqeZovhwI)
 * [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg)
 
 
