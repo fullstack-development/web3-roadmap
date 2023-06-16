@@ -1,7 +1,7 @@
 # DEFI
 
 - Beginner
-  * [intro](beginner/defi.md)
+  * [Intro](beginner/defi.md)
   * [Economics](beginner/economics.md)
   * [Fungible Tokens](beginner/tokens/README.md)
   * [NFT](beginner/nft/README.md)
