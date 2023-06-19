@@ -16,6 +16,7 @@
   - [What is an STO? Security Token Offering](https://www.youtube.com/watch?v=oHkspZEokY4&t=7s)
 
 ## Additional resources:
+* [A Comprehensive Guide to the Next Generation of ICOs & Crypto Funding | The Rise, Boom, Bust, &…](https://hackernoon.com/a-comprehensive-guide-to-icos-crypto-funding-the-rise-the-boom-the-bust-the-next-b159fdf38010?ref=hackernoon.com)
 * [The Science Of A Successful Token Sale: How To Nail Your ICO Tokenomics](https://maxya.mp/the-science-of-a-successful-token-sale-how-to-nail-your-ico-tokenomics)
 * [Introduction to Token Sales (ICO) Best Practices](https://www.pwc.com/gx/en/financial-services/pdf/introduction-to-token-sales-ico-best-practices.pdf)
 * [Best Practices for Token Sales](https://ftahk.org/system/files/2019-07/FTAHK%20Best%20Practices%20for%20Token%20Sales%20-%20Version%202_0%20-%20October%202018.pdf)
