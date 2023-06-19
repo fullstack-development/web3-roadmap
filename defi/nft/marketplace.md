@@ -8,6 +8,7 @@
 ## Additional resources:
 * [Dutch Auction: Understanding How It’s Used in Public Offerings](https://www.investopedia.com/terms/d/dutchauction.asp)
 * [What is lazy minting NFTs?](https://www.alchemy.com/overviews/lazy-minting)
+* [Top nft marketplaces](https://defillama.com/nfts/marketplaces)
 
 ## Questions:
 
