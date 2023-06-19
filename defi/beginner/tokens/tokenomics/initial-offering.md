@@ -21,3 +21,5 @@
 * [Best Practices for Token Sales](https://ftahk.org/system/files/2019-07/FTAHK%20Best%20Practices%20for%20Token%20Sales%20-%20Version%202_0%20-%20October%202018.pdf)
 
 ## Questions:
+
+* What is ICO? What is difference with IPO?
