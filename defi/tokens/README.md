@@ -6,3 +6,4 @@
    * [Tokens distribution](tokenomics/distribution.md)
        - [Initial offering](tokenomics/initial-offering.md)
        - [Airdrops](tokenomics/airdrops.md)
+       - [Launchpads](tokenomics/launchpads/README.md)
