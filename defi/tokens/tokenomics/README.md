@@ -5,3 +5,4 @@
 - [Tokens distribution](distribution.md)
     * [Initial offering](initial-offering.md)
     * [Airdrops](airdrops.md)
+    * [Launchpads](./launchpads/README.md)
