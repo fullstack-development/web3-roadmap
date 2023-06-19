@@ -14,4 +14,5 @@
 
 * What is airdrop?
 * What purpose of airdrop?
-* Is airdrop a fraud?
+* What are pros and cons of airdrops?
+* Describe fex examples of biggest airdrops?
