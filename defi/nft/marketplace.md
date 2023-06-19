@@ -11,4 +11,9 @@
 
 ## Questions:
 
+* What is nft marketplace?
+* What types of marketplaces do yo know?
+* What biggest marketplaces do you know?
+* What happens with royalties in marketplaces?
 * What is Dutch Auction? How does it work?
+* What is lazy minting?
