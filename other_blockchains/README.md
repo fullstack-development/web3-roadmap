@@ -1,4 +1,4 @@
 # Other blockchains
 
- * [EVM blockchains](advanced/evm_blockchains/README.md)
- * [Non EVM blockchains](advanced/non_evm_blockchains/README.md)
+* [EVM blockchains](./evm_blockchains/evm.md)
+* [Non EVM blockchains](./non_evm_blockchains/README.md)
