@@ -26,3 +26,4 @@
 * What is reverse ICO?
 * How ICO works?
 * What problems could be with ICO for project? What problems could be with ICO for investors?
+* What is IEO? What is the difference with ICO? What benefits of IEO?
