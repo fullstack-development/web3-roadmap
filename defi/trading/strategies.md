@@ -8,4 +8,8 @@
 * [A Beginner's Guide to Swing Trading Cryptocurrency](https://academy.binance.com/en/articles/a-beginners-guide-to-swing-trading-cryptocurrency)
 * [What Is Scalping Trading in Cryptocurrency?](https://academy.binance.com/en/articles/what-is-scalping-trading-in-cryptocurrency)
 
+## Additional resources: 
+* [What Is Arbitrage Trading?](https://academy.binance.com/en/articles/what-is-arbitrage-trading)
+* [Crypto Arbitrage: Overview, Trading Strategies, Opportunities, and More](https://blog.quantinsti.com/crypto-arbitrage/)
+
 ## Questions:
