@@ -23,3 +23,4 @@
 ## Questions:
 
 * What is ICO? What is difference with IPO?
+* What is reverse ICO?
