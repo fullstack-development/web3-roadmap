@@ -25,3 +25,4 @@
 * What is ICO? What is difference with IPO?
 * What is reverse ICO?
 * How ICO works?
+* What problems could be with ICO for project? What problems could be with ICO for investors?
