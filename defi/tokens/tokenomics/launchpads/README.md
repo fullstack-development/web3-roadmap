@@ -1,0 +1,3 @@
+# Launchpads
+
+- [Basics](./launchpads.md)
