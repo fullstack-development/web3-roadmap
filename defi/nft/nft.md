@@ -21,3 +21,4 @@
 * Explain the difference between the fungible and non-fungible tokens.
 * Which are the most popular standards of non-fungible tokens? Tell about their definitions. 
 * What is the purpose of metadata in the NFT?
+* What is NFT minting?
