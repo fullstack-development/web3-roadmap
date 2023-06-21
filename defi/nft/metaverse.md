@@ -10,7 +10,10 @@
 * [The Metaverse and How We'll Build It Together -- Connect 2021](https://www.youtube.com/watch?v=Uvufun6xer8)
 
 ## Questions:
-* What are metavalleys created for? What functionality do they implement within themselves?
-* How are meta-universes monetized?
-* What areas of technology include meta-universes?
+* What is metaverse?
+* What are 7 layers of metaverse?
+* What are key features of metaverses?
+* What metaverse platforms do you know?
+* How are metaverse monetized?
+
  
