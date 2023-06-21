@@ -22,3 +22,4 @@
 * Which are the most popular standards of non-fungible tokens? Tell about their definitions. 
 * What is the purpose of metadata in the NFT?
 * What is NFT minting?
+* What nft standards do you know?
