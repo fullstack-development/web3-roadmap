@@ -9,6 +9,7 @@
 
 ## Additional resources:
 * [The Metaverse and How We'll Build It Together -- Connect 2021](https://www.youtube.com/watch?v=Uvufun6xer8)
+* [Metaverse and NFTs for Ecommerce: Driving Sales With Examples](https://hackernoon.com/metaverse-and-nfts-for-ecommerce-driving-sales-with-examples)
 
 ## Questions:
 * What is metaverse?
