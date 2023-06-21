@@ -10,6 +10,7 @@
 
 ## Additional resources:
 * [18 Top Play-To-Earn Crypto Games To Play In 2022](https://zipmex.com/learn/top-play-to-earn-crypto-games/)
+* [Solving the Problems With Play-to-earn Gaming](https://hackernoon.com/solving-the-problems-with-play-to-earn-gaming)
 
 ## Questions:
 * Why do games incorporate P2E mechanics?
