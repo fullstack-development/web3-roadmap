@@ -11,6 +11,7 @@
 ## Additional resources:
 * [Games on Polkastarter](https://polkastarter.gg/games/)
 * [Solving the Problems With Play-to-earn Gaming](https://hackernoon.com/solving-the-problems-with-play-to-earn-gaming)
+* [A Complete Guide to Initial Game Offerings (IGOs)](https://hackernoon.com/a-complete-guide-to-initial-game-offerings-igos)
 
 ## Questions:
 * Why do games incorporate P2E mechanics?
