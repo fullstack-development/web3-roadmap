@@ -9,9 +9,10 @@
 - [Forks](forks.md)
 - [Security](security/README.md)
 - [Zero knowledge proof](zero.md)
+- [Mixers](mixers.md)
 - [Bridges](bridges.md)
 - [Scallability](scale.md)
   * [Layer 1](l1.md)
   * [Layer 2: Rollups, sidechains, lightning networks](l2.md)
 - [Parachains](parachains.md)
-- [Mixers](mixers.md)
+
