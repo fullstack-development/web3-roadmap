@@ -25,8 +25,8 @@
   * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
 
 ## Questions:
-* What is derivative?
-* What is stock?
+* What is stock? What are 2 ways to make money on stocks?
 * What is bond?
+* What is derivative?
 * What is option? What types of options do you know?
 * What is margin trading? What is leverage? What is margin-call?
