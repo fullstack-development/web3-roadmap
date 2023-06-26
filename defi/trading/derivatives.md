@@ -27,6 +27,7 @@
 
 ## Questions:
 * What is derivative?
-* What is stock? What is bond?
+* What is stock?
+* What is bond?
 * What is option? What types of options do you know?
 * What is margin trading? What is leverage? What is margin-call?
