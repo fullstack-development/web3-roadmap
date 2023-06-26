@@ -7,7 +7,7 @@
   * [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
   * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
 - Derivatives
-  * [Derivatives Trading Explained](https://www.youtube.com/watch?v=LQrBzl0DMBA)
+  * [Crypto derivatives 101: A beginner’s guide on crypto futures, crypto options and perpetual contracts](https://cointelegraph.com/learn/crypto-derivatives)
   * [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 - Futures
   * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
