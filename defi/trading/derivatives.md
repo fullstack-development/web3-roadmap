@@ -6,7 +6,6 @@
   * [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
   * [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
   * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
-  * [What Is a Spot Market and How to do Spot Trading?](https://academy.binance.com/en/articles/what-is-a-spot-market-and-how-to-do-spot-trading)
 - Derivatives
   * [Derivatives Trading Explained](https://www.youtube.com/watch?v=LQrBzl0DMBA)
   * [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
