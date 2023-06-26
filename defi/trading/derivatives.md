@@ -2,26 +2,14 @@
 
 ## Resources:
 
-- Bonds & stocks
-  * [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
-  * [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
-  * [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
-- Derivatives
-  * [Crypto derivatives 101: A beginner’s guide on crypto futures, crypto options and perpetual contracts](https://cointelegraph.com/learn/crypto-derivatives)
-  * [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
-- Futures
-  * [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
-  * [What Are Forward and Futures Contracts?](https://academy.binance.com/en/articles/what-are-forward-and-futures-contracts)
-  * [The Ultimate Guide to Trading on Binance Futures](https://academy.binance.com/en/articles/the-ultimate-guide-to-trading-on-binance-futures)
-  * [What Are Perpetual Futures Contracts?](https://academy.binance.com/en/articles/what-are-perpetual-futures-contracts)
-- Options
-  * [What are Options?](https://www.youtube.com/watch?v=CRhGikRHSu8)
-  * [What Are Options Contracts?](https://academy.binance.com/en/articles/what-are-options-contracts)
-  * [Binance Options Guide for iOS and Android](https://academy.binance.com/en/articles/binance-options-guide-for-ios-and-android)
-- Margin Trading
-  * [What Is Margin Trading?](https://academy.binance.com/en/articles/what-is-margin-trading)
-  * [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
-  * [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
+* [Investing Basics: Stocks](https://www.youtube.com/watch?v=hE2NsJGpEq4)
+* [Investing Basics: Bonds](https://www.youtube.com/watch?v=IuyejHOGCro)
+* [What's the Difference Between Bonds and Stocks?](https://www.youtube.com/watch?v=uI2vhCitTBw)
+* [Crypto derivatives 101: A beginner’s guide on crypto futures, crypto options and perpetual contracts](https://cointelegraph.com/learn/crypto-derivatives)
+* [What Is Margin Trading?](https://academy.binance.com/en/articles/what-is-margin-trading)
+* [What Is Leverage in Crypto Trading?](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
+* [Binance Margin Trading Guide](https://academy.binance.com/en/articles/binance-margin-trading-guide) 
+* [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
 ## Questions:
 * What is stock? What are 2 ways to make money on stocks?
