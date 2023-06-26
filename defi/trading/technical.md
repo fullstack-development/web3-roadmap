@@ -20,14 +20,6 @@
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 * [Volume-Weighted Average Price (VWAP) Explained](https://academy.binance.com/en/articles/volume-weighted-average-price-vwap-explained)
 * [5 Essential Indicators Used in Technical Analysis](https://academy.binance.com/en/articles/5-essential-indicators-used-in-technical-analysis)
-* [Leading and Lagging Indicators Explained](https://academy.binance.com/en/articles/leading-and-lagging-indicators-explained)
-* [What Is the Risk/Reward Ratio and How to Use It](https://academy.binance.com/en/articles/what-is-the-risk-reward-ratio-and-how-to-use-it)
-* [A Beginner’s Guide to TradingView](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
-* [How to Use TradingView on Binance Website](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
-* [What Is Backtesting?](https://academy.binance.com/en/articles/what-is-backtesting)
-* [How to Backtest a Trading Strategy](https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy)
-* [What Is a Trading Journal and How to Use One](https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one)
-* [Market correction vs. bear market: Key differences explained](https://cointelegraph.com/explained/market-correction-vs-bear-market-key-differences-explained)
 
 ## Questions:
 
