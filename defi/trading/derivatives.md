@@ -26,8 +26,9 @@
 
 ## Questions:
 * What is stock? What are 2 ways to make money on stocks?
-* What is bond?
-* What is the difference between bonds and stocks? What is default risk? What is coupon rate?
+* What is bond? What is coupon rate?
+* What is the difference between bonds and stocks?
+* What is default risk?
 * What is derivative?
 * What is option? What types of options do you know?
 * What is margin trading? What is leverage? What is margin-call?
