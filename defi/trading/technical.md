@@ -3,7 +3,7 @@
 
 ## Resources : 
 * [What is Technical Analysis? Candlesticks, Trendlines, Patterns Explained](https://www.youtube.com/watch?v=4c5WKOB3U5c)
-* [What Is Technical Analysis?](https://academy.binance.com/ru/articles/what-is-technical-analysis)
+* [What Is Technical Analysis?](https://academy.binance.com/en/articles/what-is-technical-analysis)
 * [Chapter 4 - Technical Analysis Basics](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners#what-is-a-long-position)
 * [Chapter 5 – Technical Analysis Indicators](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners#what-is-a-technical-analysis-indicator)
 * [Order Book](https://academy.binance.com/en/glossary/order-book)
