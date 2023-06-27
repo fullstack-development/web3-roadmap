@@ -24,7 +24,8 @@
 ## Questions:
 
 * What is the difference between technical and fundamental analysis?
-* What do Japanese candlesticks reflect?
+* What are Japanese candlesticks? How to read them?
+* 
 * What does the Market glass show and why is it needed?
 * What are the Support and Resistance Levels set for?
 * Trend Lines - what does it show a trader?
