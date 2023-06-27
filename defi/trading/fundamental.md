@@ -11,3 +11,5 @@
 ## Questions:
 * What is fundamental analysis? What is the purpose of fundamental analysis?
 * What is the difference between fundamental analysis and technical analysis?
+* What are the indicators in fundamental analysis?
+* What are pros and cons of fundamental analysis?
