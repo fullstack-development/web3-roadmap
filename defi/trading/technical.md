@@ -16,10 +16,6 @@
 * [The Basics of Support and Resistance Explained](https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained)
 * [What Is Shorting in the Financial Markets?](https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets)
 * [What Is a Short Squeeze?](https://academy.binance.com/en/articles/what-is-a-short-squeeze)
-* [How to Calculate Position Size in Trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
-* [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
-* [Volume-Weighted Average Price (VWAP) Explained](https://academy.binance.com/en/articles/volume-weighted-average-price-vwap-explained)
-* [5 Essential Indicators Used in Technical Analysis](https://academy.binance.com/en/articles/5-essential-indicators-used-in-technical-analysis)
 
 ## Questions:
 
