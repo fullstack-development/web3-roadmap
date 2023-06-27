@@ -9,3 +9,4 @@
 - [What Is Crypto Market Sentiment?](https://academy.binance.com/en/articles/what-is-crypto-market-sentiment)
 
 ## Questions:
+* What is fundamental analysis? What is the purpose of fundamental analysis?
