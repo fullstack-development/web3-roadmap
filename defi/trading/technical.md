@@ -21,8 +21,9 @@
 
 * What is the difference between technical and fundamental analysis?
 * What is long position? What is short position?
-* What are Japanese candlesticks? How to read them?
+* What is orderbook?
 * What does the Market glass show and why is it needed?
+* What are Japanese candlesticks? How to read them?
 * What are the Support and Resistance Levels set for?
 * Trend Lines - what does it show a trader?
 * What does the moving average reflect? What data is it based on?
