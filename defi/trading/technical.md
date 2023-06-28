@@ -20,6 +20,7 @@
 ## Questions:
 
 * What is the difference between technical and fundamental analysis?
+* What is long position? What is short position?
 * What are Japanese candlesticks? How to read them?
 * What does the Market glass show and why is it needed?
 * What are the Support and Resistance Levels set for?
