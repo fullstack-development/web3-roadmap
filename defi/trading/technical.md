@@ -13,8 +13,6 @@
 * [A Beginner's Guide to Candlestick Charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [A Beginner’s Guide to Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 * [The Basics of Support and Resistance Explained](https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained)
-* [What Is Shorting in the Financial Markets?](https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets)
-* [What Is a Short Squeeze?](https://academy.binance.com/en/articles/what-is-a-short-squeeze)
 
 ## Questions:
 
