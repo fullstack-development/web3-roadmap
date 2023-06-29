@@ -17,4 +17,5 @@
 * What is portfolio management? Two ways of portfolio management?
 * What are types of risks in portfolio management?
 * What is day trading? Why volume and liquidity are crucial for day trading?
-* What is scalping strategy? 
+* What is scalping strategy?
+* What is Range trading?
