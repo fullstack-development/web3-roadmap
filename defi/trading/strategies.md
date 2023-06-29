@@ -22,3 +22,4 @@
 * What is High-frequency trading (HFT)?
 * What is swing trading?
 * What is position trading?
+* What is Arbitrage trading?
