@@ -13,3 +13,4 @@
 * [Crypto Arbitrage: Overview, Trading Strategies, Opportunities, and More](https://blog.quantinsti.com/crypto-arbitrage/)
 
 ## Questions:
+* What is a trading strategy?
