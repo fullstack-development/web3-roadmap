@@ -15,3 +15,4 @@
 ## Questions:
 * What is a trading strategy?
 * What is portfolio management? Two ways of portfolio management?
+* What are types of risks in portfolio management?
