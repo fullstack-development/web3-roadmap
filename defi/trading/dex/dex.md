@@ -42,3 +42,4 @@ Automated Market Maker (AMM)
 * Which cryptocurrencies can be traded on a DEX?
 * Why do DEXes need the liqudity pools?
 * How DEXes are work?
+* What is market maker and market taker?
