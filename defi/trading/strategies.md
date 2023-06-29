@@ -14,3 +14,4 @@
 
 ## Questions:
 * What is a trading strategy?
+* What is portfolio management? Two ways of portfolio management?
