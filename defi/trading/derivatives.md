@@ -18,4 +18,6 @@
 * What is default risk?
 * What is derivative?
 * What is option? What types of options do you know?
+* What are futures? What types of futures do you know?
+* What difference between options and futures?
 * What is margin trading? What is leverage? What is margin-call?
