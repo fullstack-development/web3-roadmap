@@ -23,3 +23,4 @@
 * What is swing trading?
 * What is position trading?
 * What is Arbitrage trading?
+* What types of Arbitrage trading do you know?
