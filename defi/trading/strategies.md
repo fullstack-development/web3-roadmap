@@ -19,3 +19,4 @@
 * What is day trading? Why volume and liquidity are crucial for day trading?
 * What is scalping strategy?
 * What is Range trading?
+* What is High-frequency trading (HFT)?
