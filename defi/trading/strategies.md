@@ -20,3 +20,5 @@
 * What is scalping strategy?
 * What is Range trading?
 * What is High-frequency trading (HFT)?
+* What is swing trading?
+* What is position trading?
