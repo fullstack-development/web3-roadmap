@@ -16,7 +16,7 @@
 
 ## Questions:
 
-* What is the difference between technical and fundamental analysis?
+* What is the technical analysis?
 * What is long position? What is short position?
 * What is orderbook?
 * What does the Market glass show and why is it needed?
