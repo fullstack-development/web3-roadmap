@@ -8,4 +8,4 @@
 * [Blockchain Scalability: Execution, Storage, and Consensus](https://blog.chain.link/blockchain-scalability-approaches/)
 
 ## Questions:
-1. Describe briefly the blockchain scalability trilemma. 
+* Describe briefly the blockchain scalability trilemma. 
