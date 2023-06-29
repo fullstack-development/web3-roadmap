@@ -24,3 +24,4 @@
 * What is position trading?
 * What is Arbitrage trading?
 * What types of Arbitrage trading do you know?
+* What risks of Arbitrage trading do you know?
