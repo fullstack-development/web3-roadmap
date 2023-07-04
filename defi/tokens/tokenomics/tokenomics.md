@@ -14,8 +14,8 @@
 
 ## Questions:
 
-* What is whitepaper? 
-* Why tokenomics does matter?
+* What is a whitepaper? 
+* Why does tokenomics matter?
 * What defines good tokenomics?
 * What is token supply? What is circullation supply? What is total supply? What is max. supply?
 * What is marketcap?
