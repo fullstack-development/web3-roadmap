@@ -13,5 +13,5 @@
 * What is Minting?
 * What is Burning? What is main purpose of burning?
 * How does burning work? Is this feature logic in token smart contract?
-* What is Staking? What is main purpose of staking?
+* What is Staking? What is the main purpose of staking?
 * How does staking work? Is this feature logic in token smart contract?
