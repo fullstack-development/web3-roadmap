@@ -13,7 +13,7 @@
 
 
 ## Ruestions:
-* What is an allocation? 
+* What is allocation? 
 * What is a Whitelist?
 * What are multi-accounts for?
 * What are 'tiers' on the launchpad for?
