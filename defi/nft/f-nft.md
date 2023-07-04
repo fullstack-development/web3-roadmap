@@ -10,6 +10,6 @@
 ## Questions:
 
 * What is Fractional NFT?
-* What are benefits of NFT fractalization?
-* What are risks of NFT fractalization?
+* What are the benefits of NFT fractalization?
+* What are the risks of NFT fractalization?
 * What do you know about use cases of NFT fractalization?
