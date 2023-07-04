@@ -12,8 +12,8 @@
 * [Uniswap subgraph example](https://thegraph.com/hosted-service/subgraph/uniswap/uniswap-v3)
 
 ## Questions:
-* What purpose of The graph?
+* What is the purpose of The graph?
 * How does it work?
-* What roles are exist in The graph?
+* What roles exist in The graph?
 * What is the Hosted service in The graph?
-* What skills developer should have for writting subgraph?
+* What skills should developers have to write subgraph?
