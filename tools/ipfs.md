@@ -10,10 +10,10 @@
 ## Questions:
 
 * What is IPFS? What is the purpose of this service?
-* Where data is stored?
-* How data is devided and stored in IPFS?
-* What are use cases of IPFS?
-* Have stored data some limitations or problems?
+* Where is data stored?
+* How is data devided and stored in IPFS?
+* What are the use cases of IPFS?
+* Does stored data have any limitations or problems?
 * What is Pinata?
 * What is Filecoin?
 * What is submarining?
