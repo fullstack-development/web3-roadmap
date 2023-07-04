@@ -13,6 +13,6 @@
 ## Questions:
 
 * What is multisig?
-* What benefits multisig has?
-* Has using of multisig some risks?
+* What benefits does multisig have?
+* Does using of multisig have any risks?
 * What is Gnosis?
