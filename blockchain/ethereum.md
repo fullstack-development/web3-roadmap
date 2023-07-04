@@ -14,8 +14,8 @@
 
 ## Questions:
 
-* What are smart contracts? What problem are they solving?
-* Why is it impossible to write smart contracts for bitcoin, but for Ethereum is real?
+* What are smart contracts? What problem do they solve?
+* Why is it impossible to write smart contracts for bitcoin, but possible for Ethereum?
 * What is Turing machine?
 * What happens in blockchain when someone calls a smart contract function?
 * How to make an http request from inside the smart contract function?
