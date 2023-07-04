@@ -13,9 +13,9 @@
 
 ## Questions:
 * What is metaverse?
-* What are 7 layers of metaverse?
-* What are key features of metaverses?
+* What are the 7 layers of metaverse?
+* What are the key features of metaverses?
 * What metaverse platforms do you know?
-* How are metaverse monetized?
+* How are metaverses monetized?
 
  
