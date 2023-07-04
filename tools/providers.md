@@ -12,5 +12,5 @@
 ## Questions:
 
 * What are node providers for?
-* What are advantages or disadvantages of using providers?
-* What are most popular node providers?
+* What are the advantages or disadvantages of using providers?
+* What are the most popular node providers?
