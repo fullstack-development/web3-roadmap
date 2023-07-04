@@ -16,9 +16,9 @@
 ## Questions:
 
 * What is Cardano? Shortly point out the main differences with EVM-networks. 
-* What is the Third Generation Blockchain. Is Cardano a III-Gen Blockchain? Why/Why not?
+* What is the Third Generation Blockchain? Is Cardano a III-Gen Blockchain? Why/Why not?
 * What is UTXO and EUTXO? What are the differences?
 * What is Plutus? Which parts are running On-Chain & Off-Chain?
 * Which wallets shoud we use working with Cardano?
 * What are the last Cardano updates? Explain Vasil hardfork.
-* What are Cardano long-term plans?
+* What are the long-term plans of Cardano?
