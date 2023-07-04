@@ -7,7 +7,7 @@
 
 ## Questions:
 
-* Why credit does matter for any financial system?
-* What is inflation and deflation? How they are affect to market?
-* What is interest rate?
-* What is monetary policy?
+* Why does credit matter for any financial system?
+* What is inflation and deflation? How do they affect the market?
+* What is an interest rate?
+* What is a monetary policy?
