@@ -24,14 +24,14 @@
 
 ## Questions:
 
-* What difference between coin and token?
+* What is the difference between coin and token?
 * What does "fungible" mean?
-* What is the purpose of launching own token?
+* What is the purpose of launching your own token?
 * What is ERC-20? What problem does it solve? 
-* Which methods ERC-20 includes?
+* Which methods does ERC-20 include?
 * What are BEP-20 and TRC-20?
-* What is security token?
+* What is a security token?
 * What is Howey test?
-* What is utility token?
-* What is governance token?
-* What is Wrapped Token?
+* What is an utility token?
+* What is a governance token?
+* What is a Wrapped Token?
