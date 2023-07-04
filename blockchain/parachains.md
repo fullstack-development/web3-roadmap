@@ -16,6 +16,6 @@
 * [Polkadot vs Cosmos: What is the Difference?](https://academy.moralis.io/blog/polkadot-vs-cosmos-what-is-the-difference)
 
 ## Questions:
-1. Describe the polkadot project. how does it work and what is it for?
-2. Describe the Cosmos project. how does it work and what is it for?
+1. Describe the polkadot project. How does it work and what is it for?
+2. Describe the Cosmos project. How does it work and what is it for?
 3. What are the differences between polkadot and cosmos? 
