@@ -12,7 +12,7 @@
 
 ## Questions:
 
-* What is airdrop?
-* What purpose of airdrop?
+* What is an airdrop?
+* What is the purpose of an airdrop?
 * What are pros and cons of airdrops?
-* Describe fex examples of biggest airdrops?
+* Describe few examples of the biggest airdrops?
