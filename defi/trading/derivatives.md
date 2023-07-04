@@ -12,12 +12,12 @@
 * [Derivatives in DEFI Explained (Synthetix, UMA, Hegic, Opyn, Perpetual, dYdX, BarnBridge)](https://www.youtube.com/watch?v=QxoqPZRw9y4)
 
 ## Questions:
-* What is stock? What are 2 ways to make money on stocks?
-* What is bond? What is coupon rate?
+* What is a stock? What are 2 ways to make money on stocks?
+* What is a bond? What is a coupon rate?
 * What is the difference between bonds and stocks?
 * What is default risk?
-* What is derivative?
-* What is option? What types of options do you know?
-* What are futures? What types of futures do you know?
-* What difference between options and futures?
+* What is a derivative?
+* What is an option? What types of options do you know?
+* What are the futures? What types of futures do you know?
+* What is the difference between options and futures?
 * What is margin trading? What is leverage? What is margin-call?
