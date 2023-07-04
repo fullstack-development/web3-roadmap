@@ -17,8 +17,8 @@
 ## Questions:
 
 * What is the technical analysis?
-* What is long position? What is short position?
-* What is orderbook?
+* What is a long position? What is a short position?
+* What is an orderbook?
 * What does the Market glass show and why is it needed?
 * What are Japanese candlesticks? How to read them?
 * What are the Support and Resistance Levels set for?
