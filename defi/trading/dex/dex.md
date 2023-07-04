@@ -37,9 +37,9 @@ Automated Market Maker (AMM)
 
 * What is a DEX?
 * How is a DEX different from a CEX?‍
-* What are main benefits of DEXs?
+* What are the main benefits of DEXs?
 * What are some of the drawbacks of DEXs?
 * Which cryptocurrencies can be traded on a DEX?
 * Why do DEXes need the liqudity pools?
-* How DEXes are work?
+* How do DEXes work?
 * What is market maker and market taker?
