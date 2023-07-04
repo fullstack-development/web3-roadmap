@@ -16,13 +16,13 @@
 ## Questions:
 
 * What is blockchain? What problem does it solve?
-* What is node in blockchain? What types of nodes do you know?
-* What is hash function and what is 5 rules with it?
+* What is a node in blockchain? What types of nodes do you know?
+* What is a hash function and what are 5 rules with it?
 * What types of keys are there? What are they needed for?
 * What is UTXO?
-* What is problem of double spending? How does it solve in bitcoin?
+* What is the problem of double spending? How is it solved in bitcoin?
 * What task needs to be solved to add your block to the blockchain? What is nonce? What is Mining Difficulty?
 * Who are miners and what are mining pools? What is Asics?
 * What happens if two miners solve the problem at the same time?
 * What is a hash rate?
-* What Is a Merkle Tree? Why Are Merkle Trees Important in Blockchains?
+* What Is Merkle Tree? Why Are Merkle Trees Important in Blockchains?
