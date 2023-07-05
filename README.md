@@ -1,4 +1,4 @@
-# DEFI roadmap for non-developers 
+# Web3 roadmap for non-developers 
 
 Hello! We are the [MetaLamp](www.metalamp.io/) team - we have been packaging customer ideas into finished products since 2014. Since 2020, we have focused on projects in the web3 space and we've been developing our expertise which we want to share with the community.
 
