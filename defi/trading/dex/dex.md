@@ -26,5 +26,4 @@
 * What are the main risks of DEXs?
 * Which cryptocurrencies can be traded on a DEX?
 * Why do DEXes need the liqudity pools?
-* How do DEXes work?
-* What is market maker and market taker?
+* How do DEXes on AMM work?
