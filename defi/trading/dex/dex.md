@@ -6,9 +6,6 @@
 * [What are decentralized exchanges, and how do DEXs work?](https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work)
 * [What is a DEX? How A Decentralized Exchange Works](https://www.youtube.com/watch?v=2tTVJL4bpTU)
 * [What is a Liquidity Pool in Crypto? (Animated)](https://www.youtube.com/watch?v=dVJzcFDo498)
-
-Automated Market Maker (AMM)
-
 * [What is an Automated Market Maker? (Liquidity Pool Algorithm)](https://www.youtube.com/watch?v=1PbZMudPP5E)
 * [Automated Market Makers: What You Need to Know](https://hackernoon.com/automated-market-makers-what-you-need-to-know)
 * [What explains the rise of AMMs?](https://medium.com/dragonfly-research/what-explains-the-rise-of-amms-7d008af1c399)
