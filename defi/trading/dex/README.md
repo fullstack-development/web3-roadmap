@@ -1,6 +1,5 @@
 # DEX
 
-## Resources:
 - [basics](./dex.md)
 - [Uniswap v2](uni.md)
 - [Sushiswap](sushi.md)
