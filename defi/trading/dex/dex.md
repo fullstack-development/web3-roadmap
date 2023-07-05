@@ -27,11 +27,6 @@ Automated Market Maker (AMM)
 * [6 Ways to Avoid Impermanent Loss (Crypto Liquidity Pools)](https://www.youtube.com/watch?v=oyriORaeJOw)
 * [What Is Impermanent Loss?](https://hackernoon.com/what-is-impermanent-loss)
 
-* [What is a Vampire Attack in Crypto? (SushiSwap Stole Uniswap's Money?)](https://www.youtube.com/watch?app=desktop&v=UpqgenfGYkI)
-* [What Is a VAMPIRE ATTACK? SUSHISWAP Saga Explained](https://www.youtube.com/watch?v=UFjXwrCGuog)
-* [What Are Vampire Attacks: The Dangers Of Incentivized Liquidity](https://phemex.com/blogs/what-are-vampire-attacks-in-crypto)
-
-
 ## Questions:
 
 * What is a DEX?
