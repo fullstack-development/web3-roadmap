@@ -16,7 +16,6 @@
 * [What explains the rise of AMMs?](https://medium.com/dragonfly-research/what-explains-the-rise-of-amms-7d008af1c399)
 * [What is Impermanent Loss in Crypto? (Animated + Examples)](https://www.youtube.com/watch?v=_m6Mowq3Ptk)
 * [6 Ways to Avoid Impermanent Loss (Crypto Liquidity Pools)](https://www.youtube.com/watch?v=oyriORaeJOw)
-* [What Is Impermanent Loss?](https://hackernoon.com/what-is-impermanent-loss)
 
 ## Questions:
 
