@@ -14,5 +14,4 @@
 - [Scallability](scale.md)
   * [Layer 1](l1.md)
   * [Layer 2: Rollups, sidechains, lightning networks](l2.md)
-- [Parachains](parachains.md)
 
