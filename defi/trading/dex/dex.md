@@ -3,7 +3,6 @@
 
 ## Resources:
 
-* [What Is a Decentralized Exchange (DEX)?](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex#automated-market-makers-amm)
 * [What are decentralized exchanges, and how do DEXs work?](https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work)
 * [What is a DEX? How A Decentralized Exchange Works](https://www.youtube.com/watch?v=2tTVJL4bpTU)
 
