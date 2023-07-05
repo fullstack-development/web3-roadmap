@@ -8,6 +8,14 @@
 ## Additional resources:
 * [Difference between v1 and v2](https://rossbulat.medium.com/uniswap-v2-everything-new-with-the-decentralised-exchange-52b4bb2093ab)
 
+## Questions:
+
+* What is pair?
+* What is LP tokens?
+* What is Router?
+* What is Flash swaps?
+* What is swap fee? How much is it? and how liquidity provider get this fee?
+
 ## Tasks:
 
 * Look at Defilama TVL of uniswap v2.
