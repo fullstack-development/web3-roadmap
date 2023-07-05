@@ -27,3 +27,4 @@
 * Which cryptocurrencies can be traded on a DEX?
 * Why do DEXes need the liquidity pools?
 * How do DEXes on AMM work?
+* What is impermanent loss and how to avoid it?
