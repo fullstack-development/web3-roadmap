@@ -8,7 +8,6 @@
 
 Liquidity Pool
 
-* [How do LIQUIDITY POOLS work? (Uniswap, Curve, Balancer) | DEFI Explained](https://www.youtube.com/watch?v=cizLhxSKrAc&t=3s)
 * [What is a Liquidity Pool in Crypto? (Animated)](https://www.youtube.com/watch?v=dVJzcFDo498)
 * [What Are Liquidity Pool (LP) Tokens?](https://academy.binance.com/en/articles/what-are-liquidity-pool-lp-tokens)
 
