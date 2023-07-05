@@ -9,4 +9,4 @@
 
 * Look at Defilama TVL of uniswap v2.
 * Look at Defilama how many forks uniswap v2 has.
-
+* Try to swap any tokens on any dex (uniswap fork) on polygon or bsc chain (Pancakeswap).
