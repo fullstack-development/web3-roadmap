@@ -10,11 +10,11 @@
 
 ## Questions:
 
-* What is pair?
-* What is LP tokens?
-* What is Router?
+* What is a pair?
+* What are LP tokens?
+* What is a Router?
 * What are Flash swaps?
-* What is swap fee? How much is it? and how liquidity provider get this fee?
+* What is a swap fee? How much is it and how do liquidity providers get this fee?
 
 ## Tasks:
 
