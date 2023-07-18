@@ -20,3 +20,7 @@
 
 
 ## Questions:
+
+* What is a Stablecoin? Who neen them?
+* What is Fiat-backed Stablecoins? What are pros and cons of it? how does the issuer earn?
+
