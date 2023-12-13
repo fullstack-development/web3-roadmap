@@ -3,7 +3,6 @@
 ## Resources:
 * [Introduction to Web 3.0](https://ethereum.org/en/web3/)
 * [Making Sense of Web 3.0](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
-* [The Pros and Cons of Web3](https://supraoracles.com/academy/the-pros-and-cons-of-web3/)
 * [7 reasons to embrace Web3 — and 7 reasons not to](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html)
 * [Blockchain implementation challenges](https://dataconomy.com/2022/05/blockchain-implementation-challenges/)
 
