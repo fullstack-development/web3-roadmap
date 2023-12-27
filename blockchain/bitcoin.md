@@ -12,6 +12,7 @@
 ## Additional resources:
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
 * [Bitcoin blocks explorer](https://blockexplorer.one/bitcoin/mainnet)
+* [Bitcoin node size](https://ycharts.com/indicators/bitcoin_blockchain_size)
 
 ## Questions:
 
@@ -29,3 +30,4 @@
 * How many bitcoins are there in total?
 * How will the Bitcoin blockchain work when all the Bitcoins are mined?
 * What is the current commission for transferring bitcoins?
+* What is the size of Bitcoin blockchain node right now?
