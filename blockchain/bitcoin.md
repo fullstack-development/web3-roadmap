@@ -11,6 +11,7 @@
 
 ## Additional resources:
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
+* [Bitcoin blocks explorer](https://blockexplorer.one/bitcoin/mainnet)
 
 ## Questions:
 
@@ -23,3 +24,8 @@
 * What is the problem of double spending? How is it solved in bitcoin?
 * Who are miners and what are mining pools? What is Asics?
 * What is a hash rate?
+* What is the current reward for mining a block?
+* What is halving?
+* How many bitcoins are there in total?
+* How will the Bitcoin blockchain work when all the Bitcoins are mined?
+* What is the current commission for transferring bitcoins?
