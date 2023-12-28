@@ -1,6 +1,6 @@
 # Web3 roadmap for non-developers 
 
-Hello! We are the [MetaLamp](www.metalamp.io/) team - we have been packaging customer ideas into finished products since 2014. Since 2020, we have focused on projects in the web3 space and we've been developing our expertise which we want to share with the community.
+Hello! We are the [MetaLamp](https://metalamp.io/) team - we have been packaging customer ideas into finished products since 2014. Since 2020, we have focused on projects in the web3 space and we've been developing our expertise which we want to share with the community.
 
 We already have open access roadmaps and training programs for front-end and back-end developers that have helped hundreds of people gain knowledge about development from scratch. Now many of these people are working on real IT projects. And now we're publishing our roadmap for everyone who wants to work in the field of web3, but doesn't know where to start.
 
@@ -19,7 +19,6 @@ We want to grow and help others grow. Leave any suggestions and comments to the 
 ## Table of contents
 
 * [Web 3.0](web3/README.md)
-* [Blockchain](blockchain/README.md)
-* [DEFI](defi/README.md)
-* [Tools](tools/README.md)
-* [Other blockchains](other_blockchains/README.md)
+* [Blockchain basics](blockchain/README.md)
+* [DEFI basics](defi/README.md)
+* [Blockchains](other_blockchains/README.md)
