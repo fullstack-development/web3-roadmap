@@ -6,4 +6,3 @@
 - [Metaverse](./metaverse/README.md)
 - [F-NFT](./f-nft.md)
 - [Soulbound token](./soulbound.md)
-- [Ordinals](./ordinals.md)
