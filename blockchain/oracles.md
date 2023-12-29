@@ -19,5 +19,4 @@
 * How does it work?
 * How chainlink solves the oracle problem?
 * Describe chainlink working flow and main parts of its system.
-* Are chainlink oracles free to use? 
-* Can chainlink work with your own data feed?
+* Are chainlink oracles free to use?
