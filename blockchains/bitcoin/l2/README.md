@@ -1,7 +1,7 @@
 # L2 on Bitcoin
 
 ## Resources:
-
+* [Bitcoin Layer 2s: The Future of the Bitcoin Ecosystem](https://www.hiro.so/blog/bitcoin-layer-2s-the-future-of-the-bitcoin-ecosystem)
 * [Building on Bitcoin: a Comparison of Bitcoin Projects](https://www.hiro.so/blog/building-on-bitcoin-project-comparison)
 
 ## Additional resources:
