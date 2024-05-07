@@ -14,3 +14,5 @@
 
 * What is a fork?
 * What is the difference between soft fork and hard fork?
+* How Ethereum Classic was born?
+* How Bitcoin Cash and Litecoin were born?
