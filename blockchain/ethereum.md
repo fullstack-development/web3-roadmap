@@ -23,8 +23,8 @@
 * Who pays the fee for calling the smart contract method? How is this commission calculated? What is Gas Price and Gas Limit?
 * Is it possible to speed up a transaction?
 * What happens if the commission is not enough to perform the function of a smart contract?
-* How does the essence of a wallet differ from the essence of a contract in the Ethereum network?
-* Why call a transaction without a recipient?
+* How is the difference between wallet and contract in the Ethereum network?
+* What is the reason of calling a transaction without a recipient?
 * What is the difference between a chain of states and a chain of changes?
 * What is storage in the smart contract of the Ethereum network?
 * What is a check or receipt?
