@@ -18,14 +18,14 @@
 * What is blockchain? What problem does it solve?
 * What task needs to be solved to add new block to the blockchain? What is nonce? What is Mining Difficulty?
 * What is a hash function and what are 5 rules with it?
-* What types of keys are there? What are they needed for?
+* What types of keys are there? What are they needed for? How keys work together?
 * What is a node in blockchain? What types of nodes do you know?
 * What is the problem of double spending? How is it solved in bitcoin?
 * Who are miners and what are mining pools? What is Asics?
 * What is a hash rate?
 * What is the current reward for mining a block?
-* What is halving?
 * How many bitcoins are there in total?
+* What is halving? When was the last halving?
 * How will the Bitcoin blockchain work when all the Bitcoins are mined?
 * What is the current commission for transferring bitcoins?
 * What is the size of Bitcoin blockchain node right now?
