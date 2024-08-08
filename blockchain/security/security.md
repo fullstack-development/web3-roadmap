@@ -1,6 +1,0 @@
-# Blockchain security
-
-## Resources:
-
-## Questions:
-
