@@ -1,5 +1,5 @@
 # Bitcoin
 
 * [Basics](basics.md)
-* [Ecosystem research](ecosystem.md)
+* [Ecosystem overview](ecosystem.md)
 * [Ordinals](ordinals.md)
