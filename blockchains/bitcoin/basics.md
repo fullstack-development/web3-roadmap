@@ -1,1 +1,1 @@
-# Bitcoin state
+# Bitcoin
