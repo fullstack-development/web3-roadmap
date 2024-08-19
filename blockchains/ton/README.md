@@ -1,3 +1,4 @@
 # Ton (The Open Network)
 
-* [Overview](basics.md)
+* [Basics](basics.md)
+* [Basics](ecosystem.md)
