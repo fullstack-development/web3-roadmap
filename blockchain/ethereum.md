@@ -16,16 +16,14 @@
 
 * What are smart contracts? What problem do they solve?
 * Why is it impossible to write smart contracts for bitcoin, but possible for Ethereum?
-* What happens in blockchain when someone calls a smart contract function?
+* Describe process from calling a smart contract function to adding transaction to block?
 * How to make an http request from inside the smart contract function?
 * Is it possible to call the function of another smart contract from within a smart contract function? 
 * Is it possible to call a smart contract function using a delayed timer? Can the contract return funds to the user automatically without calling functions if the transaction was violated?
 * Who pays the fee for calling the smart contract method? How is this commission calculated? What is Gas Price and Gas Limit?
-* Is it possible to speed up a transaction?
 * What happens if the commission is not enough to perform the function of a smart contract?
 * How is the difference between wallet and contract in the Ethereum network?
 * What is the reason of calling a transaction without a recipient?
 * What is the difference between a chain of states and a chain of changes?
 * What is storage in the smart contract of the Ethereum network?
-* What is a check or receipt?
 * Is it real to change contract code?
