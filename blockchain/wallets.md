@@ -16,6 +16,7 @@
 ## Questions:
 
 * What is a crypto wallet?
+* What does "Not Your Keys, Not Your Coins." mean?
 * What are Mnemonics?
 * What is a cold crypto wallet?
 * What is the difference between custodial and non-custodial wallets?
