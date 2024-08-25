@@ -18,6 +18,7 @@
 * What is a crypto wallet?
 * What is a cold crypto wallet?
 * What is the difference between custodial and non-custodial wallets?
+* What are Mnemonics?
 
 ## Tasks:
 
