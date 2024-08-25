@@ -15,11 +15,7 @@
 
 * What is consensus mechanism? Why is it needed?
 * What problem is solved by consensus mechanism?
-* What is Proof-of-Work consensus?
-* How does (leader) miner selection happen in PoW?
-* What are pros and cons of PoW?
 * What is Proof-of-Stake?
-* How does leader selection happen in PoS?
 * What are pros and cons of PoS?
 * What are the differences between PoW & PoS? 
 * Do other consensus mechanisms exist?
