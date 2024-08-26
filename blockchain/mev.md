@@ -10,6 +10,7 @@
 ## Additional resources: 
 
 * [ETH mempool](https://etherscan.io/txsPending)
+* [MEV bot ‘jaredfromsubway’ Spent 210 ETH In Gas Fees](https://www.cryptotimes.io/2024/06/06/mev-bot-jaredfromsubway-spent-210-eth-in-gas-fees/)
 
 ## Questions:
 
