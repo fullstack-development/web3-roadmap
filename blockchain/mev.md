@@ -1,4 +1,4 @@
-# MEV
+# MEV (Miner Extractable Value / Maximum Extractable Value)
 
 
 ## Resources:
@@ -12,3 +12,4 @@
 ## Questions:
 
 * What is MEV?
+* What is mempool?
