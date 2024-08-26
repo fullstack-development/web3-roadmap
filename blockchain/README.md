@@ -4,6 +4,7 @@
 - [Ethereum and smart-contracts](ethereum.md)
 - [Crypto-wallets](wallets.md)
 - [Multisig](multisig.md)
+- [Custody providers](custody.md)
 - [Consensys](consensys.md)
 - [Ethereum v2](ethereum_pos.md)
 - [Oracles](oracles.md)
