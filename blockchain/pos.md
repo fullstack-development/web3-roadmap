@@ -8,3 +8,8 @@
 ## Additional resources:
 
 ## Questions:
+
+* What is Proof-of-Stake?
+* How does leader selection happen in PoS?
+* What are pros and cons of PoS?
+* What are the differences between PoW & PoS? 
