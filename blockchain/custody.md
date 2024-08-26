@@ -12,6 +12,8 @@
 
 ## Questions:
 
+* What is custody provider?
+* What types of business are clients of Third-Party Custody providers?
 * What are the most popular custody providers?
 * What are the main purposes of using third party custody provider for business?
 * Are there any regulatory requirements to store keys with third-party providers?
