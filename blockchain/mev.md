@@ -15,3 +15,6 @@
 
 * What is MEV?
 * What is mempool?
+* What is gas golfing?
+* What is front running, back running and sandwich attack?
+* What are the good and bad sides of MEV?
