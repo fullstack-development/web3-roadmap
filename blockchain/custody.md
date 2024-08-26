@@ -4,6 +4,7 @@
 
 * [Critical Things About Crypto Custody](https://medium.com/cryptodigest/critical-things-about-crypto-custody-79782854ed67) - very old but still actual
 * [What Are Cryptocurrency Custody Solutions?](https://www.investopedia.com/news/what-are-cryptocurrency-custody-solutions/)
+* [Security Considerations in Digital Asset Custody](https://medium.com/@keywa_io/security-considerations-in-digital-asset-custody-a06e641f59ec)
 
 ## Additional resources:
 * [Centralized and Decentralized Custody Solutions Overview](https://medium.com/@MindWorksCap/centralized-and-decentralized-custody-solution-overview-d319dd42d3e1)
