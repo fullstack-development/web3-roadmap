@@ -7,3 +7,4 @@
 ## Questions:
 
 * What is MPC?
+* Why is MPC better than multisig?
