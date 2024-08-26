@@ -16,3 +16,7 @@
 * What benefits does multisig have?
 * Does using of multisig have any risks?
 * What is Gnosis Safe?
+
+## Tasks:
+
+* Create multisig wallet with 2/3 option in any testnet and try to execute any transaction
