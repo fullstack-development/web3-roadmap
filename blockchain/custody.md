@@ -14,4 +14,4 @@
 
 * What are the most popular custody providers?
 * What are the main purposes of using third party custody provider for business?
-* What is the Investment Advisers Act of 1940?
+* Are there any regulatory requirements to store keys with third-party providers?
