@@ -16,4 +16,3 @@
 * What benefits does multisig have?
 * Does using of multisig have any risks?
 * What is Gnosis Safe?
-* What is MPC?
