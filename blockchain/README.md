@@ -7,6 +7,7 @@
   * [MPC](mpc.md)
   * [Third-Party Custody](custody.md)
 - [Consensys](consensys.md)
+  * [PoS](pos.md)
 - [Ethereum v2](ethereum_pos.md)
 - [Oracles](oracles.md)
 - [Forks](forks.md)
