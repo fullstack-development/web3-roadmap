@@ -2,7 +2,7 @@
 
 ## Resources:
 
-* [Critical Things About Crypto Custody](https://medium.com/cryptodigest/critical-things-about-crypto-custody-79782854ed67) - very old but actual
+* [Critical Things About Crypto Custody](https://medium.com/cryptodigest/critical-things-about-crypto-custody-79782854ed67) - very old but still actual
 * [Centralized and Decentralized Custody Solutions Overview](https://medium.com/@MindWorksCap/centralized-and-decentralized-custody-solution-overview-d319dd42d3e1)
 
 ## Additional resources:
