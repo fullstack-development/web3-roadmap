@@ -15,4 +15,6 @@
 * What scam types do you know?
 * What is phishing attack?
 * What is approval in erc20 and why is it dangerous?
-* Find out where you can revoke your approvals
+
+## Tasks:
+* Find out service where you can revoke your approvals
