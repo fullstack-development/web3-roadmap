@@ -11,6 +11,7 @@
 ## Questions:
 
 * What tips are there to keep your wallet safe?
-* What is fishing atack?
+* What scam types do you know?
+* What is phishing attack?
 * What is approval in erc20 and why is it dangerous?
 * Find out where you can revoke your approvals
