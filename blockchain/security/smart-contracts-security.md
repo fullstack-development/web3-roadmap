@@ -22,6 +22,5 @@
 * How to recognize a scam token?
 * What are the risks of hacking the DAO?
 * What is reentrancy attack?
-* What causes problems with rounding numbers?
 * Why is it important to test smart contracts? what is the difference between unit and integration tests?
 * Why is auditing important? Can it be trusted completely?
