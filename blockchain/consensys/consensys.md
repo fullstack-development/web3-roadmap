@@ -12,7 +12,6 @@
 * [Game Theory and Cryptocurrencies](https://academy.binance.com/en/articles/game-theory-and-cryptocurrencies)
 * [Game Theory and Blockchain](https://medium.com/@africablockchaininstitute/game-theory-and-blockchain-4ed20fe9f6e3)
 
-
 ## Questions:
 
 * What is consensus mechanism? Why is it needed?

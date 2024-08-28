@@ -9,4 +9,4 @@
 * [Lending & Borrowing](./lending/README.md)
 * [Vaults](./vaults/README.md)
 * [DAO](./dao/README.md)
-* [Security and frauds](./security/README.md)
+* [Real-world Assets tokenization](./tokenization/README.md)
