@@ -23,6 +23,8 @@
 * [What Is Cross-Chain Gaming?](https://chain.link/education-hub/cross-chain-gaming)
 * [Understanding Cross-Chain Token Transfers](https://chain.link/education-hub/cross-chain-token-transfers)
 * [What Are Cross-Chain Swaps?](https://chain.link/education-hub/cross-chain-swap)
+* [What Are Cross-Chain Smart Contracts?](https://chain.link/education-hub/cross-chain-smart-contracts)
+* [What Is a Cross-Chain Bridge?](https://chain.link/education-hub/cross-chain-bridge)
 
 
 ## Questions:
