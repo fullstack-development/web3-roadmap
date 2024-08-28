@@ -11,6 +11,7 @@
 * [What Is Tokenized Real Estate?](https://chain.link/education-hub/tokenized-real-estate)
 * [Tokenizing In-Game Assets](https://chain.link/education-hub/tokenization-of-game-assets)
 * [A Chainlink Industry Report How Interoperability and Real-World Data Unlock the True Value of Tokenized Assets](https://pages.chain.link/hubfs/e/definitive-guide-to-tokenized-assets.pdf)
+* [Cross-Chain Tokenized Assets](./assets.md)
 
 
 ## Questions:
