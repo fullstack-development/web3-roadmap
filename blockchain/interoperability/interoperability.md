@@ -5,7 +5,7 @@
 
 * [What Is Blockchain Interoperability?](https://blog.chain.link/blockchain-interoperability/)
 * [Blockchain Agnostic: What, Why, and How?](https://chain-link.translate.goog/education-hub/blockchain-agnostic?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=wapp)
-* 
+* [Blockchain Bridges : A deep dive into Cross-Chain Interoperability](https://medium.com/@accesstoarpan/blockchain-bridges-a-deep-dive-into-cross-chain-interoperability-67150c12c5ce)
 * [What is a Crypto Bridge? (Examples + Purpose for Blockchains)](https://www.youtube.com/watch?v=nT26cIz8HjI)
 * [What Is A Crypto Bridge? | Blockchain Bridge EXPLAINED For Beginners](https://www.youtube.com/watch?v=xS0PyYpt6bA)
 * [Crypto Education: Inter-Blockchain Bridges Explained | Animation | Cryptomatics](https://www.youtube.com/watch?v=YivPupDvhbA)
