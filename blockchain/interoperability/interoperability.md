@@ -26,6 +26,7 @@
 * [What Are Cross-Chain Swaps?](https://chain.link/education-hub/cross-chain-swap)
 * [What Are Cross-Chain Smart Contracts?](https://chain.link/education-hub/cross-chain-smart-contracts)
 * [What Is a Cross-Chain Bridge?](https://chain.link/education-hub/cross-chain-bridge)
+* [Cross chain security part 1— A framework for understanding cross-chain systems](https://0xpostman.medium.com/part-2-cross-chain-security-models-compared-c4f91107cad4)
 
 
 ## Questions:
