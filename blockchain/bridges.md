@@ -14,4 +14,7 @@
 * [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
 ## Questions:
+
 * What Is Blockchain Interoperability?
+* Why are there a lot of different blockchains?
+* What types of Blockchain Interoperability Solutions do you know?
