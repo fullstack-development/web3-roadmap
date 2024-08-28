@@ -15,6 +15,7 @@
 - [Development tools](tools/README.md)
 - [Zero knowledge proof](zero.md)
 - [Bridges](bridges.md)
+  * [Cross-Chain Tokenized Assets](bridges/assets.md)  
 - [Scallability](scale.md)
   * [Layer 1](l1.md)
   * [Layer 2: Rollups, sidechains, lightning networks](l2.md)
