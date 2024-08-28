@@ -17,6 +17,12 @@
 
 ## Additional resources:
 * [What Is Cross-Chain DeFi?](https://chain.link/education-hub/cross-chain-defi)
+* [What Is an Atomic Swap?](https://chain.link/education-hub/atomic-swaps)
+* [What Is Multi-Chain?](https://chain.link/education-hub/multi-chain)
+* [What Are Cross-Chain NFTs?](https://chain.link/education-hub/cross-chain-nft)
+* [What Is Cross-Chain Gaming?](https://chain.link/education-hub/cross-chain-gaming)
+* [Understanding Cross-Chain Token Transfers](https://chain.link/education-hub/cross-chain-token-transfers)
+* [What Are Cross-Chain Swaps?](https://chain.link/education-hub/cross-chain-swap)
 
 
 ## Questions:
