@@ -9,9 +9,6 @@
 * [WHAT IS A GOVERNANCE ATTACK?](https://www.halborn.com/blog/post/what-is-a-governance-attack)
 * [Reentrancy attacks in smart contracts, explained](https://cointelegraph.com/explained/reentrancy-attacks-in-smart-contracts-explained)
 
-* [Precision Loss in Arithmetic Operations](https://blog.solidityscan.com/precision-loss-in-arithmetic-operations-8729aea20be9)
-* [Rounding Errors: Minor but Major Hacks](https://extropy-io.medium.com/rounding-errors-minor-but-major-hacks-445dc9996ecc)
-
 * [TESTING SMART CONTRACTS](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
 * [How to perform smart contract testing](https://cointelegraph.com/news/smart-contract-testing-for-dummies)
 
