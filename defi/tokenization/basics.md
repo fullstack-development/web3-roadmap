@@ -8,7 +8,6 @@
 
 ## Additional resources:
 
-* [Tokenizing In-Game Assets](https://chain.link/education-hub/tokenization-of-game-assets)
 * [A Chainlink Industry Report How Interoperability and Real-World Data Unlock the True Value of Tokenized Assets](https://pages.chain.link/hubfs/e/definitive-guide-to-tokenized-assets.pdf)
 * [Cross-Chain Tokenized Assets](https://chain.link/education-hub/cross-chain-tokenized-assets)
 
