@@ -9,9 +9,6 @@
 * [WHAT IS A GOVERNANCE ATTACK?](https://www.halborn.com/blog/post/what-is-a-governance-attack)
 * [Reentrancy attacks in smart contracts, explained](https://cointelegraph.com/explained/reentrancy-attacks-in-smart-contracts-explained)
 
-* [What is market manipulation in cryptocurrency?](https://cointelegraph.com/explained/what-is-market-manipulation-in-cryptocurrency)
-* [Price Oracle Manipulation Attacks - The Full Guide](https://www.cyfrin.io/blog/price-oracle-manipulation-attacks-with-examples)
-
 * [Airdrop Scams in Crypto and How to Avoid Them](https://www.coingecko.com/learn/airdrop-scams-crypto)
 * [Avoiding Airdrop Scammers: Your Guide to Safety](https://medium.com/webility/avoiding-airdrop-scammers-your-guide-to-safety-62a98dd1b8b4)
 * [Scammers and Phishers: Rugpulls and airdrop scams](https://support.metamask.io/privacy-and-security/staying-safe-in-web3/scammers-and-phishers-rugpulls-and-airdrop-scams/)
