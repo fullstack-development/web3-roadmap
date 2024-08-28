@@ -16,4 +16,4 @@
 ## Questions:
 
 * What is consensus mechanism? Why is it needed?
-* Do other consensus mechanisms exist?
+* What are consensus mechanisms exist?
