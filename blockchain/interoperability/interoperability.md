@@ -15,6 +15,10 @@
 * [How to Convert from Ethereum to Polygon using the Bridge](https://www.youtube.com/watch?v=GLK33hkwA68)
 * [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
 
+## Additional resources:
+* [What Is Cross-Chain DeFi?](https://chain.link/education-hub/cross-chain-defi)
+
+
 ## Questions:
 
 * What Is Blockchain Interoperability?
