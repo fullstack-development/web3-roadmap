@@ -9,10 +9,6 @@
 * [WHAT IS A GOVERNANCE ATTACK?](https://www.halborn.com/blog/post/what-is-a-governance-attack)
 * [Reentrancy attacks in smart contracts, explained](https://cointelegraph.com/explained/reentrancy-attacks-in-smart-contracts-explained)
 
-* [Airdrop Scams in Crypto and How to Avoid Them](https://www.coingecko.com/learn/airdrop-scams-crypto)
-* [Avoiding Airdrop Scammers: Your Guide to Safety](https://medium.com/webility/avoiding-airdrop-scammers-your-guide-to-safety-62a98dd1b8b4)
-* [Scammers and Phishers: Rugpulls and airdrop scams](https://support.metamask.io/privacy-and-security/staying-safe-in-web3/scammers-and-phishers-rugpulls-and-airdrop-scams/)
-
 * [Precision Loss in Arithmetic Operations](https://blog.solidityscan.com/precision-loss-in-arithmetic-operations-8729aea20be9)
 * [Rounding Errors: Minor but Major Hacks](https://extropy-io.medium.com/rounding-errors-minor-but-major-hacks-445dc9996ecc)
 
