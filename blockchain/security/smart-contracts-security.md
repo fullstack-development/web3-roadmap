@@ -6,10 +6,7 @@
 
 * [How to identify scam tokens](https://ethereum.org/en/guides/how-to-id-scam-tokens/)
 * [8 Ways to Check if a Token is a Scam at a Glance](https://www.binance.com/en/square/post/2024-05-18-8-8266602015474)
-
 * [WHAT IS A GOVERNANCE ATTACK?](https://www.halborn.com/blog/post/what-is-a-governance-attack)
-* [THE HUMPY DANCE](https://rekt.news/the-humpy-dance/)
-
 * [Reentrancy attacks in smart contracts, explained](https://cointelegraph.com/explained/reentrancy-attacks-in-smart-contracts-explained)
 * [What is a Reentrancy attack? — Let’s understand them and prevent them.](https://www.binance.com/en/square/post/536271)
 
