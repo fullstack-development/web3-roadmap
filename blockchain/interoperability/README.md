@@ -1,4 +1,4 @@
 # Interoperability
 
-* [interoperability](./interoperability.md)
+* [Interoperability](./interoperability.md)
 * [Cross-Chain Tokenized Assets](./assets.md)
