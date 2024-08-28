@@ -12,7 +12,6 @@
 
 ## Questions:
 * What is the difference between Web 1.0, Web 2.0, Web 3.0?
-* What are the advantages and disadvantages of Web 3.0?
+* What are the main challenges of Web 3.0?
 * What is the difference between distributed and decentralized?
 * Describe three types of Decentralization?
-* Describe three reasons for Decentralization?

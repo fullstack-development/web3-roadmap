@@ -19,7 +19,7 @@
 
 ## Additional resources:
 * [Holographic consensus—part 1](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
-* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
+* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.eth.limo/general/2022/09/20/daos.html)
 * [House of DAOs](https://wiki.metagame.wtf/great-houses/house-of-daos)
 * [What is cryptocurrency Aragon (ANT) and how does it work?](https://kriptomat.io/cryptocurrencies/aragon/what-is-aragon/)
 * [What is OlympusDAO? - OHM Explained with Animations](https://www.youtube.com/watch?v=o699i_l_qy8)

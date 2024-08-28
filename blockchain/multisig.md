@@ -9,8 +9,6 @@
 
 ## Additional resources:
 * [Gnosis Safe Tutorial | Multisig Wallet for DeFi](https://www.youtube.com/watch?v=GHyxe32Z814)
-* [MPC vs. Multi-sig: Why Is MPC So Much Better](https://medium.com/@hamilton_21385/mpc-vs-multi-sig-why-is-mpc-so-much-better-1f74fe7937a6)
-* [Centralized and Decentralized Custody Solutions Overview](https://medium.com/@MindWorksCap/centralized-and-decentralized-custody-solution-overview-d319dd42d3e1)
 
 ## Questions:
 
@@ -18,4 +16,7 @@
 * What benefits does multisig have?
 * Does using of multisig have any risks?
 * What is Gnosis Safe?
-* What is MPC?
+
+## Tasks:
+
+* Create multisig wallet with 2/3 option in any testnet and try to execute any transaction

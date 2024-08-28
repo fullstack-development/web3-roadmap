@@ -16,14 +16,15 @@
 ## Questions:
 
 * What is a crypto wallet?
+* What does "Not Your Keys, Not Your Coins." mean?
+* What are Mnemonics?
 * What is a cold crypto wallet?
 * What is the difference between custodial and non-custodial wallets?
 
 ## Tasks:
 
 * Create an account in metamask.
-* Choose test network Goerli.
+* Choose one of test networks.
 * Find any test ETH from someone faucet.
 * Send any ETH to somebody of your friends or colleagues.
 * Find this transaction in blockchain explorer.
-* Create another one account in trust wallet.

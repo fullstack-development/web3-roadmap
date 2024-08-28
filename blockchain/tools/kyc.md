@@ -10,8 +10,7 @@
 
 ## Questions:
 * What is KYC? Why is it needed and who uses it?
-* What is AML? Why is it needed and who uses it?
+* What is AML?
 * What is the difference between in-house KYC infrastructure and outsourced KYC? Who benefits from outsourcing, and who benefits from getting out inside?
 * What is the conflict between KYC and web3 philosophy?
-* What is the conflict between AML and web3 philosophy?
 * How to integrate ready kyc solution to your service? How does it work?
