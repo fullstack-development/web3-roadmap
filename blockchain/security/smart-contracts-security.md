@@ -9,7 +9,6 @@
 * [WHAT IS A GOVERNANCE ATTACK?](https://www.halborn.com/blog/post/what-is-a-governance-attack)
 * [Reentrancy attacks in smart contracts, explained](https://cointelegraph.com/explained/reentrancy-attacks-in-smart-contracts-explained)
 
-* [TESTING SMART CONTRACTS](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
 * [How to perform smart contract testing](https://cointelegraph.com/news/smart-contract-testing-for-dummies)
 
 * [A Beginner's Guide to Smart Contract Audits: What You Need to Know](https://dev.to/vaibhavaher219/a-beginners-guide-to-smart-contract-audits-what-you-need-to-know-4pab)
