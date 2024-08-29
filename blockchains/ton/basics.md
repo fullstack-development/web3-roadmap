@@ -18,3 +18,4 @@
 * Are developer able to change code of smart-contract in TON?
 * How one smart-contract communicate with another smart-contracts?
 * What one smart-contract is able to transfer to another smart-contract?
+* What does "Smart contract in isolation" mean?
