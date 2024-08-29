@@ -28,6 +28,7 @@
 * [What Are Cross-Chain Smart Contracts?](https://chain.link/education-hub/cross-chain-smart-contracts)
 * [What Is a Cross-Chain Bridge?](https://chain.link/education-hub/cross-chain-bridge)
 * [Cross chain security part 1— A framework for understanding cross-chain systems](https://0xpostman.medium.com/part-2-cross-chain-security-models-compared-c4f91107cad4)
+* [Vulnerabilities in Cross-chain Bridge Protocols Emerge as Top Security Risk](https://www.chainalysis.com/blog/cross-chain-bridge-hacks-2022/)
 
 
 ## Questions:
@@ -35,3 +36,4 @@
 * What Is Blockchain Interoperability?
 * Why are there a lot of different blockchains?
 * What types of Blockchain Interoperability Solutions do you know?
+* What makes cross-chain bridges so vulnerable?
