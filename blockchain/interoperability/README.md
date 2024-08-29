@@ -1,4 +1,4 @@
 # Interoperability
 
-* [Interoperability](./interoperability.md)
+* [Basics](./interoperability.md)
 
