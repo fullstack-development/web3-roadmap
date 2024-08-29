@@ -4,6 +4,7 @@
 
 * [Asset Tokenization: What It Is and How It Works](https://chain.link/education/asset-tokenization)
 * [The Three Requirements of Tokenized Real-World Assets (RWAs) Solved by Chainlink](https://blog.chain.link/stages-enriching-real-world-assets/)
+* [Tokenizing Real-World Assets (RWA) Part 1: A Deep Dive into ERC-3643](https://hackernoon.com/tokenizing-real-world-assets-rwa-part-1-a-deep-dive-into-erc-3643)
 
 
 ## Additional resources:
