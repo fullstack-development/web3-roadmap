@@ -3,9 +3,10 @@
 ## Resources
 
 * [A Deep Dive Into The TON (The Open Network) Ecosystem](https://okxventures.medium.com/a-deep-dive-into-the-ton-the-open-network-ecosystem-34376fdd6082)
+* [Course on TON Blockchain and Telegram](https://stepik.org/course/176754/syllabus)
 
 ## Additional resources
 
-* [Course on TON Blockchain and Telegram](https://stepik.org/course/201855/promo)
+
 
 ## Questions
