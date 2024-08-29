@@ -9,4 +9,7 @@
 
 
 
-## Questions
+## Questions:
+
+* Is TON a ledger of state transitions or a ledger of transfers?
+* What does "TON is asynchronous" mean?
