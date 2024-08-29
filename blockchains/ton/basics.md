@@ -15,3 +15,6 @@
 * What does "TON is asynchronous" mean?
 * What consensys TON has? Which roles blochain has?
 * What every account in TON has?
+* Are developer able to change code of smart-contract in TON?
+* How one smart-contract communicate with another smart-contracts?
+* What one smart-contract is able to transfer to another smart-contract?
