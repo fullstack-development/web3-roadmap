@@ -13,5 +13,5 @@
 
 * Is TON a ledger of state transitions or a ledger of transfers?
 * What does "TON is asynchronous" mean?
-* What does "Every contract has its own little blockchain" mean?
 * What consensys TON has? Which roles blochain has?
+* What every account in TON has?
