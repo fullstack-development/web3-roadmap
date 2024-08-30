@@ -22,4 +22,4 @@
 * What does "Smart contract has micro-blockchain" mean?
 
 * What is sharding in TON and how does it work?
-* What is masterchain and basechain?
+* What is masterchain and basechain? How they are connected?
