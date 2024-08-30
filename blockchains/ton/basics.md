@@ -36,10 +36,23 @@
 * Are developers able to change code of smart-contract in TON?
 * What does "Smart contract in isolation" mean? And what benefits it has?
 * How one smart-contract communicates with another smart-contracts?
-* What is the difference between messages and transactions in TON?
 
  ### Fee
 * What types of fee are there in TON? how are they calculated?
 * When and in what order are these fees charged?
 * What is Frozen contract?
 * How to unfreeze contract?
+
+### Tokens
+* What is the difference between fungible tokens in EVM and fungible tokens in TON?
+
+### Cells
+* What is a cell in TON?
+* What is the rationale for using such a cell-based design in the TON blockchain?
+* How do we store things like lists or dictionaries or sets in the system?
+
+### Messages and transactions
+* What is the difference between messages and transactions in TON?
+* What types of messages can a contract receive? What is the difference between them?
+* What is a transaction?
+* What are the stages of a transaction?
