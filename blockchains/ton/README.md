@@ -2,4 +2,4 @@
 
 * [Basics](basics.md)
 * [Ecosystem overview](ecosystem.md)
-  * [Wallets](./wallets.md) 
+  * [Wallets](./wallets/README.md) 
