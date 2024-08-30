@@ -17,7 +17,6 @@
 ## Questions:
 
 ### Blockchain
-
 * What is the main idea of TON blockchain?
 * What does "TON is asynchronous" mean?
 * What is sharding in TON and how does it work?
@@ -25,7 +24,6 @@
 * How long transaction processing takes in TON?
 
 ### Consensys
-
 * What consensys TON has? // add resources about consensys
 * What are the technical requirements to become TON validator?
 * How much you need stake TON coins to become validator?
@@ -40,3 +38,6 @@
 * How one smart-contract communicates with another smart-contracts?
 * What is the difference between messages and transactions in TON?
 
+ ### Fee
+* What types of fee are there in TON? how are they calculated?
+* What is Frozen contracts?
