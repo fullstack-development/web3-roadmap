@@ -12,6 +12,7 @@
 ## Questions:
 
 * What consensys TON has? // add resources about consensys
+* What is the main idea of TON blockchain?
 * What does "TON is asynchronous" mean?
 * What does "Smart contract in isolation" mean? And what benefits it has?
 * How one smart-contract communicate with another smart-contracts?
