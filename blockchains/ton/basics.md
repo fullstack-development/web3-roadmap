@@ -26,6 +26,9 @@
 
 * What consensys TON has? // add resources about consensys
 * What are the technical requirements to become TON validator?
+* How much you need stake TON coins to become validator?
+* How does the penalties system work?
+* How does the benefits system work?
  
 ### Accounts
 * What every account in TON has?
