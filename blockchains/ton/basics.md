@@ -19,3 +19,4 @@
 * How one smart-contract communicate with another smart-contracts?
 * What does "Smart contract in isolation" mean? And what benefits it has?
 * What is the difference between messages and transactions in TON?
+* What does "Smart contract has micro-blockchain" mean?
