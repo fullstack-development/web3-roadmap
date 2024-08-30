@@ -34,8 +34,9 @@
  
 ### Accounts
 * What every account in TON has?
+* How is a smart-contract address generated?
 * Are developers able to change code of smart-contract in TON?
-* What does "Smart contract has micro-blockchain" mean?
+* What does "Smart contract in isolation" mean? And what benefits it has?
 * How one smart-contract communicates with another smart-contracts?
 * What is the difference between messages and transactions in TON?
-* What does "Smart contract in isolation" mean? And what benefits it has?
+
