@@ -40,4 +40,4 @@
 
  ### Fee
 * What types of fee are there in TON? how are they calculated?
-* What is Frozen contracts?
+* What is Frozen contract?
