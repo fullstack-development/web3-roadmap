@@ -23,3 +23,4 @@
 
 * What is sharding in TON and how does it work?
 * What is masterchain and basechain? How they are connected?
+* How long transaction processing takes in TON?
