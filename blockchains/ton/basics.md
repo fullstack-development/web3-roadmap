@@ -13,9 +13,8 @@
 
 * Is TON a ledger of state transitions or a ledger of transfers?
 * What does "TON is asynchronous" mean?
-* What consensys TON has? Which roles blochain has?
+* What consensys TON has? // add resources about consensys
 * What every account in TON has?
-* Are developer able to change code of smart-contract in TON?
+* Are developers able to change code of smart-contract in TON?
 * How one smart-contract communicate with another smart-contracts?
-* What one smart-contract is able to transfer to another smart-contract?
 * What does "Smart contract in isolation" mean? And what benefits it has?
