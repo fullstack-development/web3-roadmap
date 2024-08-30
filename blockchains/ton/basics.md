@@ -43,9 +43,6 @@
 * What is Frozen contract?
 * How to unfreeze contract?
 
-### Tokens
-* What is the difference between fungible tokens in EVM and fungible tokens in TON?
-
 ### Cells
 * What is a cell in TON?
 * What is the rationale for using such a cell-based design in the TON blockchain?
@@ -57,3 +54,10 @@
 * What is a transaction?
 * What are the stages of a transaction?
 * What are opcodes?
+
+### Authorization of messages
+* What authentication categories exist on the TON blockchain?
+
+### Scalable contracts
+* What is the difference between fungible tokens in EVM and fungible tokens in TON? What is Jetton wallets?
+* What principles should be followed to squeeze the most out of the scalable TON blockchain?
