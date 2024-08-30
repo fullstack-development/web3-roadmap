@@ -10,6 +10,7 @@
 * [Empowering TON Validators: A Comprehensive Guide to Nominator Pool Mode Implementation](https://tonresear.ch/t/empowering-ton-validators-a-comprehensive-guide-to-nominator-pool-mode-implementation/123)
 * [Become a Validator](https://ton.org/validators)
 * [Dive into Key Metrics of TON with TonStat](https://www.tonstat.com/)
+* [Transactions explorer](https://tonscan.com/) and [Validation proccess and map of validators](https://tonscan.com/validation)
 
 
 
