@@ -40,4 +40,6 @@
 
  ### Fee
 * What types of fee are there in TON? how are they calculated?
+* When and in what order are these fees charged?
 * What is Frozen contract?
+* How to unfreeze contract?
