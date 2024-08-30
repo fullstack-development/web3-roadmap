@@ -24,7 +24,7 @@
 * How long transaction processing takes in TON?
 
 ### Consensys
-* What consensys TON has? // add resources about consensys
+* What consensys TON has?
 * What are the technical requirements to become TON validator?
 * How much you need stake TON coins to become validator?
 * How does the penalties system work?
