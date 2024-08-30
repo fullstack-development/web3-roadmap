@@ -56,3 +56,4 @@
 * What types of messages can a contract receive? What is the difference between them?
 * What is a transaction?
 * What are the stages of a transaction?
+* What are opcodes?
