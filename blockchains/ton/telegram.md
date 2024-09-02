@@ -7,6 +7,12 @@
 
 ### Telegram Bots
 
+### Telegram stars
+* [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
+* [BOOST YOUR BOT WITH TELEGRAM STARS: 2024 GUIDE](https://www.such.chat/blog/boost-your-bot-with-telegram-stars-2024-guide)
+
 ### TMA
 
-### Telegram stars
+### Fragment
+
+
