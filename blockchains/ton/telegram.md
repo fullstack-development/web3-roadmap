@@ -14,9 +14,6 @@
 
 ### TMA
 
-### Fragment
-
-
 ## Questions:
 
 * What was the main reason of creation Telegram Stars?
