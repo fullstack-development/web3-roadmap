@@ -6,6 +6,7 @@
 * [Telegram evolution](https://telegram.org/evolution?setln=en)
 
 ### Telegram Bots
+* [11 Telegram bots to transform your workflows](https://blog.n8n.io/telegram-bots/) - just examples of opportunities
 
 ### Telegram stars
 * [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
