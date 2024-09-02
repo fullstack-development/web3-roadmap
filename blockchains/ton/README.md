@@ -3,5 +3,5 @@
 * [Telegram](./telegram.md) 
 * [TON Basics](basics.md)
 * [Ecosystem overview](ecosystem.md)
-  * [Wallets](./wallets/README.md)
+  * [Wallets](./wallets.md)
   * Fragment
