@@ -8,3 +8,5 @@
 // Telegram bots
 
 // TMA
+
+// Telegram stars
