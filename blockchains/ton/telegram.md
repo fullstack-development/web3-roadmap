@@ -2,6 +2,6 @@
 
 ## Resources:
 
-// Telegram auditory
-// Telegram bots
-// Telegram mini apps
+### Telegram
+
+* [Telegram evolution](https://telegram.org/evolution?setln=en)
