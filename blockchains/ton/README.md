@@ -1,6 +1,6 @@
 # TON Blockchain (The Open Network)
 
-* [Basics](basics.md)
+* [Telegram](./telegram.md) 
+* [TON Basics](basics.md)
 * [Ecosystem overview](ecosystem.md)
-  * [Telegram](./telegram.md) 
   * [Wallets](./wallets/README.md) 
