@@ -6,13 +6,33 @@
   - [Wallets](./wallets.md)
   - Infrastructure
     * Fragment
+    * Oracles
+      - RedStone
   - DeFi
     * DEXes
+      - STON.fi
+      - DeDust
+      - Megaton Finance
     * Liquid staking
+      - Tonstakers
+      - bemo
+      - Stakee
     * Lending protocols
+      - EVAA Protocol
+      - DAOLama
     * Derivatives
+      - Storm Trade
     * Launchpad
+      - Wonton
+      - GasPump
     * Yield & Farming
+      - SettleTON
+      - JVault
    - NFT Marketplaces
-   - GameFi 
+     * Getgems
+     * TON Diamonds
+   - GameFi
+     * @gamee
+     * Catizen
+     * Hamster
    
