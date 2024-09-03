@@ -16,7 +16,6 @@
 * What is the oracle problem?
 * What types of oracles do you know?
 * What are inbound and outbound oracles?
-* How does it work?
 * How chainlink solves the oracle problem?
 * Describe chainlink working flow and main parts of its system.
 * Are chainlink oracles free to use?
