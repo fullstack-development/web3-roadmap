@@ -8,6 +8,7 @@
 
 ## Additional resources:
 * [TON Connect and how to connect apps](https://wallet.helpscoutdocs.com/article/281-ton-connect-and-how-to-connect-apps)
+* [Introducing the W5 Smart Wallet: Evolving Transactions on TON Blockchain](https://blog.ton.org/introducing-the-w5-smart-wallet-evolving-transactions-on-ton-blockchain)
 
 ## Questions:
 
