@@ -7,7 +7,7 @@
 * [The Open Network: Much More than the Telegram Wallet](https://smartcontract.tips/articoli/ton-telegram-open-network-and-its-wallet)
 
 ## Additional resources
-
+* [Six unique aspects of TON Blockchain that will surprise Solidity developers](https://blog.ton.org/six-unique-aspects-of-ton-blockchain-that-will-surprise-solidity-developers)
 * [Empowering TON Validators: A Comprehensive Guide to Nominator Pool Mode Implementation](https://tonresear.ch/t/empowering-ton-validators-a-comprehensive-guide-to-nominator-pool-mode-implementation/123)
 * [Become a Validator](https://ton.org/validators)
 * [Dive into Key Metrics of TON with TonStat](https://www.tonstat.com/)
