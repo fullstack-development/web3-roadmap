@@ -7,8 +7,9 @@
 
 ### Telegram Bots
 * [A General Bot Platform Overview](https://core.telegram.org/bots)
-* [23 Best Telegram Bots To Save You Time](https://influencermarketinghub.com/top-telegram-bots/) - just examples of opportunities
 * [Telegram Bot Features](https://core.telegram.org/bots/features)
+* [23 Best Telegram Bots To Save You Time](https://influencermarketinghub.com/top-telegram-bots/) - just examples of opportunities
+* [Top 10 Telegram Bots to Effortlessly Manage Your Crypto Community](https://icogemhunters.medium.com/top-10-telegram-bots-to-effortlessly-manage-your-crypto-community-3760fb09fb30)
 
 ### Telegram stars
 * [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
