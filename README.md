@@ -21,4 +21,5 @@ We want to grow and help others grow. Leave any suggestions and comments to the 
 * [Web 3.0](web3/README.md)
 * [Blockchain basics](blockchain/README.md)
 * [DEFI basics](defi/README.md)
+* [Regulation](regulation/README.md)
 * [Blockchains](blockchains/README.md)
