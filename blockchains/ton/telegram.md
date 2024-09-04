@@ -20,6 +20,7 @@
 
 ### TMA
 * [Telegram Mini Apps](https://core.telegram.org/bots/webapps)
+* [Trending Apps](https://t.me/trendingapps)
 
 ## Questions:
 
