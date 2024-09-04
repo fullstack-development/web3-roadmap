@@ -3,6 +3,7 @@
 
 ## Resources:
 
+* [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 * [How Does the Economy Work?](https://academy.binance.com/en/articles/how-does-the-economy-work)
 * [How does raising interest rates control inflation?](https://www.youtube.com/watch?v=R8VBRCs2jTU)
 
