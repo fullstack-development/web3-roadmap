@@ -19,6 +19,7 @@
 * [Bot Payments API for Digital Goods and Services](https://core.telegram.org/bots/payments-stars)
 
 ### TMA
+* [Telegram Mini Apps](https://core.telegram.org/bots/webapps)
 
 ## Questions:
 
