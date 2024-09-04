@@ -4,4 +4,3 @@
 * [Node Providers](./providers.md)
 * [IPFS](./ipfs.md)
 * [The graph](./graph.md)
-* [KYC & AML](./kyc.md)
