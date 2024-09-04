@@ -7,6 +7,7 @@
 
 ### Telegram Bots
 * [11 Telegram bots to transform your workflows](https://blog.n8n.io/telegram-bots/) - just examples of opportunities
+* [23 Best Telegram Bots To Save You Time](https://influencermarketinghub.com/top-telegram-bots/) just examples of opportunities
 
 ### Telegram stars
 * [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
