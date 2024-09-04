@@ -10,7 +10,7 @@
 * [Telegram Bot Features](https://core.telegram.org/bots/features)
 * [23 Best Telegram Bots To Save You Time](https://influencermarketinghub.com/top-telegram-bots/) - just examples of opportunities
 * [Top 10 Telegram Bots to Effortlessly Manage Your Crypto Community](https://icogemhunters.medium.com/top-10-telegram-bots-to-effortlessly-manage-your-crypto-community-3760fb09fb30)
-* [TonTradingBot — The Best Telegram Trading Bot For TON network](https://medium.com/@0xkryptokeisarii/tontradingbot-the-best-telegram-trading-bot-for-ton-network-047269b0a80f) - @tontrade - This is not a recommendation to use this service. this is just a demonstration of how you can mix a telegram bot and crypto trading
+* [TonTradingBot — The Best Telegram Trading Bot For TON network](https://medium.com/@0xkryptokeisarii/tontradingbot-the-best-telegram-trading-bot-for-ton-network-047269b0a80f) - @tontrade - This is not a recommendation to use this service. This is just a demonstration of how you can mix a telegram bot and crypto trading
 
 ### Telegram stars
 * [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
