@@ -6,7 +6,9 @@
 * [Telegram evolution](https://telegram.org/evolution?setln=en)
 
 ### Telegram Bots
+* [A General Bot Platform Overview](https://core.telegram.org/bots)
 * [23 Best Telegram Bots To Save You Time](https://influencermarketinghub.com/top-telegram-bots/) just examples of opportunities
+* [Telegram Bot Features](https://core.telegram.org/bots/features)
 
 ### Telegram stars
 * [TELEGRAM PREMIUM: ALL YOU NEED TO KNOW [2024]](https://www.such.chat/blog/telegram-premium)
