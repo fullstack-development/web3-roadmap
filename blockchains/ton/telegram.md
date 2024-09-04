@@ -24,4 +24,9 @@
 
 ## Questions:
 
+* What is Telegram bots and what are the benefits it has?
+* What types of products are built on Telegram bots?
+* What are Telegram Mini Apps?
+* How to create own Telegram Mini App?
+* What is the difference between Telegram bots and Telegram Mini Apps?
 * What was the main reason of creation Telegram Stars?
