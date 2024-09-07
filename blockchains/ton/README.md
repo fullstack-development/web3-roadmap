@@ -24,7 +24,7 @@
       - Megaton Finance
     * Liquid staking
       - Tonstakers
-      - bemo
+      - Bemo
       - Stakee
     * Lending protocols
       - EVAA Protocol
