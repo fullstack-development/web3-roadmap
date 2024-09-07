@@ -29,6 +29,9 @@
     * Lending protocols
       - EVAA Protocol
       - DAOLama
+    * Stablecoins
+      - USDt
+      - Aqua Protocol
     * Derivatives
       - Storm Trade
     * Launchpad
