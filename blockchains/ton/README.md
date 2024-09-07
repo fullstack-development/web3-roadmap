@@ -9,7 +9,7 @@
     * Oracles
       - RedStone
     * Explorers
-      - Tonscan
+      - [TONScan](./tonscan.md)
       - Tonviewer
     * Development
       - TON Api
