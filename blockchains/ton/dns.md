@@ -2,6 +2,6 @@
 
 ## Resources:
 
-* [TON DNS](https://toninfo.substack.com/p/ton-dns)
+* [TON DNS](https://dns.ton.org/about.html)
 
 ## Questions:
