@@ -15,6 +15,7 @@
     * Development
       - TON Api
       - dTON
+      - [TON coin price](./price.md)
     * Bridges
   - DeFi
     * DEXes
