@@ -5,9 +5,6 @@
 * [Ecosystem overview](./ecosystem.md)
   - [Wallets](./wallets.md)
   - Infrastructure
-    * Fragment
-    * Oracles
-      - RedStone
     * [Explorers](./explorers.md)
       - [Tonviewer](./tonviewer.md)
       - [NFTscan](./nftscan.md)
@@ -15,6 +12,8 @@
       - TON Api
       - dTON
       - [TON coin price](./price.md)
+    * Oracles
+      - RedStone
     * Bridges
   - DeFi
     * DEXes
@@ -41,8 +40,10 @@
       - SettleTON
       - JVault
    - NFT Marketplaces
-     * Getgems
-     * TON Diamonds
+      * Getgems
+      * TON Diamonds
+      * Fragment
+      * TON DNS
    - GameFi
      * @gamee
      * Catizen
