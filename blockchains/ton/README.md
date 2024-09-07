@@ -9,8 +9,8 @@
     * Oracles
       - RedStone
     * Explorers
+      - [Tonviewer](./tonviewer.md)
       - [TONScan](./tonscan.md)
-      - Tonviewer
     * Development
       - TON Api
       - dTON
