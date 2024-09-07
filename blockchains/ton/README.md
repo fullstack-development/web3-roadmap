@@ -11,9 +11,12 @@
     * Explorers
       - [Tonviewer](./tonviewer.md)
       - [TONScan](./tonscan.md)
+      - [NFTscan](./nftscan.md)
     * Development
       - TON Api
       - dTON
+    * Bridges
+      - 
   - DeFi
     * DEXes
       - STON.fi
