@@ -6,8 +6,6 @@
   - [Wallets](./wallets.md)
   - Infrastructure
     * [Explorers](./explorers.md)
-      - [Tonviewer](./tonviewer.md)
-      - [NFTscan](./nftscan.md)
     * Development
       - TON Api
       - dTON
