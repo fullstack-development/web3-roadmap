@@ -8,9 +8,8 @@
     * Fragment
     * Oracles
       - RedStone
-    * [Explorers](https://ton.app/explorers)
+    * [Explorers](./explorers.md)
       - [Tonviewer](./tonviewer.md)
-      - [TONScan](./tonscan.md)
       - [NFTscan](./nftscan.md)
     * Development
       - TON Api
