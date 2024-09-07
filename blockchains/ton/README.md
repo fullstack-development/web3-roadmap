@@ -4,15 +4,10 @@
 * [TON Basics](./basics.md)
 * [Ecosystem overview](./ecosystem.md)
   - [Wallets](./wallets.md)
-  - Infrastructure
-    * [Explorers](./explorers.md)
-    * Development
-      - TON Api
-      - dTON
-      - [TON coin price](./price.md)
-    * Oracles
-      - RedStone
-    * Bridges
+  - [Explorers](./explorers.md)
+  - [Development](./development.md)
+  - [Oracles](./oracles.md)
+  - [Bridges](./bridges.md)
   - DeFi
     * DEXes
       - STON.fi
