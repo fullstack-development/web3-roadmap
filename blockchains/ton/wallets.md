@@ -15,7 +15,7 @@
 * [How TON Connect works](https://docs.ton.org/develop/dapps/ton-connect/)
 * [TON Connect 2.0 vs 1.0](https://docs.ton.org/develop/dapps/ton-connect/comparison)
 
-## W5
+### W5
 * [Introducing the W5 Smart Wallet: Evolving Transactions on TON Blockchain](https://blog.ton.org/introducing-the-w5-smart-wallet-evolving-transactions-on-ton-blockchain)
 * [How tonkeeper brings gasless](https://tonkeeper.com/en/article/how-tonkeeper-brings-gasless)
 
