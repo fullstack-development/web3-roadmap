@@ -16,7 +16,6 @@
       - TON Api
       - dTON
     * Bridges
-      - 
   - DeFi
     * DEXes
       - STON.fi
