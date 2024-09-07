@@ -14,3 +14,7 @@
 * [TON Connect for Business](https://docs.ton.org/develop/dapps/ton-connect/business#)
 * [How TON Connect works](https://docs.ton.org/develop/dapps/ton-connect/)
 * [TON Connect 2.0 vs 1.0](https://docs.ton.org/develop/dapps/ton-connect/comparison)
+
+### TON API
+
+### dTON
