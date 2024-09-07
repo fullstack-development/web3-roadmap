@@ -36,7 +36,7 @@
       * Getgems
       * TON Diamonds
       * Fragment
-      * TON DNS
+      * [TON DNS](./dns.md)
    - GameFi
      * @gamee
      * Catizen
