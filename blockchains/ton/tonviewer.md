@@ -1,5 +1,0 @@
-# TON viewer
-
-## Resources:
-
-## Questions:
