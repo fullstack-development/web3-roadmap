@@ -8,13 +8,6 @@
 * [Wallet Apps](https://docs.ton.org/participate/wallets/apps)
 * [Types of Wallet Contracts](https://docs.ton.org/participate/wallets/contracts)
 
-### TON connect
-* [TON Connect and how to connect apps](https://wallet.helpscoutdocs.com/article/281-ton-connect-and-how-to-connect-apps)
-* [About TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview)
-* [TON Connect for Business](https://docs.ton.org/develop/dapps/ton-connect/business#)
-* [How TON Connect works](https://docs.ton.org/develop/dapps/ton-connect/)
-* [TON Connect 2.0 vs 1.0](https://docs.ton.org/develop/dapps/ton-connect/comparison)
-
 ### W5
 * [Introducing the W5 Smart Wallet: Evolving Transactions on TON Blockchain](https://blog.ton.org/introducing-the-w5-smart-wallet-evolving-transactions-on-ton-blockchain)
 * [How tonkeeper brings gasless](https://tonkeeper.com/en/article/how-tonkeeper-brings-gasless)
