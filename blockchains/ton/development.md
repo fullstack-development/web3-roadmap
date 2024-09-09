@@ -16,8 +16,7 @@
 * [TON Connect 2.0 vs 1.0](https://docs.ton.org/develop/dapps/ton-connect/comparison)
 
 ### TON API
-
-### dTON
+* [API Types](https://docs.ton.org/develop/dapps/apis/), [TON HTTP-based APIs](https://docs.ton.org/develop/dapps/apis/toncenter), [TON ADNL API](https://docs.ton.org/develop/dapps/apis/adnl)
 
 ### NFTScan
 * [Guide: How to Use NFTScan’s TON API for NFT Application Development](https://medium.com/nftscan/guide-how-to-use-nftscans-ton-api-for-nft-application-development-fb8d0b2464d0) - just look at what data you can extract from it
