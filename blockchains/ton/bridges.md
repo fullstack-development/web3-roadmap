@@ -2,4 +2,4 @@
 
 ## Resources:
 
-* [Bridges](https://ton.app/ru/bridges)
+* [Bridges](https://ton.app/bridges)
