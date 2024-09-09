@@ -18,3 +18,6 @@
 ### TON API
 
 ### dTON
+
+### NFTScan
+* [Guide: How to Use NFTScan’s TON API for NFT Application Development](https://medium.com/nftscan/guide-how-to-use-nftscans-ton-api-for-nft-application-development-fb8d0b2464d0) - just look at what data you can extract from it
