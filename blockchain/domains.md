@@ -7,5 +7,6 @@
 
 ### Unstoppable domains
 * [How To Own Unstoppable Domains](https://www.youtube.com/watch?v=4NfUfq2u1KE)
+* [What is Unstoppable Domain and How Does it Work?](https://tinycryptolabs.medium.com/what-is-unstoppable-domain-and-how-does-it-work-e3aafc5d9037)
 
 ## Questions:
