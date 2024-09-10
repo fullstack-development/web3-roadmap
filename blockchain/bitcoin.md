@@ -12,6 +12,7 @@
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
 * [Bitcoin blocks explorer](https://blockexplorer.one/bitcoin/mainnet)
 * [Bitcoin node size](https://ycharts.com/indicators/bitcoin_blockchain_size)
+* [How Do BLOCKCHAIN Nodes Work? Different Types Explained](https://www.youtube.com/watch?v=Jc0NwgqCtik)
 
 ## Questions:
 
