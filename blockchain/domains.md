@@ -25,4 +25,5 @@
   - Fees;
   - Domain for site;
   - Allowed addresses;
+  - Passing ownership of name;
 * What are the risks of using Unstoppable domains?
