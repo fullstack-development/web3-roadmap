@@ -23,4 +23,5 @@
   - Supported chains;
   - Fees;
   - Domain for site;
+  - Allowed addresses;
 * What are the risks of using Unstoppable domains?
