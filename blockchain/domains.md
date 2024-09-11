@@ -8,6 +8,7 @@
 * [What is ENS? Ethereum Name Service Lookup System](https://www.youtube.com/watch?v=P8RlPsjGaR8)
 * [A COMPREHENSIVE GUIDE TO ETHEREUM NAME SERVICE (ENS) IN CRYPTOCURRENCY](https://medium.com/@feeltheking76/a-comprehensive-guide-to-ethereum-name-service-ens-in-cryptocurrency-29b94943e41e)
 * [Dune @ethereumnameservice / ENS](https://dune.com/ethereumnameservice/ens)
+* [What is ENS? What exactly is ENS & Core Concepts](https://support.ens.domains/en/collections/4027739-what-is-ens)
 
 ### Unstoppable domains
 * [Unstoppable domains](https://unstoppabledomains.com/)
