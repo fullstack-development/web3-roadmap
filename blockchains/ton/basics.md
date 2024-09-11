@@ -12,6 +12,7 @@
 * [Become a Validator](https://ton.org/validators)
 * [Dive into Key Metrics of TON with TonStat](https://www.tonstat.com/)
 * [Transactions explorer](https://tonscan.com/) and [Validation proccess and map of validators](https://tonscan.com/validation)
+* [How a 90s Idea Helped Scale Blockchain: Sharding in TON](https://metalamp.io/magazine/article/sharding-in-ton-how-a-90s-idea-helped-scale-blockchain-and-solve-its-main-problem)
 
 
 
