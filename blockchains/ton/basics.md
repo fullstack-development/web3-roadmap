@@ -2,6 +2,7 @@
 
 ## Resources
 
+* [The Open Network (TON) x Telegram: The Next SUPERAPP??](https://www.youtube.com/watch?v=t9NLv6sr9Cw)
 * [A Deep Dive Into The TON (The Open Network) Ecosystem](https://okxventures.medium.com/a-deep-dive-into-the-ton-the-open-network-ecosystem-34376fdd6082)
 * [TON & Telegram Blockchain Сourse](https://stepik.org/course/176754/syllabus) - Only 2 first chapters
 * [The Open Network: Much More than the Telegram Wallet](https://smartcontract.tips/articoli/ton-telegram-open-network-and-its-wallet)
