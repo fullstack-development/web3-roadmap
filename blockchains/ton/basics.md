@@ -5,6 +5,7 @@
 * [A Deep Dive Into The TON (The Open Network) Ecosystem](https://okxventures.medium.com/a-deep-dive-into-the-ton-the-open-network-ecosystem-34376fdd6082)
 * [TON & Telegram Blockchain Сourse](https://stepik.org/course/176754/syllabus) - Only 2 first chapters
 * [The Open Network: Much More than the Telegram Wallet](https://smartcontract.tips/articoli/ton-telegram-open-network-and-its-wallet)
+* [TON Primer](https://ton.org/primer.pdf)
 
 ## Additional resources
 * [Six unique aspects of TON Blockchain that will surprise Solidity developers](https://blog.ton.org/six-unique-aspects-of-ton-blockchain-that-will-surprise-solidity-developers)
