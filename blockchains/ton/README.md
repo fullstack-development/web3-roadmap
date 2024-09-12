@@ -41,5 +41,5 @@
      * @gamee
      * Catizen
      * Hamster
-   - Community && News && Events
+   - Community & News & Events
    
