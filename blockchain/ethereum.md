@@ -6,6 +6,7 @@
 * [CODE IS LAW? Smart Contracts Explained (Ethereum, DeFi)](https://www.youtube.com/watch?v=pWGLtjG-F5c)
 * [What are Smart Contracts in Crypto? (4 Examples + Animated)](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [What is Ethereum Gas? (Examples + Easy Explanation)](https://www.youtube.com/watch?v=3ehaSqwUZ0s)
+* [What is the EVM? Ethereum Virtual Machine - Explained with Animations](https://www.youtube.com/watch?v=sTOcqS4msoU)
 
 ## Additional resources:
 * [etherscan.io - Ethereum transactions scanner](https://etherscan.io/)
