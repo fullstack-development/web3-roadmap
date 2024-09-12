@@ -2,6 +2,7 @@
 
 * [Telegram](./telegram.md) 
 * [TON Basics](./basics.md)
+* Community & News & Events
 * [Ecosystem overview](./ecosystem.md)
   - [Wallets](./wallets.md)
   - [Explorers](./explorers.md)
@@ -41,5 +42,4 @@
      * @gamee
      * Catizen
      * Hamster
-   - Community & News & Events
    
