@@ -13,3 +13,4 @@
 - [Interoperability](interoperability/README.md) 
 - [Scallability](scale.md)
 - [Mixers](mixers.md)
+- [Human readable domains](domains.md)
