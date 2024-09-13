@@ -21,7 +21,6 @@
 * How does DNS work and what is it?
 * What is Ethereum Name Service?
 * What is the difference between ENS and Unstoppable domains in:
-  - Implementation;
   - Supported chains;
   - Fees;
   - Domain for site;
