@@ -11,7 +11,7 @@
   - [Bridges](./bridges.md)
   - DeFi
     * DEXes
-      - STON.fi
+      - [STON.fi](stonfi.md)
       - DeDust
       - Megaton Finance
     * Liquid staking
