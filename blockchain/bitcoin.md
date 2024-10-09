@@ -6,13 +6,14 @@
 * [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [How Public and Private Key Work In Your Crypto Wallets](https://www.youtube.com/watch?v=bvSJm7fHXto)
 * [What is a Cryptographic Hashing Function? (Example + Purpose)](https://www.youtube.com/watch?v=gTfNtop9vzM)
-* [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
+
 
 ## Additional resources:
 * [What are Blockchain Confirmations and Why Do We Need Them?](https://originstamp.com/blog/what-are-blockchain-confirmations-and-why-do-we-need-them/)
 * [Bitcoin blocks explorer](https://blockexplorer.one/bitcoin/mainnet)
-* [Bitcoin node size](https://ycharts.com/indicators/bitcoin_blockchain_size)
+* [What is a Bitcoin node? A beginner’s guide on blockchain nodes](https://cointelegraph.com/bitcoin-for-beginners/what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes)
 * [How Do BLOCKCHAIN Nodes Work? Different Types Explained](https://www.youtube.com/watch?v=Jc0NwgqCtik)
+* [Bitcoin node size](https://ycharts.com/indicators/bitcoin_blockchain_size)
 
 ## Questions:
 
