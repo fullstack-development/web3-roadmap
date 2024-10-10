@@ -28,3 +28,6 @@
 * What is the difference between a chain of states and a chain of changes?
 * What is storage in the smart contract of the Ethereum network?
 * Is it real to change contract code?
+
+## Tasks:
+* Look at what the code of smart contract looks like [here](https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7#code)
