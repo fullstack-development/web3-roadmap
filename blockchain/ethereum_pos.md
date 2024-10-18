@@ -10,7 +10,7 @@
 
 * [One Year After the Merge: Where Does Ethereum Stand?](https://decrypt.co/197341/one-year-after-the-merge-where-does-ethereum-stand)
 * [Lido Protocol](https://medium.com/bracket-labs/lido-protocol-48ceb046aa1a)
-* [Ethereum Staking Pools: The Risks of Lido's Centralization](https://www.hord.fi/blog/ethereum-staking-pools-the-risks-of-lidos-centralization)
+* [Ethereum Staking Pools: The Risks of Lido's Centralization](https://www.hord.fi/blog/ethereum-staking-pools-the-risks-of-lidos-centralization) [ETH staking market share](https://dune.com/hildobby/eth2-staking)
 
 ## Questions:
 
