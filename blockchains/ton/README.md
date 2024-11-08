@@ -13,7 +13,6 @@
     * DEXes
       - [STON.fi](stonfi.md)
       - [DeDust](dedust.md)
-      - Megaton Finance
     * Liquid staking
       - Tonstakers
       - Bemo
