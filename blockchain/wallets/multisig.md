@@ -8,14 +8,15 @@
 * [What Is a Multisig Wallet?](https://academy.binance.com/en/articles/what-is-a-multisig-wallet)
 
 ## Additional resources:
-* [Gnosis Safe Tutorial | Multisig Wallet for DeFi](https://www.youtube.com/watch?v=GHyxe32Z814)
-
+* [How to Create a MultiSig Wallet Using Gnosis SAFE](https://www.youtube.com/watch?v=JoFYldw6hVE)
+  
 ## Questions:
 
 * What is multisig?
 * What benefits does multisig have?
 * Does using of multisig have any risks?
 * What is Gnosis Safe?
+* Name some cases when you can get advantages of using multisig?
 
 ## Tasks:
 
