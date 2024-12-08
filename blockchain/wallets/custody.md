@@ -18,3 +18,4 @@
 * What are the most popular custody providers?
 * What are the main purposes of using third party custody provider for business?
 * Are there any regulatory requirements to store keys with third-party providers?
+* What conclusions can be drawn from the [incident](https://www.coindesk.com/business/2023/02/01/crypto-custody-firm-copper-alerted-to-security-incident-over-christmas) with the Copper custody provider?
