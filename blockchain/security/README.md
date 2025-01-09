@@ -7,3 +7,12 @@
     - [Double spending Attack](./double-spending.md)
     - [MEV](./mev.md)
 * [Smart-contracts security](./smart-contracts-security.md)
+
+## Interactive test
+
+Learn how to **recognize phishing and scams in the crypto space** through interactive, realistic scenarios featuring notorious threats.
+
+Go to [Phishing Dojo](https://phishing.therektgames.com/about).
+
+Developed by [The Red Guild](https://theredguild.org/).
+
