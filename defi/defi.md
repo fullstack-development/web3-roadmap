@@ -8,7 +8,6 @@
 * [Everything About DeFi Development One Should Know In 2023!](https://blog.cryptostars.is/everything-about-defi-development-one-should-know-in-2023-55f7a89547b4)
 
 ## Additional resources:
-* [Why TVL matters in DeFi](https://blog.thestandard.io/why-total-value-locked-tvl-matters-in-defi-d6937bfc6b6d)
 * [DEFI - From Inception To 2021 And Beyond (History Of Decentralized Finance Explained)](https://finematics.com/history-of-defi-explained/)
 
 
